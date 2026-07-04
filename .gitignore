@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+.tmp/cron_log.txt
+.tmp/automation_pipeline_log.txt

@@ -1,0 +1,284 @@
+{
+  "agustinamingote@gmail.com": {
+    "name": "Jin's Painting",
+    "trade": "painter",
+    "sent_at": "2026-07-03T00:51:07.327083+10:00",
+    "followup_sent_at": null
+  },
+  "info@advancepainting.com.au": {
+    "name": "Advanced Painting Pty Ltd",
+    "trade": "painter",
+    "sent_at": "2026-07-03T00:51:14.838687+10:00",
+    "followup_sent_at": null
+  },
+  "info@opcpainting.com.au": {
+    "name": "OPC Painting",
+    "trade": "painter",
+    "sent_at": "2026-07-03T00:51:22.500017+10:00",
+    "followup_sent_at": null
+  },
+  "admin@globalartaustralia.com.au": {
+    "name": "Global Art Hornsby",
+    "trade": "painter",
+    "sent_at": "2026-07-03T00:51:30.932435+10:00",
+    "followup_sent_at": null
+  },
+  "info@radpainting.com.au": {
+    "name": "Rad Painting & Decoration Painters",
+    "trade": "painter",
+    "sent_at": "2026-07-03T00:51:38.966742+10:00",
+    "followup_sent_at": null
+  },
+  "peopleandhouse1@gmail.com": {
+    "name": "People and House",
+    "trade": "painter",
+    "sent_at": "2026-07-03T00:51:46.350477+10:00",
+    "followup_sent_at": null
+  },
+  "martin@precisionlandscapes.biz": {
+    "name": "Precision Landscapes Pty Ltd",
+    "trade": "landscaper",
+    "sent_at": "2026-07-03T00:51:53.734569+10:00",
+    "followup_sent_at": null
+  },
+  "info@arcroofing.com.au": {
+    "name": "Architectural Roofing and Wall Cladding",
+    "trade": "roofer",
+    "sent_at": "2026-07-03T00:52:01.071568+10:00",
+    "followup_sent_at": null
+  },
+  "%20info@tomkatroofing.com.au": {
+    "name": "Tomkat Roofing Pty LTd",
+    "trade": "roofer",
+    "sent_at": "2026-07-03T00:52:08.505860+10:00",
+    "followup_sent_at": null
+  },
+  "anytimemotorshornsby@gmail.com": {
+    "name": "Anytime Motors Hornsby (혼스비 한인 자동차 정비)",
+    "trade": "mechanic",
+    "sent_at": "2026-07-03T00:52:15.936373+10:00",
+    "followup_sent_at": null
+  },
+  "contact@johnscottmotors.com.au": {
+    "name": "John Scott Motors Hornsby",
+    "trade": "mechanic",
+    "sent_at": "2026-07-03T00:52:23.286908+10:00",
+    "followup_sent_at": null
+  },
+  "info@visionone.net.au": {
+    "name": "VisionOne Mechanical",
+    "trade": "mechanic",
+    "sent_at": "2026-07-03T00:52:30.868896+10:00",
+    "followup_sent_at": null
+  },
+  "sales@macquarielocksmiths.com.au": {
+    "name": "Macquarie Locksmiths",
+    "trade": "locksmith",
+    "sent_at": "2026-07-03T00:52:38.202669+10:00",
+    "followup_sent_at": null
+  },
+  "info@hometermitecontrol.com.au": {
+    "name": "Home Termite Control Pty Ltd",
+    "trade": "pest control",
+    "sent_at": "2026-07-03T00:52:45.580738+10:00",
+    "followup_sent_at": null
+  },
+  "sydney@flick.com.au": {
+    "name": "Flick Pest Control Sydney",
+    "trade": "pest control",
+    "sent_at": "2026-07-03T00:52:52.964358+10:00",
+    "followup_sent_at": null
+  },
+  "vijaypal@starcarwash.com.au": {
+    "name": "Star Car Wash - Westfield Hornsby (Orange Level Car Park)",
+    "trade": "cleaner",
+    "sent_at": "2026-07-03T00:53:00.407816+10:00",
+    "followup_sent_at": null
+  },
+  "hello@miraclemaid.com.au": {
+    "name": "Miracle Maid",
+    "trade": "cleaner",
+    "sent_at": "2026-07-03T00:53:07.910892+10:00",
+    "followup_sent_at": null
+  },
+  "info@carremovalshornsby.com.au": {
+    "name": "Car Removals Hornsby",
+    "trade": "removalist",
+    "sent_at": "2026-07-03T00:53:15.223010+10:00",
+    "followup_sent_at": null
+  },
+  "info@wemovegroup.com.au": {
+    "name": "We Move Sydney",
+    "trade": "removalist",
+    "sent_at": "2026-07-03T00:53:22.602162+10:00",
+    "followup_sent_at": null
+  },
+  "goozgardens@gmail.com": {
+    "name": "Go Oz Home and Garden Care",
+    "trade": "gardener",
+    "sent_at": "2026-07-03T00:53:29.910863+10:00",
+    "followup_sent_at": null
+  },
+  "grenegardening@gmail.com": {
+    "name": "Grene gardening",
+    "trade": "gardener",
+    "sent_at": "2026-07-03T00:53:37.260148+10:00",
+    "followup_sent_at": null
+  },
+  "enquiries@gardeningnorthside.com.au": {
+    "name": "Gardening Northside - Gardeners North Shore",
+    "trade": "gardener",
+    "sent_at": "2026-07-03T00:53:44.569695+10:00",
+    "followup_sent_at": null
+  },
+  "sales@prioritytrees.com.au": {
+    "name": "Priority Tree Services",
+    "trade": "gardener",
+    "sent_at": "2026-07-03T00:53:52.119283+10:00",
+    "followup_sent_at": null
+  },
+  "admin@drgarden.com.au": {
+    "name": "Dr Garden",
+    "trade": "gardener",
+    "sent_at": "2026-07-03T00:53:59.648537+10:00",
+    "followup_sent_at": null
+  },
+  "mehmaanhornsby@gmail.com": {
+    "name": "Mehmaan Indian Cuisine",
+    "trade": "restaurant",
+    "sent_at": "2026-07-03T00:54:07.161280+10:00",
+    "followup_sent_at": null
+  },
+  "info@thefoxandhounds.com.au": {
+    "name": "Fox and Hounds",
+    "trade": "restaurant",
+    "sent_at": "2026-07-03T00:54:14.661954+10:00",
+    "followup_sent_at": null
+  },
+  "hornaby.william@absolutethaigroup.com.au": {
+    "name": "Absolute Thai - Hornsby Westfield",
+    "trade": "restaurant",
+    "sent_at": "2026-07-03T00:54:22.215709+10:00",
+    "followup_sent_at": null
+  },
+  "takeyacontactus@gmail.com": {
+    "name": "Takeya Japanese Teishoku Restaurant",
+    "trade": "restaurant",
+    "sent_at": "2026-07-03T00:54:29.869012+10:00",
+    "followup_sent_at": null
+  },
+  "hi@mystore.com": {
+    "name": "Cafe Forest",
+    "trade": "cafe",
+    "sent_at": "2026-07-03T00:54:37.411194+10:00",
+    "followup_sent_at": null
+  },
+  "berowra@absolutethaigroup.com.au": {
+    "name": "Cozy cups by Absolute Thai",
+    "trade": "cafe",
+    "sent_at": "2026-07-03T00:54:50.836928+10:00",
+    "followup_sent_at": null
+  },
+  "hello@steamtankcoffee.com.au": {
+    "name": "SteamTank Coffee Hornsby",
+    "trade": "cafe",
+    "sent_at": "2026-07-03T00:54:59.076260+10:00",
+    "followup_sent_at": null
+  },
+  "brewhahacafe@hotmail.com": {
+    "name": "Brewhaha",
+    "trade": "cafe",
+    "sent_at": "2026-07-03T00:55:06.564261+10:00",
+    "followup_sent_at": null
+  },
+  "hello@coffeedrs.com": {
+    "name": "Coffee DRS Hornsby",
+    "trade": "cafe",
+    "sent_at": "2026-07-03T00:55:14.290650+10:00",
+    "followup_sent_at": null
+  },
+  "familyaffaircatering@y7mail.com": {
+    "name": "Family Affair Catering",
+    "trade": "catering",
+    "sent_at": "2026-07-03T00:55:21.859988+10:00",
+    "followup_sent_at": null
+  },
+  "order@mysorecafe.com.au": {
+    "name": "Mysore Cafe Catering",
+    "trade": "catering",
+    "sent_at": "2026-07-03T00:55:29.300005+10:00",
+    "followup_sent_at": null
+  },
+  "info@flavourscatering.com.au": {
+    "name": "Flavours Catering + Events",
+    "trade": "catering",
+    "sent_at": "2026-07-03T00:55:36.777215+10:00",
+    "followup_sent_at": null
+  },
+  "admin@cateringbydesign.com.au": {
+    "name": "Catering By Design - Northern Beaches",
+    "trade": "catering",
+    "sent_at": "2026-07-03T00:55:44.310103+10:00",
+    "followup_sent_at": null
+  },
+  "bookings@lovebitescatering.com.au": {
+    "name": "LoveBites Catering",
+    "trade": "catering",
+    "sent_at": "2026-07-03T00:55:51.841992+10:00",
+    "followup_sent_at": null
+  },
+  "info@cateredbymatt.com": {
+    "name": "Catered By Matt",
+    "trade": "catering",
+    "sent_at": "2026-07-03T00:55:59.328093+10:00",
+    "followup_sent_at": null
+  },
+  "hornsby@soulorigin.com.au": {
+    "name": "Soul Origin Hornsby",
+    "trade": "catering",
+    "sent_at": "2026-07-03T00:56:06.648806+10:00",
+    "followup_sent_at": null
+  },
+  "nick@huntervalleycatering.com.au": {
+    "name": "Hunter Valley Catering",
+    "trade": "catering",
+    "sent_at": "2026-07-04T14:53:35.130961+10:00",
+    "followup_sent_at": null
+  },
+  "chef@monkeyplacecatering.com.au": {
+    "name": "Monkey Place Catering",
+    "trade": "catering",
+    "sent_at": "2026-07-04T14:53:42.773641+10:00",
+    "followup_sent_at": null
+  },
+  "admin@plateevents.com.au": {
+    "name": "Plate Events & Catering",
+    "trade": "catering",
+    "sent_at": "2026-07-04T14:53:50.122081+10:00",
+    "followup_sent_at": null
+  },
+  "info@silverpantry.com.au": {
+    "name": "Silver Pantry",
+    "trade": "catering",
+    "sent_at": "2026-07-04T14:53:57.468194+10:00",
+    "followup_sent_at": null
+  },
+  "chermside@brooklyndonutcoffeeco.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-07-04T14:54:04.838701+10:00",
+    "followup_sent_at": null
+  },
+  "office@glenoriebakery.com.au": {
+    "name": "Glenorie Bakery",
+    "trade": "bakery",
+    "sent_at": "2026-07-04T14:54:12.221312+10:00",
+    "followup_sent_at": null
+  },
+  "hello@shepherds.com.au": {
+    "name": "Shepherd's Artisian Bakehouse",
+    "trade": "bakery",
+    "sent_at": "2026-07-04T14:54:19.632233+10:00",
+    "followup_sent_at": null
+  }
+}

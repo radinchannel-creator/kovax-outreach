@@ -1,0 +1,61 @@
+name: Kovax Outreach
+
+on:
+  schedule:
+    # Monday 9am AEST (UTC+10) = Sunday 23:00 UTC — full pipeline with fresh scrape
+    - cron: '0 23 * * 0'
+    # Tue–Fri 9am AEST = Mon–Thu 23:00 UTC — send only, reuse existing leads
+    - cron: '0 23 * * 1-4'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Skip business hours check'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  outreach:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Write .env from secrets
+        run: |
+          echo "KOVAX_EMAIL=${{ secrets.KOVAX_EMAIL }}" >> .env
+          echo "KOVAX_GMAIL_APP_PASSWORD=${{ secrets.KOVAX_GMAIL_APP_PASSWORD }}" >> .env
+          echo "GOOGLE_PLACES_API_KEY=${{ secrets.GOOGLE_PLACES_API_KEY }}" >> .env
+
+      - name: Run full pipeline (Monday — scrape + send)
+        if: github.event.schedule == '0 23 * * 0'
+        run: python tools/run_automation_pipeline.py --limit 40 --force
+
+      - name: Run send-only pipeline (Tue–Fri)
+        if: github.event.schedule == '0 23 * * 1-4'
+        run: python tools/run_automation_pipeline.py --skip-scrape --limit 40 --force
+
+      - name: Run manual trigger
+        if: github.event_name == 'workflow_dispatch'
+        run: python tools/run_automation_pipeline.py --skip-scrape --limit 40 --force
+
+      - name: Save state back to repo
+        run: |
+          git config user.name "kovax-bot"
+          git config user.email "kovax-bot@users.noreply.github.com"
+          git add .tmp/
+          git diff --cached --quiet || git commit -m "chore: update outreach state [skip ci]"
+          git push
