@@ -25,7 +25,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).parent.parent
 LOG_FILE = BASE_DIR / ".tmp" / "automation_pipeline_log.txt"
-PYTHON   = str(BASE_DIR / ".venv" / "bin" / "python")
+PYTHON   = sys.executable  # works in .venv locally and in GitHub Actions
 
 
 def log(msg: str) -> None:
