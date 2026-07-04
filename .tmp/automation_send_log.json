@@ -280,5 +280,239 @@
     "trade": "bakery",
     "sent_at": "2026-07-04T14:54:19.632233+10:00",
     "followup_sent_at": null
+  },
+  "info@hornsbydentist.com.au": {
+    "name": "Hornsby Dental | Cosmetique Dental",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:11:53.906825+10:00",
+    "followup_sent_at": null
+  },
+  "info@nogapsdental.com": {
+    "name": "No Gaps Dental Hornsby",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:12:00.843123+10:00",
+    "followup_sent_at": null
+  },
+  "info@whitecrossdental.com.au": {
+    "name": "White Cross Hornsby Dental",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:12:08.284441+10:00",
+    "followup_sent_at": null
+  },
+  "info@happysmilesdentist.com.au": {
+    "name": "Happy Smiles Dentist Hornsby",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:12:15.227104+10:00",
+    "followup_sent_at": null
+  },
+  "reception@piazzadental.com.au": {
+    "name": "Piazza Dental Hornsby",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:12:22.739636+10:00",
+    "followup_sent_at": null
+  },
+  "hornsby@mirabeldental.com.au": {
+    "name": "Good Morning Dental Hornsby",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:12:30.144020+10:00",
+    "followup_sent_at": null
+  },
+  "info@gentlecaredentistry.com.au": {
+    "name": "Gentle Care Dentistry",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:12:38.508636+10:00",
+    "followup_sent_at": null
+  },
+  "masterydental@gmail.com": {
+    "name": "Mastery Hornsby Dental Clinic",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:12:46.368394+10:00",
+    "followup_sent_at": null
+  },
+  "hornsby@dentallifeline.com.au": {
+    "name": "Hornsby Dental Lifeline",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:12:53.274420+10:00",
+    "followup_sent_at": null
+  },
+  "admin@whitehousedental.com.au": {
+    "name": "Whitehouse Dental Services",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:13:00.232739+10:00",
+    "followup_sent_at": null
+  },
+  "hasna.shahid@gmail.com": {
+    "name": "Smile Health Dental Care",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:13:06.883364+10:00",
+    "followup_sent_at": null
+  },
+  "info@hornsbyfountaindental.com.au": {
+    "name": "Hornsby Fountain Dental Clinic",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:13:13.645144+10:00",
+    "followup_sent_at": null
+  },
+  "info@edgeworthfamilydental.com.au": {
+    "name": "Edgeworth Family Dental",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:13:20.490569+10:00",
+    "followup_sent_at": null
+  },
+  "rob.harris@analogfolk.com": {
+    "name": "HCF Dental Centre At Hornsby",
+    "trade": "dentist",
+    "sent_at": "2026-07-05T04:13:27.172861+10:00",
+    "followup_sent_at": null
+  },
+  "hello@hornsby.health": {
+    "name": "Hornsby Health - Physiotherapy, Chiropractic, Exercise Physiology",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:13:33.885419+10:00",
+    "followup_sent_at": null
+  },
+  "hornsbyphysiotherapy@gmail.com": {
+    "name": "Narelle Veverka",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:14:58.340210+10:00",
+    "followup_sent_at": null
+  },
+  "reception@infinitehealthgroup.com.au": {
+    "name": "Infinite Health | Hornsby Physio, Chiro & Remedial Massage",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:13:47.731776+10:00",
+    "followup_sent_at": null
+  },
+  "info@physiotherapyhornsby.com.au": {
+    "name": "Functional Health Physio (prev. Butel Health Services)",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:13:54.424234+10:00",
+    "followup_sent_at": null
+  },
+  "reception@pro-active.com.au": {
+    "name": "ProActive Health Hornsby",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:14:01.227840+10:00",
+    "followup_sent_at": null
+  },
+  "admin@reachandrise.com.au": {
+    "name": "Reach & Rise Physio",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:14:08.150068+10:00",
+    "followup_sent_at": null
+  },
+  "info@staywellphysiotherapy.com.au": {
+    "name": "Staywell Physiotherapy",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:14:15.047963+10:00",
+    "followup_sent_at": null
+  },
+  "hornsbyphysiochiro@gmail.com": {
+    "name": "Hornsby Physio & Chiro Clinic",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:14:22.029601+10:00",
+    "followup_sent_at": null
+  },
+  "hello@opt.net.au": {
+    "name": "Optimum Health Solutions - Hornsby",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:14:29.042973+10:00",
+    "followup_sent_at": null
+  },
+  "%20admin@haydenkelly.com.au": {
+    "name": "Hayden Kelly Exercise Physiology & Sports Nutrition Hornsby",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:14:35.868005+10:00",
+    "followup_sent_at": null
+  },
+  "info@nanophysiotherapy.com.au": {
+    "name": "Nano Physiotherapy",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:14:43.659168+10:00",
+    "followup_sent_at": null
+  },
+  "hello@womenshealthmatters.com.au": {
+    "name": "Women's Health Matters",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:14:51.001242+10:00",
+    "followup_sent_at": null
+  },
+  "info@dmphysio.com.au": {
+    "name": "Dynamic Motion Physiotherapy & Exercise Physiology, Asquith",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-05T04:15:05.608007+10:00",
+    "followup_sent_at": null
+  },
+  "admin@hornsbychiropractic.com.au": {
+    "name": "Hornsby Chiropractic Centre",
+    "trade": "chiropractor",
+    "sent_at": "2026-07-05T04:15:13.220597+10:00",
+    "followup_sent_at": null
+  },
+  "info@jungchiro.au": {
+    "name": "Jung Chiropractic_Gonstead Chiropractor (Hornsby)",
+    "trade": "chiropractor",
+    "sent_at": "2026-07-05T04:15:19.993058+10:00",
+    "followup_sent_at": null
+  },
+  "chiro@spinalhealth.com.au": {
+    "name": "Chiropractic Spinal Health",
+    "trade": "chiropractor",
+    "sent_at": "2026-07-05T04:15:26.751464+10:00",
+    "followup_sent_at": null
+  },
+  "%20info@vividchiro.com.au": {
+    "name": "Vivid Health Chiropractic",
+    "trade": "chiropractor",
+    "sent_at": "2026-07-05T04:15:33.533895+10:00",
+    "followup_sent_at": null
+  },
+  "admin@amhealthperformance.com": {
+    "name": "AM Health & Performance",
+    "trade": "chiropractor",
+    "sent_at": "2026-07-05T04:15:40.560243+10:00",
+    "followup_sent_at": null
+  },
+  "neurocare_chiropractic@hotmail.com": {
+    "name": "Neurocare Chiropractic",
+    "trade": "chiropractor",
+    "sent_at": "2026-07-05T04:15:47.798797+10:00",
+    "followup_sent_at": null
+  },
+  "info@northerneyesurgery.com.au": {
+    "name": "Northern Eye Surgery",
+    "trade": "optometrist",
+    "sent_at": "2026-07-05T04:15:54.629596+10:00",
+    "followup_sent_at": null
+  },
+  "hornsbykuringgai@pcycnsw.org.au": {
+    "name": "PCYC Hornsby / Ku-ring-gai",
+    "trade": "gym",
+    "sent_at": "2026-07-05T04:16:01.543243+10:00",
+    "followup_sent_at": null
+  },
+  "julie@juliefreemancoaching.com.au": {
+    "name": "Freeman's Fitness Training Studio - Hornsby",
+    "trade": "gym",
+    "sent_at": "2026-07-05T04:16:08.469897+10:00",
+    "followup_sent_at": null
+  },
+  "hornsby@joyinmovement.com.au": {
+    "name": "Joy in Movement - J.I.M Hornsby",
+    "trade": "gym",
+    "sent_at": "2026-07-05T04:16:15.164763+10:00",
+    "followup_sent_at": null
+  },
+  "smile@kulabody.com": {
+    "name": "KULA BODY",
+    "trade": "yoga studio",
+    "sent_at": "2026-07-05T04:16:21.857133+10:00",
+    "followup_sent_at": null
+  },
+  "gordon@flowwellstudio.com": {
+    "name": "Flow Well Studio Gordon",
+    "trade": "yoga studio",
+    "sent_at": "2026-07-05T04:16:28.840356+10:00",
+    "followup_sent_at": null
   }
 }
