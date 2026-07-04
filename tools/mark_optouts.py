@@ -4,25 +4,24 @@ Scan Gmail inbox for replies to our outreach emails.
   - Any reply from someone we emailed → mark as "replied" (skip follow-ups)
   - Replies containing opt-out keywords → also add to blocklist (never email again)
 
+Two-pass IMAP scan: headers first (fast), full body only for matches.
+
 Updates:
   .tmp/automation_sent.json     (adds opt-outs to blocklist)
   .tmp/automation_replied.json  (all repliers — used to skip follow-ups)
-
-Usage:
-  python tools/mark_optouts.py            # scan + write
-  python tools/mark_optouts.py --dry-run  # show matches, don't write
 """
 
 import argparse
 import email as email_lib
 import imaplib
 import json
+import os
 import re
+import socket
 import sys
 from pathlib import Path
 
 from dotenv import load_dotenv
-import os
 
 BASE_DIR      = Path(__file__).parent.parent
 SENT_FILE     = BASE_DIR / ".tmp" / "automation_sent.json"
@@ -41,6 +40,8 @@ OPTOUT_RE = re.compile(
 
 EMAIL_RE = re.compile(r"[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}")
 
+socket.setdefaulttimeout(60)
+
 
 def load_json_set(path: Path) -> set[str]:
     if path.exists():
@@ -54,6 +55,13 @@ def save_json_set(path: Path, s: set[str]) -> None:
         json.dump(sorted(s), f, indent=2)
 
 
+def connect() -> imaplib.IMAP4_SSL:
+    mail = imaplib.IMAP4_SSL("imap.gmail.com")
+    mail.login(GMAIL_USER, APP_PASS)
+    mail.select("inbox")
+    return mail
+
+
 def get_plain_text(msg) -> str:
     parts = []
     for part in msg.walk():
@@ -65,7 +73,8 @@ def get_plain_text(msg) -> str:
     return "\n".join(parts)
 
 
-def extract_from_address(msg) -> str | None:
+def extract_from_address(raw: bytes) -> str | None:
+    msg = email_lib.message_from_bytes(raw)
     from_header = msg.get("From", "")
     matches = EMAIL_RE.findall(from_header)
     return matches[0].lower() if matches else None
@@ -88,41 +97,79 @@ def main():
         return
 
     print(f"Connecting to Gmail IMAP as {GMAIL_USER}...")
-    mail = imaplib.IMAP4_SSL("imap.gmail.com")
-    mail.login(GMAIL_USER, APP_PASS)
-    mail.select("inbox")
+    try:
+        mail = connect()
+    except Exception as e:
+        print(f"ERROR: Could not connect to Gmail IMAP: {e}")
+        sys.exit(1)
 
-    # Search recent inbox
+    # Get all message UIDs
     status, data = mail.search(None, "ALL")
     uids = data[0].split() if data[0] else []
-    print(f"Scanning {len(uids)} inbox messages...")
+    print(f"Pass 1: scanning {len(uids)} message headers...")
 
-    new_replied  = set()
-    new_optouts  = set()
+    # Pass 1: fetch only From headers in batches — much faster than full RFC822
+    candidates = []  # (uid_bytes, sender_str)
+    BATCH = 50
+    for i in range(0, len(uids), BATCH):
+        batch = b",".join(uids[i : i + BATCH])
+        try:
+            status, items = mail.fetch(batch, "(BODY.PEEK[HEADER.FIELDS (FROM)])")
+        except (imaplib.IMAP4.abort, OSError):
+            try:
+                mail = connect()
+                status, items = mail.fetch(batch, "(BODY.PEEK[HEADER.FIELDS (FROM)])")
+            except Exception:
+                print(f"  Skipping batch {i//BATCH + 1} after reconnect failure")
+                continue
 
-    for uid in uids:
-        status, msg_data = mail.fetch(uid, "(RFC822)")
+        for item in items:
+            if not isinstance(item, tuple):
+                continue
+            uid_match = re.search(rb"(\d+) FETCH", item[0])
+            if not uid_match:
+                continue
+            uid = uid_match.group(1)
+            sender = extract_from_address(item[1])
+            if sender and sender in sent_set and sender != GMAIL_USER.lower():
+                candidates.append((uid, sender))
+
+    print(f"Pass 2: fetching full body for {len(candidates)} candidate(s)...")
+
+    new_replied = set()
+    new_optouts = set()
+
+    for uid, sender in candidates:
+        if sender in replied_set:
+            continue
+        try:
+            status, msg_data = mail.fetch(uid, "(RFC822)")
+        except (imaplib.IMAP4.abort, OSError):
+            try:
+                mail = connect()
+                status, msg_data = mail.fetch(uid, "(RFC822)")
+            except Exception:
+                print(f"  Skipping {sender} after reconnect failure")
+                continue
+
         if status != "OK":
             continue
-        msg = email_lib.message_from_bytes(msg_data[0][1])
-        sender = extract_from_address(msg)
-        if not sender or sender == GMAIL_USER.lower():
-            continue
-        if sender not in sent_set:
-            continue  # not someone we emailed
 
+        msg = email_lib.message_from_bytes(msg_data[0][1])
         body = get_plain_text(msg)
         is_optout = bool(OPTOUT_RE.search(body))
 
-        if sender not in replied_set:
-            new_replied.add(sender)
-            label = "OPT-OUT" if is_optout else "reply"
-            print(f"  [{label}] {sender}  — {msg.get('Subject', '')[:60]}")
+        new_replied.add(sender)
+        label = "OPT-OUT" if is_optout else "reply"
+        print(f"  [{label}] {sender}  — {msg.get('Subject', '')[:60]}")
 
         if is_optout:
             new_optouts.add(sender)
 
-    mail.logout()
+    try:
+        mail.logout()
+    except Exception:
+        pass
 
     if not new_replied:
         print("No new replies found from people we emailed.")
