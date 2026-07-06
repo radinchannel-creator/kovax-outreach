@@ -514,5 +514,179 @@
     "trade": "yoga studio",
     "sent_at": "2026-07-05T04:16:28.840356+10:00",
     "followup_sent_at": null
+  },
+  "info@barrieauto.com.au": {
+    "name": "Barrie Automotive Services",
+    "trade": "electrician",
+    "sent_at": "2026-07-06T10:57:21.132457+10:00",
+    "followup_sent_at": null
+  },
+  "team@latofonts.com": {
+    "name": "Chris Evans Carpentry and handyman Services",
+    "trade": "carpenter",
+    "sent_at": "2026-07-06T10:57:28.495687+10:00",
+    "followup_sent_at": null
+  },
+  "%20sydneyaffordablepainting@outlook.com": {
+    "name": "ABSOLUTELY AFFORDABLE PAINTING & DECORATION - Painting Services",
+    "trade": "painter",
+    "sent_at": "2026-07-06T10:57:35.653360+10:00",
+    "followup_sent_at": null
+  },
+  "info@insp.com.au": {
+    "name": "Inspirations Paint Hornsby",
+    "trade": "painter",
+    "sent_at": "2026-07-06T10:57:42.691970+10:00",
+    "followup_sent_at": null
+  },
+  "info@mydriveway.com.au": {
+    "name": "myDriveway",
+    "trade": "concreter",
+    "sent_at": "2026-07-06T10:57:49.820399+10:00",
+    "followup_sent_at": null
+  },
+  "sales@adhesiveengineering.com.au": {
+    "name": "ADHESIVE ENGINEERING NSW",
+    "trade": "concreter",
+    "sent_at": "2026-07-06T10:57:57.299978+10:00",
+    "followup_sent_at": null
+  },
+  "online@ambertiles.com.au": {
+    "name": "Amber Hornsby",
+    "trade": "tiler",
+    "sent_at": "2026-07-06T10:58:04.547404+10:00",
+    "followup_sent_at": null
+  },
+  "hello@cleaningease.com": {
+    "name": "Cleaning Ease",
+    "trade": "cleaning service",
+    "sent_at": "2026-07-06T10:58:11.637754+10:00",
+    "followup_sent_at": null
+  },
+  "info@billremovalistssydney.com.au": {
+    "name": "Bill Removalists Sydney",
+    "trade": "removalist",
+    "sent_at": "2026-07-06T10:58:19.038057+10:00",
+    "followup_sent_at": null
+  },
+  "info@bondiremovals.com.au": {
+    "name": "Bondi Removals",
+    "trade": "removalist",
+    "sent_at": "2026-07-06T10:58:26.333970+10:00",
+    "followup_sent_at": null
+  },
+  "hornsby@kss.com.au": {
+    "name": "Kennards Self Storage Hornsby",
+    "trade": "removalist",
+    "sent_at": "2026-07-06T10:58:34.039821+10:00",
+    "followup_sent_at": null
+  },
+  "office@mayfairremovals.com.au": {
+    "name": "Mayfair Removals",
+    "trade": "removalist",
+    "sent_at": "2026-07-06T10:58:41.325802+10:00",
+    "followup_sent_at": null
+  },
+  "perth@kentremovalsstorage.com.au": {
+    "name": "Kent Removals & Storage - Sydney",
+    "trade": "removalist",
+    "sent_at": "2026-07-06T10:58:48.525659+10:00",
+    "followup_sent_at": null
+  },
+  "barangaroo@butchersblockgroup.com.au": {
+    "name": "The Butcher's Block",
+    "trade": "restaurant",
+    "sent_at": "2026-07-06T10:58:55.532434+10:00",
+    "followup_sent_at": null
+  },
+  "hello@hornsbyrsl.com.au": {
+    "name": "Hornsby RSL Club",
+    "trade": "restaurant",
+    "sent_at": "2026-07-06T10:59:02.730810+10:00",
+    "followup_sent_at": null
+  },
+  "supportoffice@thecoffeeemporium.com.au": {
+    "name": "The Coffee Emporium Hornsby",
+    "trade": "cafe",
+    "sent_at": "2026-07-06T10:59:09.922513+10:00",
+    "followup_sent_at": null
+  },
+  "info@heavenlycatering.com.au": {
+    "name": "Heavenly Catering - Northern Beaches",
+    "trade": "catering",
+    "sent_at": "2026-07-06T10:59:17.324100+10:00",
+    "followup_sent_at": null
+  },
+  "orders@stmalobakery.com": {
+    "name": "St Malo Bakery",
+    "trade": "bakery",
+    "sent_at": "2026-07-06T10:59:24.353835+10:00",
+    "followup_sent_at": null
+  },
+  "info@bonjourpatisserie.com.au": {
+    "name": "Bonjour Patisserie",
+    "trade": "bakery",
+    "sent_at": "2026-07-06T10:59:31.649032+10:00",
+    "followup_sent_at": null
+  },
+  "hello@sessionrewind.com": {
+    "name": "Muffin Break Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-07-06T10:59:38.676449+10:00",
+    "followup_sent_at": null
+  },
+  "indooroopilly@brooklyndonutcoffeeco.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-07-06T10:59:46.189103+10:00",
+    "followup_sent_at": null
+  },
+  "normanhurstdental@gmail.com": {
+    "name": "Normanhurst Dental | Local Family Dentist - Emergency Dentist - Hornsby Area Dental Surgery",
+    "trade": "dentist",
+    "sent_at": "2026-07-06T10:59:53.435882+10:00",
+    "followup_sent_at": null
+  },
+  "bendunster@bigpond.com.au": {
+    "name": "Dr Ben Dunster",
+    "trade": "dentist",
+    "sent_at": "2026-07-06T11:00:00.849773+10:00",
+    "followup_sent_at": null
+  },
+  "standsurephysiotherapy@gmail.com": {
+    "name": "Stand Sure Physiotherapy",
+    "trade": "physiotherapist",
+    "sent_at": "2026-07-06T11:00:08.147950+10:00",
+    "followup_sent_at": null
+  },
+  "admin@tensegrity.com.au": {
+    "name": "Tensegrity Sports Clinic - Wahroonga",
+    "trade": "chiropractor",
+    "sent_at": "2026-07-06T11:00:15.829749+10:00",
+    "followup_sent_at": null
+  },
+  "u003eonline@theeyepiece.com.au": {
+    "name": "The Eye Piece – Wahroonga",
+    "trade": "optometrist",
+    "sent_at": "2026-07-06T11:00:23.226339+10:00",
+    "followup_sent_at": null
+  },
+  "hornsby@anytimefitness.com.au": {
+    "name": "Anytime Fitness Hornsby",
+    "trade": "gym",
+    "sent_at": "2026-07-06T11:00:30.755933+10:00",
+    "followup_sent_at": null
+  },
+  "hello@shalacollective.com": {
+    "name": "Shala Collective",
+    "trade": "yoga studio",
+    "sent_at": "2026-07-06T11:00:38.612637+10:00",
+    "followup_sent_at": null
+  },
+  "lauren@thebotanicalyogi.com.au": {
+    "name": "The Botanical Yogi",
+    "trade": "yoga studio",
+    "sent_at": "2026-07-06T11:00:46.774239+10:00",
+    "followup_sent_at": null
   }
 }
