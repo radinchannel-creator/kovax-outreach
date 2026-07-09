@@ -42,15 +42,15 @@ jobs:
 
       - name: Run full pipeline (Monday — scrape + send)
         if: github.event.schedule == '0 23 * * 0'
-        run: python tools/run_automation_pipeline.py --limit 40 --force
+        run: python tools/run_automation_pipeline.py --limit 50 --force
 
       - name: Run send-only pipeline (Tue–Fri)
         if: github.event.schedule == '0 23 * * 1-4'
-        run: python tools/run_automation_pipeline.py --skip-scrape --limit 40 --force
+        run: python tools/run_automation_pipeline.py --skip-scrape --limit 50 --force
 
       - name: Run manual trigger
         if: github.event_name == 'workflow_dispatch'
-        run: python tools/run_automation_pipeline.py --skip-scrape --limit 40 --force
+        run: python tools/run_automation_pipeline.py --skip-scrape --limit 50 --force
 
       - name: Save state back to repo
         run: |
