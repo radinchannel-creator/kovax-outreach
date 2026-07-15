@@ -1030,5 +1030,17 @@
     "trade": "gym",
     "sent_at": "2026-07-14T10:44:53.174281+10:00",
     "followup_sent_at": null
+  },
+  "bondi@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-07-15T11:05:26.102755+10:00",
+    "followup_sent_at": null
+  },
+  "info@ouryogaspace.com.au": {
+    "name": "Our Yoga Space",
+    "trade": "yoga studio",
+    "sent_at": "2026-07-15T11:05:32.719134+10:00",
+    "followup_sent_at": null
   }
 }
