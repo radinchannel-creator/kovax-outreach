@@ -1042,5 +1042,113 @@
     "trade": "yoga studio",
     "sent_at": "2026-07-15T11:05:32.719134+10:00",
     "followup_sent_at": null
+  },
+  "marc@greenvueconstructions.com.au": {
+    "name": "Greenvue Constructions",
+    "trade": "carpenter",
+    "sent_at": "2026-07-16T10:57:41.582898+10:00",
+    "followup_sent_at": null
+  },
+  "info@hawkservices.com.au": {
+    "name": "HawkServices",
+    "trade": "carpenter",
+    "sent_at": "2026-07-16T10:57:48.297215+10:00",
+    "followup_sent_at": null
+  },
+  "info@bespokecraft.com.au": {
+    "name": "Bespoke Craft",
+    "trade": "tiler",
+    "sent_at": "2026-07-16T10:57:54.785075+10:00",
+    "followup_sent_at": null
+  },
+  "info@parramattasmashrepairs.com.au": {
+    "name": "Parramatta Smash Repairs",
+    "trade": "panel beater",
+    "sent_at": "2026-07-16T10:58:01.417423+10:00",
+    "followup_sent_at": null
+  },
+  "info@whatscratch.com.au": {
+    "name": "What Scratch? Macquarie Park",
+    "trade": "panel beater",
+    "sent_at": "2026-07-16T10:58:07.950333+10:00",
+    "followup_sent_at": null
+  },
+  "info@localpestexperts.com": {
+    "name": "Local Pest Experts",
+    "trade": "pest control",
+    "sent_at": "2026-07-16T10:58:14.528428+10:00",
+    "followup_sent_at": null
+  },
+  "info@guttercleaners.com.au": {
+    "name": "Gutter-Snipe Gutter Cleaners",
+    "trade": "cleaner",
+    "sent_at": "2026-07-16T10:58:21.147491+10:00",
+    "followup_sent_at": null
+  },
+  "pas@apdetailing.com.au": {
+    "name": "Auto Perfection Detailing",
+    "trade": "cleaner",
+    "sent_at": "2026-07-16T10:58:27.660670+10:00",
+    "followup_sent_at": null
+  },
+  "info@northshoreremovals.com": {
+    "name": "North Shore Removals",
+    "trade": "removalist",
+    "sent_at": "2026-07-16T10:58:34.329079+10:00",
+    "followup_sent_at": null
+  },
+  "sydney@kentremovalsstorage.com.au": {
+    "name": "Kent Removals & Storage - Sydney",
+    "trade": "removalist",
+    "sent_at": "2026-07-16T10:58:40.934273+10:00",
+    "followup_sent_at": null
+  },
+  "admin@tonyswoodfire.com.au": {
+    "name": "Tony's Woodfire",
+    "trade": "restaurant",
+    "sent_at": "2026-07-16T10:58:47.470982+10:00",
+    "followup_sent_at": null
+  },
+  "contact@openpasskey.com": {
+    "name": "The Fox Cafe",
+    "trade": "restaurant",
+    "sent_at": "2026-07-16T10:58:54.360150+10:00",
+    "followup_sent_at": null
+  },
+  "tommy786@gmail.com": {
+    "name": "Tandoori and Curry Club",
+    "trade": "catering",
+    "sent_at": "2026-07-16T10:59:01.119343+10:00",
+    "followup_sent_at": null
+  },
+  "orders@zestpatisserie.com.au": {
+    "name": "Zest Patisserie",
+    "trade": "bakery",
+    "sent_at": "2026-07-16T10:59:07.783084+10:00",
+    "followup_sent_at": null
+  },
+  "slowbreads@gmail.com": {
+    "name": "Slowbreads Roseville",
+    "trade": "bakery",
+    "sent_at": "2026-07-16T10:59:14.429793+10:00",
+    "followup_sent_at": null
+  },
+  "adc.hornsby@gmail.com": {
+    "name": "Advanced Dental Care, Hornsby",
+    "trade": "dentist",
+    "sent_at": "2026-07-16T10:59:21.242404+10:00",
+    "followup_sent_at": null
+  },
+  "reception@spinepartners.com.au": {
+    "name": "Spine Partners Wahroonga",
+    "trade": "chiropractor",
+    "sent_at": "2026-07-16T10:59:27.811279+10:00",
+    "followup_sent_at": null
+  },
+  "hello@innerwesthotyogapilates.com.au": {
+    "name": "Inner West Hot Yoga Pilates",
+    "trade": "yoga studio",
+    "sent_at": "2026-07-16T10:59:34.603580+10:00",
+    "followup_sent_at": null
   }
 }
