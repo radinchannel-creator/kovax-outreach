@@ -1150,5 +1150,17 @@
     "trade": "yoga studio",
     "sent_at": "2026-07-16T10:59:34.603580+10:00",
     "followup_sent_at": null
+  },
+  "emma@business.com": {
+    "name": "Dromard Carpentry & Home Builder",
+    "trade": "builder",
+    "sent_at": "2026-07-17T10:50:58.379018+10:00",
+    "followup_sent_at": null
+  },
+  "liverpool@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-07-17T10:51:05.111820+10:00",
+    "followup_sent_at": null
   }
 }
