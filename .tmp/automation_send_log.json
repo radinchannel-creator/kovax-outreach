@@ -1011,25 +1011,25 @@
     "name": "R & I Mechanical Repairs",
     "trade": "mechanic",
     "sent_at": "2026-07-14T10:44:33.020937+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-21T10:49:15.850636+10:00"
   },
   "northlakes@brooklyndonutcoffeeco.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-07-14T10:44:39.702729+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-21T10:49:22.465245+10:00"
   },
   "berowra@eyeq.com.au": {
     "name": "EyeQ Optometrists Berowra Heights",
     "trade": "optometrist",
     "sent_at": "2026-07-14T10:44:46.402337+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-21T10:49:29.064518+10:00"
   },
   "hornsby@bodyfittraining.com": {
     "name": "BFT Hornsby",
     "trade": "gym",
     "sent_at": "2026-07-14T10:44:53.174281+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-21T10:49:35.777669+10:00"
   },
   "bondi@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
@@ -1197,6 +1197,18 @@
     "name": "Icon Gymsports",
     "trade": "gym",
     "sent_at": "2026-07-20T10:39:17.647933+10:00",
+    "followup_sent_at": null
+  },
+  "rhodes@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-07-21T10:49:02.279037+10:00",
+    "followup_sent_at": null
+  },
+  "info@mirabeldentalhornsby.com.au": {
+    "name": "Good Morning Dental Hornsby",
+    "trade": "dentist",
+    "sent_at": "2026-07-21T10:49:08.967427+10:00",
     "followup_sent_at": null
   }
 }
