@@ -1210,5 +1210,23 @@
     "trade": "dentist",
     "sent_at": "2026-07-21T10:49:08.967427+10:00",
     "followup_sent_at": null
+  },
+  "info@masterspestcontrolsydney.com.au": {
+    "name": "Masters Pest Control Sydney",
+    "trade": "pest control",
+    "sent_at": "2026-07-22T10:49:17.271518+10:00",
+    "followup_sent_at": null
+  },
+  "info@belovedgarden.com.au": {
+    "name": "Mowing, hedge trimming, weeding, tidy up. Beloved Garden",
+    "trade": "gardener",
+    "sent_at": "2026-07-22T10:49:24.133068+10:00",
+    "followup_sent_at": null
+  },
+  "chatswood@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-07-22T10:49:30.737549+10:00",
+    "followup_sent_at": null
   }
 }
