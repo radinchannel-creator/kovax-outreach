@@ -1149,19 +1149,19 @@
     "name": "Inner West Hot Yoga Pilates",
     "trade": "yoga studio",
     "sent_at": "2026-07-16T10:59:34.603580+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-24T10:54:22.467424+10:00"
   },
   "emma@business.com": {
     "name": "Dromard Carpentry & Home Builder",
     "trade": "builder",
     "sent_at": "2026-07-17T10:50:58.379018+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-24T10:54:29.086524+10:00"
   },
   "liverpool@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-07-17T10:51:05.111820+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-24T10:54:35.955776+10:00"
   },
   "john@aspecttilers.com.au": {
     "name": "ASpect Wall & Floor Tiling",
@@ -1239,6 +1239,18 @@
     "name": "Hornsby Denture Clinic",
     "trade": "dentist",
     "sent_at": "2026-07-23T10:59:23.470506+10:00",
+    "followup_sent_at": null
+  },
+  "max.mp@mmem.com.au": {
+    "name": "TLE Electrical Hornsby",
+    "trade": "electrician",
+    "sent_at": "2026-07-24T10:54:08.807558+10:00",
+    "followup_sent_at": null
+  },
+  "info@tndtiling.com": {
+    "name": "TND TILING SERVICES PTY LTD",
+    "trade": "tiler",
+    "sent_at": "2026-07-24T10:54:15.374956+10:00",
     "followup_sent_at": null
   }
 }
