@@ -1167,37 +1167,37 @@
     "name": "ASpect Wall & Floor Tiling",
     "trade": "tiler",
     "sent_at": "2026-07-20T10:38:44.711654+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-27T11:06:00.356736+10:00"
   },
   "sales@buffalolocksmiths.com.au": {
     "name": "Buffalo Locksmiths & Security",
     "trade": "locksmith",
     "sent_at": "2026-07-20T10:38:51.237992+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-27T11:06:06.914470+10:00"
   },
   "info@curtaindrycleaners.com.au": {
     "name": "Thornleigh Dry Cleaners",
     "trade": "cleaner",
     "sent_at": "2026-07-20T10:38:57.891365+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-27T11:06:13.417131+10:00"
   },
   "canberracentre@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-07-20T10:39:04.505312+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-27T11:06:19.966417+10:00"
   },
   "admin@hornsbyoms.com.au": {
     "name": "Hornsby OMS - Oral & Maxillofacial Surgery",
     "trade": "dentist",
     "sent_at": "2026-07-20T10:39:11.111700+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-27T11:06:26.591366+10:00"
   },
   "info@icongymsports.com.au": {
     "name": "Icon Gymsports",
     "trade": "gym",
     "sent_at": "2026-07-20T10:39:17.647933+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-27T11:06:33.141833+10:00"
   },
   "rhodes@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
@@ -1251,6 +1251,24 @@
     "name": "TND TILING SERVICES PTY LTD",
     "trade": "tiler",
     "sent_at": "2026-07-24T10:54:15.374956+10:00",
+    "followup_sent_at": null
+  },
+  "contact@ausgrind.com.au": {
+    "name": "AusGrind Concrete Surface Solutions",
+    "trade": "concreter",
+    "sent_at": "2026-07-27T11:05:40.208196+10:00",
+    "followup_sent_at": null
+  },
+  "westmelbourne@kentremovalsstorage.com.au": {
+    "name": "Kent Removals & Storage - Sydney",
+    "trade": "removalist",
+    "sent_at": "2026-07-27T11:05:46.787872+10:00",
+    "followup_sent_at": null
+  },
+  "reception@westleighchiropractic.com.au": {
+    "name": "Westleigh Chiropractic",
+    "trade": "chiropractor",
+    "sent_at": "2026-07-27T11:05:53.313734+10:00",
     "followup_sent_at": null
   }
 }
