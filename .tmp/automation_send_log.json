@@ -1215,19 +1215,19 @@
     "name": "Masters Pest Control Sydney",
     "trade": "pest control",
     "sent_at": "2026-07-22T10:49:17.271518+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-29T11:10:29.141153+10:00"
   },
   "info@belovedgarden.com.au": {
     "name": "Mowing, hedge trimming, weeding, tidy up. Beloved Garden",
     "trade": "gardener",
     "sent_at": "2026-07-22T10:49:24.133068+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-29T11:10:35.887254+10:00"
   },
   "chatswood@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-07-22T10:49:30.737549+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-29T11:10:42.665694+10:00"
   },
   "admin@absolutelyamazingcleaning.com.au": {
     "name": "Absolutely Amazing Cleaning Pty Ltd",
@@ -1287,6 +1287,24 @@
     "name": "Soul of Yoga",
     "trade": "yoga studio",
     "sent_at": "2026-07-28T10:55:39.443074+10:00",
+    "followup_sent_at": null
+  },
+  "editorial@dentzone.com.au": {
+    "name": "DENT ZONE",
+    "trade": "panel beater",
+    "sent_at": "2026-07-29T11:10:08.505610+10:00",
+    "followup_sent_at": null
+  },
+  "info@rugandfabriccare.com.au": {
+    "name": "The Rug & Fabric Care Company",
+    "trade": "cleaner",
+    "sent_at": "2026-07-29T11:10:15.187354+10:00",
+    "followup_sent_at": null
+  },
+  "coomera@brooklyndonutcoffeeco.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-07-29T11:10:21.891609+10:00",
     "followup_sent_at": null
   }
 }
