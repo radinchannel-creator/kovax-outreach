@@ -1233,13 +1233,13 @@
     "name": "Absolutely Amazing Cleaning Pty Ltd",
     "trade": "cleaning service",
     "sent_at": "2026-07-23T10:59:16.762816+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-30T11:08:18.439918+10:00"
   },
   "hdc@smartchat.net.au": {
     "name": "Hornsby Denture Clinic",
     "trade": "dentist",
     "sent_at": "2026-07-23T10:59:23.470506+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-30T11:08:25.043375+10:00"
   },
   "max.mp@mmem.com.au": {
     "name": "TLE Electrical Hornsby",
@@ -1305,6 +1305,18 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-07-29T11:10:21.891609+10:00",
+    "followup_sent_at": null
+  },
+  "info@singhmoversandpackers.com": {
+    "name": "Singh Movers And Packers",
+    "trade": "removalist",
+    "sent_at": "2026-07-30T11:08:05.018886+10:00",
+    "followup_sent_at": null
+  },
+  "sunshineplaza@brooklyndonutcoffeeco.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-07-30T11:08:11.617095+10:00",
     "followup_sent_at": null
   }
 }
