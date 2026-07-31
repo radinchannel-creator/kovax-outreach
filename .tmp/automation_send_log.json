@@ -1245,13 +1245,13 @@
     "name": "TLE Electrical Hornsby",
     "trade": "electrician",
     "sent_at": "2026-07-24T10:54:08.807558+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-31T11:19:55.329049+10:00"
   },
   "info@tndtiling.com": {
     "name": "TND TILING SERVICES PTY LTD",
     "trade": "tiler",
     "sent_at": "2026-07-24T10:54:15.374956+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-07-31T11:20:01.807781+10:00"
   },
   "contact@ausgrind.com.au": {
     "name": "AusGrind Concrete Surface Solutions",
@@ -1317,6 +1317,24 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-07-30T11:08:11.617095+10:00",
+    "followup_sent_at": null
+  },
+  "joseph@empiremetal.com.au": {
+    "name": "North Shore Fencing and Gates",
+    "trade": "fencer",
+    "sent_at": "2026-07-31T11:19:34.791418+10:00",
+    "followup_sent_at": null
+  },
+  "sales@longainfencing.com.au": {
+    "name": "Longain Fencing",
+    "trade": "fencer",
+    "sent_at": "2026-07-31T11:19:41.513058+10:00",
+    "followup_sent_at": null
+  },
+  "pacfair@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-07-31T11:19:48.432733+10:00",
     "followup_sent_at": null
   }
 }
