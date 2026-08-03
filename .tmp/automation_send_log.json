@@ -1257,19 +1257,19 @@
     "name": "AusGrind Concrete Surface Solutions",
     "trade": "concreter",
     "sent_at": "2026-07-27T11:05:40.208196+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-03T11:23:58.965837+10:00"
   },
   "westmelbourne@kentremovalsstorage.com.au": {
     "name": "Kent Removals & Storage - Sydney",
     "trade": "removalist",
     "sent_at": "2026-07-27T11:05:46.787872+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-03T11:24:05.657725+10:00"
   },
   "reception@westleighchiropractic.com.au": {
     "name": "Westleigh Chiropractic",
     "trade": "chiropractor",
     "sent_at": "2026-07-27T11:05:53.313734+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-03T11:24:12.383685+10:00"
   },
   "info@tilingwizards.com.au": {
     "name": "Tiling Wizards Australia PTY LTD",
@@ -1335,6 +1335,12 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-07-31T11:19:48.432733+10:00",
+    "followup_sent_at": null
+  },
+  "gardencity@brooklyndonutcoffeeco.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-03T11:23:51.811085+10:00",
     "followup_sent_at": null
   }
 }
