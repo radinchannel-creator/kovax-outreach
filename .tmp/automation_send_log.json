@@ -1275,19 +1275,19 @@
     "name": "Tiling Wizards Australia PTY LTD",
     "trade": "tiler",
     "sent_at": "2026-07-28T10:55:26.253417+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-04T11:02:27.613313+10:00"
   },
   "townsville@kentremovalsstorage.com.au": {
     "name": "Kent Removals & Storage - Sydney",
     "trade": "removalist",
     "sent_at": "2026-07-28T10:55:32.839084+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-04T11:02:35.843561+10:00"
   },
   "filler@godaddy.com": {
     "name": "Soul of Yoga",
     "trade": "yoga studio",
     "sent_at": "2026-07-28T10:55:39.443074+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-04T11:02:42.783277+10:00"
   },
   "editorial@dentzone.com.au": {
     "name": "DENT ZONE",
@@ -1341,6 +1341,18 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-03T11:23:51.811085+10:00",
+    "followup_sent_at": null
+  },
+  "brian@artviewlandscapes.com.au": {
+    "name": "Artview Landscapes",
+    "trade": "landscaper",
+    "sent_at": "2026-08-04T11:02:11.806318+10:00",
+    "followup_sent_at": null
+  },
+  "castletowers@brooklyndonutcoffeeco.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-04T11:02:19.275998+10:00",
     "followup_sent_at": null
   }
 }
