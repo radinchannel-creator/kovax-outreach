@@ -1293,19 +1293,19 @@
     "name": "DENT ZONE",
     "trade": "panel beater",
     "sent_at": "2026-07-29T11:10:08.505610+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-05T12:04:31.711710+10:00"
   },
   "info@rugandfabriccare.com.au": {
     "name": "The Rug & Fabric Care Company",
     "trade": "cleaner",
     "sent_at": "2026-07-29T11:10:15.187354+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-05T12:04:38.218083+10:00"
   },
   "coomera@brooklyndonutcoffeeco.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-07-29T11:10:21.891609+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-05T12:04:44.694590+10:00"
   },
   "info@singhmoversandpackers.com": {
     "name": "Singh Movers And Packers",
@@ -1353,6 +1353,12 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-04T11:02:19.275998+10:00",
+    "followup_sent_at": null
+  },
+  "glendale@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-05T12:04:24.917468+10:00",
     "followup_sent_at": null
   }
 }
