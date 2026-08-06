@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-05T00:03:39.876081+00:00",
-  "total": 409,
+  "fetched_at": "2026-08-06T00:01:07.396346+00:00",
+  "total": 406,
   "businesses": [
     {
       "place_id": "ChIJESXWq6OnEmsRcq0b0sn-1PE",
@@ -10,8 +10,8 @@
       "website": "https://hornsbyelectricianservices.com.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "36 Florence St, Hornsby NSW 2077, Australia",
@@ -28,8 +28,8 @@
       "website": "https://hornsbyelectric.com.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "3 Burra Cl, Mount Colah NSW 2079, Australia",
@@ -46,8 +46,8 @@
       "website": "https://arcsnsparks.com.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "1, Hornsby Heights NSW 2077, Australia",
@@ -64,8 +64,8 @@
       "website": "http://hornsbyauto.com.au/",
       "types": [
         "car_repair",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "77 Hunter St, Hornsby NSW 2077, Australia",
@@ -82,8 +82,8 @@
       "website": "http://www.sydneyprestigeelectrical.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Milner Ave, Hornsby NSW 2077, Australia",
@@ -100,8 +100,8 @@
       "website": "http://www.jlautoelectrical.com.au/",
       "types": [
         "car_repair",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Unit 4/91 Hunter St, Hornsby NSW 2077, Australia",
@@ -118,8 +118,8 @@
       "website": "http://www.ccfelectrical.com/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "60 Rosamond St, Hornsby NSW 2077, Australia",
@@ -136,8 +136,8 @@
       "website": "https://www.electriciantotherescue.com.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "12 Hornsby St, Hornsby NSW 2077, Australia",
@@ -154,8 +154,8 @@
       "website": "https://www.leendertselectrical.com.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "14/10 Chilvers Rd, Thornleigh NSW 2120, Australia",
@@ -172,8 +172,8 @@
       "website": "http://www.pmjelectrical.com.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "3/5 Leighton Pl, Hornsby NSW 2077, Australia",
@@ -190,8 +190,8 @@
       "website": "http://ajelectric.com.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Binya Cl, Hornsby Heights NSW 2077, Australia",
@@ -208,8 +208,8 @@
       "website": "http://www.paceproelectrical.com.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "16 Frederick St, Hornsby NSW 2077, Australia",
@@ -226,8 +226,8 @@
       "website": "http://www.astleyelectrical.com.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "42/7 Sefton Rd, Thornleigh NSW 2021, Australia",
@@ -244,8 +244,8 @@
       "website": "https://normanhurstelectrical.com.au/",
       "types": [
         "electrician",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "18 Buckingham Ave, Normanhurst NSW 2076, Australia",
@@ -262,8 +262,8 @@
       "website": "http://www.binai.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "44 Rosemead Rd, Hornsby NSW 2077, Australia",
@@ -280,8 +280,8 @@
       "website": "http://www.builttomatter.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Unit 1/12 Salisbury Rd, Hornsby NSW 2077, Australia",
@@ -298,8 +298,8 @@
       "website": "https://www.coolibahbuilding.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "6/22 Leighton Pl, Hornsby NSW 2077, Australia",
@@ -316,8 +316,8 @@
       "website": "http://www.execbg.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Unit 8/37 Leighton Pl, Hornsby NSW 2077, Australia",
@@ -334,8 +334,8 @@
       "website": "https://www.olsenconstruction.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "322 Peats Ferry Rd, Hornsby NSW 2077, Australia",
@@ -352,8 +352,8 @@
       "website": "https://grannyflatsolutions.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "90 Pacific Hwy, Waitara NSW 2077, Australia",
@@ -370,8 +370,8 @@
       "website": "https://www.blackallconstructions.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Level 1/22-28 Edgeworth David Ave, Hornsby NSW 2077, Australia",
@@ -388,14 +388,32 @@
       "website": "https://www.millersprojects.com.au/contact",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "12/8 Leighton Pl, Hornsby NSW 2077, Australia",
       "lat": -33.696633999999996,
       "lng": 151.113196,
       "opening_hours": "Monday: 6:30 AM – 5:00 PM\nTuesday: 6:30 AM – 5:00 PM\nWednesday: 6:30 AM – 5:00 PM\nThursday: 6:30 AM – 5:00 PM\nFriday: 6:30 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "builder"
+    },
+    {
+      "place_id": "ChIJ1cPR5Ph8gqsR7q-9JoxgvEg",
+      "name": "Becchio Building Services - Local Builders in Hornsby",
+      "address": "15a Somerville Rd, Hornsby Heights NSW 2077, Australia",
+      "phone": "0414 862 260",
+      "website": "http://www.becchiobuilding.com/",
+      "types": [
+        "general_contractor",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "15a Somerville Rd, Hornsby Heights NSW 2077, Australia",
+      "lat": -33.668772,
+      "lng": 151.096172,
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 AM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 4:30 PM\nSunday: Closed",
       "search_keyword": "builder"
     },
     {
@@ -406,8 +424,8 @@
       "website": "https://www.ssbkconstruction.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "3/4 Bridge Rd, Hornsby NSW 2077, Australia",
@@ -423,11 +441,11 @@
       "phone": "1300 787 577",
       "website": "https://www.smithandsons.com.au/renovation-builder/turramurra-1288/",
       "types": [
-        "home_goods_store",
         "general_contractor",
+        "home_goods_store",
         "store",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Suite 15A/75-77 Pacific Hwy, Waitara NSW 2077, Australia",
@@ -444,8 +462,8 @@
       "website": "http://www.cepilcherbuilders.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "10 James St, Hornsby NSW 2077, Australia",
@@ -461,36 +479,17 @@
       "phone": "0420 314 101",
       "website": "http://www.edilco.com.au/",
       "types": [
-        "home_goods_store",
         "general_contractor",
+        "home_goods_store",
         "store",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Unit 15/29 Leighton Pl, Hornsby NSW 2077, Australia",
       "lat": -33.695298099999995,
       "lng": 151.1136478,
       "opening_hours": "Monday: 6:00 AM – 6:00 PM\nTuesday: 6:00 AM – 6:00 PM\nWednesday: 6:00 AM – 6:00 PM\nThursday: 6:00 AM – 6:00 PM\nFriday: 6:00 AM – 6:00 PM\nSaturday: 6:00 AM – 6:00 PM\nSunday: 9:00 AM – 3:00 PM",
-      "search_keyword": "builder"
-    },
-    {
-      "place_id": "ChIJn-ZYuvGzEmsRGC4YwY59WFc",
-      "name": "Dromard Carpentry & Home Builder",
-      "address": "111 Arden St, Coogee NSW 2034, Australia",
-      "phone": "0416 339 894",
-      "website": "https://dromardconstructions.com.au/",
-      "types": [
-        "general_contractor",
-        "manufacturer",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "111 Arden St, Coogee NSW 2034, Australia",
-      "lat": -33.9148463,
-      "lng": 151.25844519999998,
-      "opening_hours": "Monday: 7:00 AM – 6:00 PM\nTuesday: 7:00 AM – 6:00 PM\nWednesday: 7:00 AM – 6:00 PM\nThursday: 7:00 AM – 6:00 PM\nFriday: 7:00 AM – 6:00 PM\nSaturday: 7:00 AM – 6:00 PM\nSunday: 7:00 AM – 6:00 PM",
       "search_keyword": "builder"
     },
     {
@@ -501,12 +500,12 @@
       "website": "https://www.renovabuild.com.au/",
       "types": [
         "building_materials_store",
-        "home_goods_store",
         "general_contractor",
+        "home_goods_store",
         "store",
+        "service",
         "association_or_organization",
         "point_of_interest",
-        "service",
         "establishment"
       ],
       "vicinity": "1/104 George St, Hornsby NSW 2077, Australia",
@@ -523,8 +522,8 @@
       "website": "https://alphabuildingprojects.com.au/contact/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "10 Gleneagles Cres, Hornsby NSW 2077, Australia",
@@ -541,8 +540,8 @@
       "website": "http://brightandclearhomes.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "u4/45-47 Leighton Pl, Hornsby NSW 2077, Australia",
@@ -559,8 +558,8 @@
       "website": "http://www.thelostart.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "1 Dilkera Cl, Hornsby NSW 2077, Australia",
@@ -570,42 +569,42 @@
       "search_keyword": "builder"
     },
     {
-      "place_id": "ChIJDcwqJM-YEmsREC2LbD7SXIc",
-      "name": "Brindabella Bathrooms - Full Interiors - Construction",
-      "address": "Unit 3/30 Leighton Pl, Hornsby NSW 2077, Australia",
-      "phone": "1300 794 488",
-      "website": "https://www.brindabella.net.au/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
-      "types": [
-        "home_goods_store",
-        "general_contractor",
-        "store",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "Unit 3/30 Leighton Pl, Hornsby NSW 2077, Australia",
-      "lat": -33.695186,
-      "lng": 151.1180604,
-      "opening_hours": "Monday: 8:30 AM – 4:30 PM\nTuesday: 8:30 AM – 4:30 PM\nWednesday: 8:30 AM – 4:30 PM\nThursday: 8:30 AM – 4:30 PM\nFriday: 8:30 AM – 4:30 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "builder"
-    },
-    {
       "place_id": "ChIJkeDcosCgEmsR_M7od0-sAoo",
       "name": "G.J. Gardner Homes - Sydney North West (Dural)",
       "address": "Ste 1/256 New Line Rd, Dural NSW 2158, Australia",
       "phone": "(02) 9651 7990",
       "website": "https://www.gjgardner.com.au/home-builders/new-south-wales/sydney-north-west-dural-2461/?utm_campaign=GMB&utm_source=google&utm_medium=organic",
       "types": [
-        "consultant",
         "general_contractor",
-        "point_of_interest",
+        "consultant",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Ste 1/256 New Line Rd, Dural NSW 2158, Australia",
       "lat": -33.7002835,
       "lng": 151.02833959999998,
       "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "builder"
+    },
+    {
+      "place_id": "ChIJDcwqJM-YEmsREC2LbD7SXIc",
+      "name": "Brindabella Bathrooms - Full Interiors - Construction",
+      "address": "Unit 3/30 Leighton Pl, Hornsby NSW 2077, Australia",
+      "phone": "1300 794 488",
+      "website": "https://www.brindabella.net.au/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "types": [
+        "general_contractor",
+        "home_goods_store",
+        "store",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Unit 3/30 Leighton Pl, Hornsby NSW 2077, Australia",
+      "lat": -33.695186,
+      "lng": 151.1180604,
+      "opening_hours": "Monday: 8:30 AM – 4:30 PM\nTuesday: 8:30 AM – 4:30 PM\nWednesday: 8:30 AM – 4:30 PM\nThursday: 8:30 AM – 4:30 PM\nFriday: 8:30 AM – 4:30 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "builder"
     },
     {
@@ -652,6 +651,24 @@
       "search_keyword": "carpenter"
     },
     {
+      "place_id": "ChIJpZ409LKrhQwR2GIEvtl-K9g",
+      "name": "North Shore Carpentry & Renovations",
+      "address": "5 Grace St, Lane Cove NSW 2066, Australia",
+      "phone": "0434 040 770",
+      "website": "http://nsrenovations.au/",
+      "types": [
+        "manufacturer",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "5 Grace St, Lane Cove NSW 2066, Australia",
+      "lat": -33.814259799999995,
+      "lng": 151.1612801,
+      "opening_hours": "Monday: 7:00 AM – 3:30 PM\nTuesday: 7:00 AM – 3:30 PM\nWednesday: 7:00 AM – 3:30 PM\nThursday: 7:00 AM – 3:30 PM\nFriday: 7:00 AM – 3:30 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "carpenter"
+    },
+    {
       "place_id": "ChIJY0Y2YcbnJmARXp_hTp_VBfo",
       "name": "BW Homes (Carpenter & Handyman)",
       "address": "14B Sefton Rd, Thornleigh NSW 2120, Australia",
@@ -686,6 +703,42 @@
       "lat": -33.667688,
       "lng": 151.0982479,
       "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "carpenter"
+    },
+    {
+      "place_id": "ChIJd0CPY8SzEmsR39tMVP2S0Qs",
+      "name": "Jones’ Carpentry Creations.",
+      "address": "Unit 5/7 Moira Cres, Coogee NSW 2034, Australia",
+      "phone": "0422 286 526",
+      "website": "https://jonescarpentrycreations.com.au/",
+      "types": [
+        "manufacturer",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Unit 5/7 Moira Cres, Coogee NSW 2034, Australia",
+      "lat": -33.9125058,
+      "lng": 151.25240549999998,
+      "opening_hours": "Monday: 7:00 AM – 5:00 PM\nTuesday: 7:00 AM – 5:00 PM\nWednesday: 7:00 AM – 5:00 PM\nThursday: 7:00 AM – 5:00 PM\nFriday: 7:00 AM – 5:00 PM\nSaturday: 7:00 AM – 12:00 PM\nSunday: Closed",
+      "search_keyword": "carpenter"
+    },
+    {
+      "place_id": "ChIJw50BR_BZDWsRqBv1MegK4f0",
+      "name": "coco joinery by design",
+      "address": "9/51 Leighton Pl, Hornsby NSW 2077, Australia",
+      "phone": "",
+      "website": "https://cocojoinery.com.au/",
+      "types": [
+        "manufacturer",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "9/51 Leighton Pl, Hornsby NSW 2077, Australia",
+      "lat": -33.694638999999995,
+      "lng": 151.114041,
+      "opening_hours": "Monday: 7:00 AM – 3:30 PM\nTuesday: 7:00 AM – 3:30 PM\nWednesday: 7:00 AM – 3:30 PM\nThursday: 7:00 AM – 3:30 PM\nFriday: 7:00 AM – 3:30 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "carpenter"
     },
     {
@@ -783,24 +836,6 @@
       "search_keyword": "carpenter"
     },
     {
-      "place_id": "ChIJw50BR_BZDWsRqBv1MegK4f0",
-      "name": "coco joinery by design",
-      "address": "9/51 Leighton Pl, Hornsby NSW 2077, Australia",
-      "phone": "",
-      "website": "https://cocojoinery.com.au/",
-      "types": [
-        "manufacturer",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "9/51 Leighton Pl, Hornsby NSW 2077, Australia",
-      "lat": -33.694638999999995,
-      "lng": 151.114041,
-      "opening_hours": "Monday: 7:00 AM – 3:30 PM\nTuesday: 7:00 AM – 3:30 PM\nWednesday: 7:00 AM – 3:30 PM\nThursday: 7:00 AM – 3:30 PM\nFriday: 7:00 AM – 3:30 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "carpenter"
-    },
-    {
       "place_id": "ChIJV8WdrICnEmsRwlyd8mwWekw",
       "name": "Sydney Styles Bathrooms and Kitchens - Hornsby",
       "address": "3/4 Bridge Rd, Hornsby NSW 2077, Australia",
@@ -861,24 +896,6 @@
       "search_keyword": "carpenter"
     },
     {
-      "place_id": "ChIJ4Rn9roSnEmsRMzLA2H0HPa8",
-      "name": "Easy-Fit Wardrobes",
-      "address": "6/1 Leonard St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 3056",
-      "website": "http://www.easyfitwardrobes.com.au/",
-      "types": [
-        "manufacturer",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "6/1 Leonard St, Hornsby NSW 2077, Australia",
-      "lat": -33.70729800000001,
-      "lng": 151.10003,
-      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 12:30 PM\nSunday: Closed",
-      "search_keyword": "carpenter"
-    },
-    {
       "place_id": "ChIJq6puOjhYDWsR-fjIbw-oSAo",
       "name": "Spot On Painting & Decorating",
       "address": "73 Jersey St, Hornsby NSW 2077, Australia",
@@ -886,9 +903,9 @@
       "website": "http://sodservices.com.au/",
       "types": [
         "painter",
+        "point_of_interest",
         "general_contractor",
         "service",
-        "point_of_interest",
         "establishment"
       ],
       "vicinity": "73 Jersey St, Hornsby NSW 2077, Australia",
@@ -905,8 +922,8 @@
       "website": "https://www.paintingbydon.com.au/house-painter-hornsby/?utm_source=Google&utm_medium=Organic&utm_campaign=google_business_profile&utm_id=Google+Business+Profile&utm_content=gmb_listing",
       "types": [
         "painter",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "7 Linda St, Hornsby NSW 2077, Australia",
@@ -923,9 +940,9 @@
       "website": "https://www.facebook.com/profile.php?id=100090196890132&mibextid=JRoKGi",
       "types": [
         "painter",
+        "point_of_interest",
         "general_contractor",
         "service",
-        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Unit 62/5-15 Balmoral St, Waitara NSW 2077, Australia",
@@ -942,8 +959,8 @@
       "website": "https://www.pb-painting.com.au/",
       "types": [
         "painter",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Unit 72/4-6 Park Ave, Waitara NSW 2077, Australia",
@@ -960,8 +977,8 @@
       "website": "http://hornsbypainting.com.au/",
       "types": [
         "painter",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "541 Pacific Hwy, Mount Colah NSW 2079, Australia",
@@ -994,8 +1011,8 @@
       "website": "http://www.jinspainting.com.au/",
       "types": [
         "painter",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "133 Somerville Rd, Hornsby Heights NSW 2127, Australia",
@@ -1012,8 +1029,8 @@
       "website": "https://thatsthefinish.com.au/",
       "types": [
         "painter",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Unit 5/45-47 Leighton Pl, Hornsby NSW 2077, Australia",
@@ -1030,8 +1047,8 @@
       "website": "https://himalayapaintingservices.com.au/",
       "types": [
         "painter",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "7 Park Ave, Waitara NSW 2077, Australia",
@@ -1064,33 +1081,15 @@
       "website": "https://www.radpainting.com.au/",
       "types": [
         "painter",
+        "point_of_interest",
         "general_contractor",
         "service",
-        "point_of_interest",
         "establishment"
       ],
       "vicinity": "39 Koloona Dr, Emu Plains NSW 2750, Australia",
       "lat": -33.7468743,
       "lng": 150.64631749999998,
       "opening_hours": "Monday: 7:00 AM – 9:00 PM\nTuesday: 7:00 AM – 9:00 PM\nWednesday: 7:00 AM – 9:00 PM\nThursday: 7:00 AM – 9:00 PM\nFriday: 7:00 AM – 9:00 PM\nSaturday: 8:00 AM – 7:00 PM\nSunday: 9:00 AM – 5:00 PM",
-      "search_keyword": "painter"
-    },
-    {
-      "place_id": "ChIJ3QTJUSiiEmsRyWc8VeNT0cw",
-      "name": "Advanced Painting Pty Ltd",
-      "address": "Unit 2/11 Harrington Ave, Castle Hill NSW 2154, Australia",
-      "phone": "0410 949 130",
-      "website": "https://advancepainting.com.au/",
-      "types": [
-        "painter",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Unit 2/11 Harrington Ave, Castle Hill NSW 2154, Australia",
-      "lat": -33.7184047,
-      "lng": 150.9744217,
-      "opening_hours": "Monday: Open 24 hours\nTuesday: Open 24 hours\nWednesday: Open 24 hours\nThursday: Open 24 hours\nFriday: Open 24 hours\nSaturday: Open 24 hours\nSunday: Open 24 hours",
       "search_keyword": "painter"
     },
     {
@@ -1101,13 +1100,31 @@
       "website": "https://www.opcpainting.com.au/painters-sydney/",
       "types": [
         "painter",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Ste 2, Level 9/515 Kent St, Sydney NSW 2000, Australia",
       "lat": -33.8745164,
       "lng": 151.2051596,
+      "opening_hours": "Monday: Open 24 hours\nTuesday: Open 24 hours\nWednesday: Open 24 hours\nThursday: Open 24 hours\nFriday: Open 24 hours\nSaturday: Open 24 hours\nSunday: Open 24 hours",
+      "search_keyword": "painter"
+    },
+    {
+      "place_id": "ChIJ3QTJUSiiEmsRyWc8VeNT0cw",
+      "name": "Advanced Painting Pty Ltd",
+      "address": "Unit 2/11 Harrington Ave, Castle Hill NSW 2154, Australia",
+      "phone": "0410 949 130",
+      "website": "https://advancepainting.com.au/",
+      "types": [
+        "painter",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "Unit 2/11 Harrington Ave, Castle Hill NSW 2154, Australia",
+      "lat": -33.7184047,
+      "lng": 150.9744217,
       "opening_hours": "Monday: Open 24 hours\nTuesday: Open 24 hours\nWednesday: Open 24 hours\nThursday: Open 24 hours\nFriday: Open 24 hours\nSaturday: Open 24 hours\nSunday: Open 24 hours",
       "search_keyword": "painter"
     },
@@ -1119,8 +1136,8 @@
       "website": "https://www.affordablepaintingdecoration.com.au/",
       "types": [
         "painter",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "5 Albert Rd, Strathfield NSW 2135, Australia",
@@ -1137,8 +1154,8 @@
       "website": "http://www.sydneypaintingexperts.com.au/",
       "types": [
         "painter",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "288 Pacific Hwy, Greenwich NSW 2065, Australia",
@@ -1155,8 +1172,8 @@
       "website": "https://lclandscaping.com.au/",
       "types": [
         "general_contractor",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "74 B83, Waitara NSW 2077, Australia",
@@ -1173,8 +1190,8 @@
       "website": "http://precisionlandscapes.biz/",
       "types": [
         "general_contractor",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "10 Sydney Rd, Hornsby Heights NSW 2077, Australia",
@@ -1191,8 +1208,8 @@
       "website": "http://www.inspiredoutdoors.com.au/",
       "types": [
         "general_contractor",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "23 Bouvardia St, Asquith NSW 2077, Australia",
@@ -1209,8 +1226,8 @@
       "website": "http://sinclairscapes.com.au/",
       "types": [
         "general_contractor",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "24 Stephen St, Hornsby NSW 2077, Australia",
@@ -1227,8 +1244,8 @@
       "website": "https://www.expertgardening.com.au/",
       "types": [
         "general_contractor",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Unit 5/2A Rupert St, Mount Colah NSW 2079, Australia",
@@ -1256,20 +1273,21 @@
       "search_keyword": "concreter"
     },
     {
-      "place_id": "ChIJcd7o6QKnEmsRzTrrdOfTJ5g",
-      "name": "Beaini Concreting",
-      "address": "35 Bellevue St, Thornleigh NSW 2120, Australia",
-      "phone": "(02) 9484 6922",
-      "website": null,
+      "place_id": "ChIJ4cBJhHZYDWsRVSTmS3UTWok",
+      "name": "Able Metromix",
+      "address": "11 Salisbury Rd, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 3822",
+      "website": "https://www.metromix.com.au/able-concrete/",
       "types": [
         "general_contractor",
+        "manufacturer",
         "service",
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "35 Bellevue St, Thornleigh NSW 2120, Australia",
-      "lat": -33.7325983,
-      "lng": 151.0836742,
+      "vicinity": "11 Salisbury Rd, Hornsby NSW 2077, Australia",
+      "lat": -33.6973597,
+      "lng": 151.11092790000004,
       "opening_hours": "",
       "search_keyword": "concreter"
     },
@@ -1292,21 +1310,20 @@
       "search_keyword": "concreter"
     },
     {
-      "place_id": "ChIJ4cBJhHZYDWsRVSTmS3UTWok",
-      "name": "Able Metromix",
-      "address": "11 Salisbury Rd, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 3822",
-      "website": "https://www.metromix.com.au/able-concrete/",
+      "place_id": "ChIJcd7o6QKnEmsRzTrrdOfTJ5g",
+      "name": "Beaini Concreting",
+      "address": "35 Bellevue St, Thornleigh NSW 2120, Australia",
+      "phone": "(02) 9484 6922",
+      "website": null,
       "types": [
-        "manufacturer",
         "general_contractor",
         "service",
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "11 Salisbury Rd, Hornsby NSW 2077, Australia",
-      "lat": -33.6973597,
-      "lng": 151.11092790000004,
+      "vicinity": "35 Bellevue St, Thornleigh NSW 2120, Australia",
+      "lat": -33.7325983,
+      "lng": 151.0836742,
       "opening_hours": "",
       "search_keyword": "concreter"
     },
@@ -1353,8 +1370,8 @@
       "phone": "13 11 88",
       "website": "http://www.holcim.com.au/",
       "types": [
-        "manufacturer",
         "general_contractor",
+        "manufacturer",
         "service",
         "point_of_interest",
         "establishment"
@@ -1363,24 +1380,6 @@
       "lat": -33.722310799999995,
       "lng": 151.08106379999998,
       "opening_hours": "",
-      "search_keyword": "concreter"
-    },
-    {
-      "place_id": "ChIJhzvcEZuqEmsRWmIZzA4ezHc",
-      "name": "Adrian's Concrete",
-      "address": "60 Edward St, Narraweena NSW 2099, Australia",
-      "phone": "0404 172 435",
-      "website": "https://www.adriansconcrete.com.au/?utm_source=google+gmb&utm_medium=GBP+organic&utm_campaign=Google_Business_Profile",
-      "types": [
-        "general_contractor",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "60 Edward St, Narraweena NSW 2099, Australia",
-      "lat": -33.7503799,
-      "lng": 151.27065629999998,
-      "opening_hours": "Monday: 7:00 AM – 6:00 PM\nTuesday: 7:00 AM – 6:00 PM\nWednesday: 7:00 AM – 6:00 PM\nThursday: 7:00 AM – 6:00 PM\nFriday: 7:00 AM – 6:00 PM\nSaturday: 7:00 AM – 6:00 PM\nSunday: 7:00 AM – 6:00 PM",
       "search_keyword": "concreter"
     },
     {
@@ -1402,6 +1401,24 @@
       "search_keyword": "concreter"
     },
     {
+      "place_id": "ChIJLQ8xPqa8y68RovgZ904-eIc",
+      "name": "AusGrind Concrete Surface Solutions",
+      "address": "72 Somerset St, Epping NSW 2121, Australia",
+      "phone": "0406 342 397",
+      "website": "https://www.ausgrind.com.au/",
+      "types": [
+        "general_contractor",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "72 Somerset St, Epping NSW 2121, Australia",
+      "lat": -33.7651953,
+      "lng": 151.09433429999999,
+      "opening_hours": "Monday: 6:30 AM – 7:00 PM\nTuesday: 6:30 AM – 7:00 PM\nWednesday: 6:30 AM – 7:00 PM\nThursday: 6:30 AM – 7:00 PM\nFriday: 6:30 AM – 7:00 PM\nSaturday: 7:00 AM – 7:00 PM\nSunday: 7:00 AM – 5:00 PM",
+      "search_keyword": "concreter"
+    },
+    {
       "place_id": "ChIJjaYO4pqnEmsRda9E1zeqtYM",
       "name": "Amber Hornsby",
       "address": "108 Pacific Hwy, Waitara NSW 2077, Australia",
@@ -1409,19 +1426,37 @@
       "website": "https://www.ambertiles.com.au/store-locator/amber-hornsby?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing&utm_content=hornsby-store",
       "types": [
         "building_materials_store",
+        "general_contractor",
         "home_goods_store",
         "wholesaler",
-        "general_contractor",
         "supplier",
         "store",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "108 Pacific Hwy, Waitara NSW 2077, Australia",
       "lat": -33.7100894,
       "lng": 151.102462,
       "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 5:00 PM\nSaturday: 9:00 AM – 4:00 PM\nSunday: Closed",
+      "search_keyword": "tiler"
+    },
+    {
+      "place_id": "ChIJrc0jW9JRyqQRLHqCDdNJEGA",
+      "name": "AS Tiling Solutions",
+      "address": "107 Queen St, Revesby NSW 2212, Australia",
+      "phone": "0478 827 895",
+      "website": "https://astilingsolutions.com/",
+      "types": [
+        "general_contractor",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "107 Queen St, Revesby NSW 2212, Australia",
+      "lat": -33.9456677,
+      "lng": 151.0100256,
+      "opening_hours": "Monday: 7:00 AM – 5:00 PM\nTuesday: 7:00 AM – 5:00 PM\nWednesday: 7:00 AM – 5:00 PM\nThursday: 7:00 AM – 5:00 PM\nFriday: 7:00 AM – 5:00 PM\nSaturday: 7:00 AM – 5:00 PM\nSunday: Closed",
       "search_keyword": "tiler"
     },
     {
@@ -1472,8 +1507,8 @@
       "website": "https://robertpridmoreroofing.com.au/",
       "types": [
         "roofing_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "level 1/22/28 Edgeworth David Ave, Hornsby NSW 2077, Australia",
@@ -1490,8 +1525,8 @@
       "website": "http://www.tlhroofing.com.au/",
       "types": [
         "roofing_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "28 Werona St, Pennant Hills NSW 2120, Australia",
@@ -1508,8 +1543,8 @@
       "website": "https://www.donnellyroofrepairs.com.au/",
       "types": [
         "roofing_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "6A Kookaburra Rd, Hornsby Heights NSW 2077, Australia",
@@ -1526,32 +1561,14 @@
       "website": "http://rmroofingservice.com.au/",
       "types": [
         "roofing_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "8 Towner Road, Kenthurst, Hornsby Wahroonga, Stives, Galston NSW 2159, Australia",
       "lat": -33.6444973,
       "lng": 151.0770032,
       "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "roofer"
-    },
-    {
-      "place_id": "ChIJAwNUwK9ZDWsRMn_o-07nmhY",
-      "name": "Southern Cross Roofing",
-      "address": "2/6 Yatala Rd, Mount Kuring-gai NSW 2080, Australia",
-      "phone": "(02) 9477 7961",
-      "website": "https://www.southerncrossroofing.com.au/",
-      "types": [
-        "roofing_contractor",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "2/6 Yatala Rd, Mount Kuring-gai NSW 2080, Australia",
-      "lat": -33.6438597,
-      "lng": 151.1312399,
-      "opening_hours": "Monday: 7:00 AM – 5:00 PM\nTuesday: 7:00 AM – 5:00 PM\nWednesday: 7:00 AM – 5:00 PM\nThursday: 7:00 AM – 5:00 PM\nFriday: 7:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "roofer"
     },
     {
@@ -1562,8 +1579,8 @@
       "website": "https://empireroofing.com.au/",
       "types": [
         "roofing_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "47 Patterson St, Rydalmere NSW 2116, Australia",
@@ -1580,8 +1597,8 @@
       "website": "https://www.sydneyroofers.net.au/",
       "types": [
         "roofing_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "6 King Rd, Hornsby NSW 2077, Australia",
@@ -1598,8 +1615,8 @@
       "website": "https://empireroofing.com.au/",
       "types": [
         "roofing_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Duff St, Turramurra NSW 2074, Australia",
@@ -1616,8 +1633,8 @@
       "website": "http://www.allroofingservices.com.au/",
       "types": [
         "roofing_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "618 Parramatta Rd, Croydon NSW 2132, Australia",
@@ -1634,8 +1651,8 @@
       "website": "https://actionroofing.com.au/",
       "types": [
         "roofing_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "12 Century Cct, Baulkham Hills NSW 2153, Australia",
@@ -1652,10 +1669,10 @@
       "website": "https://tomkatroofing.com.au/",
       "types": [
         "roofing_contractor",
-        "point_of_interest",
-        "service",
         "building_materials_store",
         "store",
+        "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "16 Bernera Rd, Prestons NSW 2170, Australia",
@@ -1672,8 +1689,8 @@
       "website": "https://arcroofing.com.au/",
       "types": [
         "general_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Unit 2/37a King Rd, Hornsby NSW 2077, Australia",
@@ -1690,8 +1707,8 @@
       "website": null,
       "types": [
         "roofing_contractor",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "36 Leighton Pl, Hornsby NSW 2077, Australia",
@@ -2085,6 +2102,24 @@
       "search_keyword": "mechanic"
     },
     {
+      "place_id": "ChIJbRYgQ3ZYDWsR0V3fZe1Ycyo",
+      "name": "R & I Mechanical Repairs",
+      "address": "7/17 King Rd, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 3724",
+      "website": "http://www.rimechanical.com.au/",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "7/17 King Rd, Hornsby NSW 2077, Australia",
+      "lat": -33.6982798,
+      "lng": 151.10956880000003,
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "mechanic"
+    },
+    {
       "place_id": "ChIJoylk78JZDWsRAtKu2AmxALU",
       "name": "GDL Automotive Services",
       "address": "2/27 King Rd, Hornsby NSW 2077, Australia",
@@ -2102,24 +2137,6 @@
       "vicinity": "2/27 King Rd, Hornsby NSW 2077, Australia",
       "lat": -33.6983209,
       "lng": 151.1106661,
-      "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "mechanic"
-    },
-    {
-      "place_id": "ChIJbRYgQ3ZYDWsR0V3fZe1Ycyo",
-      "name": "R & I Mechanical Repairs",
-      "address": "7/17 King Rd, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9477 3724",
-      "website": "http://www.rimechanical.com.au/",
-      "types": [
-        "car_repair",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "7/17 King Rd, Hornsby NSW 2077, Australia",
-      "lat": -33.6982798,
-      "lng": 151.10956880000003,
       "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "mechanic"
     },
@@ -2178,24 +2195,6 @@
       "search_keyword": "panel beater"
     },
     {
-      "place_id": "ChIJ91jKQ2VZDWsRYw6yfNaYAGE",
-      "name": "Mac Smash Repairs",
-      "address": "4/8 Brennan Cl, Asquith NSW 2077, Australia",
-      "phone": "0403 358 025",
-      "website": "https://www.macsmashrepairs.com/",
-      "types": [
-        "car_repair",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "4/8 Brennan Cl, Asquith NSW 2077, Australia",
-      "lat": -33.696359799999996,
-      "lng": 151.1100841,
-      "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 5:00 PM\nSaturday: 8:00 AM – 5:00 AM\nSunday: Closed",
-      "search_keyword": "panel beater"
-    },
-    {
       "place_id": "ChIJsaqY4p-nEmsRLRllR-Uer7A",
       "name": "Hornsby Smash & Panel",
       "address": "12 Pioneer Ave, Thornleigh NSW 2120, Australia",
@@ -2214,57 +2213,21 @@
       "search_keyword": "panel beater"
     },
     {
-      "place_id": "ChIJMwxw8nZYDWsRRRj4Yqkv8Qo",
-      "name": "TGM Panel Beating & Spray Painting",
-      "address": "2/15 Brennan Cl, Asquith NSW 2077, Australia",
-      "phone": "(02) 9987 4969",
-      "website": null,
+      "place_id": "ChIJ91jKQ2VZDWsRYw6yfNaYAGE",
+      "name": "Mac Smash Repairs",
+      "address": "4/8 Brennan Cl, Asquith NSW 2077, Australia",
+      "phone": "0403 358 025",
+      "website": "https://www.macsmashrepairs.com/",
       "types": [
         "car_repair",
         "service",
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "2/15 Brennan Cl, Asquith NSW 2077, Australia",
-      "lat": -33.697024,
-      "lng": 151.109475,
-      "opening_hours": "",
-      "search_keyword": "panel beater"
-    },
-    {
-      "place_id": "ChIJC-6Kd5ShEmsRHeDeq5SZZ0M",
-      "name": "Hills Custom Smash Repairs",
-      "address": "34/2 Hoyle Ave, Castle Hill NSW 2154, Australia",
-      "phone": "(02) 9634 4343",
-      "website": "https://hillscustomsmashrepairs.com.au/",
-      "types": [
-        "car_repair",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "34/2 Hoyle Ave, Castle Hill NSW 2154, Australia",
-      "lat": -33.7327813,
-      "lng": 150.9819365,
-      "opening_hours": "Monday: 7:00 AM – 4:00 PM\nTuesday: 7:00 AM – 4:00 PM\nWednesday: 7:00 AM – 4:00 PM\nThursday: 7:00 AM – 4:00 PM\nFriday: 7:00 AM – 4:00 PM\nSaturday: 7:00 AM – 2:00 PM\nSunday: Closed",
-      "search_keyword": "panel beater"
-    },
-    {
-      "place_id": "ChIJx-Ww6nZYDWsRK4kBvh-VBJM",
-      "name": "Sublime Bodyworks",
-      "address": "7/12 Brennan Cl, Asquith NSW 2077, Australia",
-      "phone": "0416 026 060",
-      "website": "https://sublimebodyworks.com.au/",
-      "types": [
-        "car_repair",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "7/12 Brennan Cl, Asquith NSW 2077, Australia",
-      "lat": -33.6965493,
-      "lng": 151.1097879,
-      "opening_hours": "Monday: 8:00 AM – 4:30 PM\nTuesday: 8:00 AM – 4:30 PM\nWednesday: 8:00 AM – 4:30 PM\nThursday: 8:00 AM – 4:30 PM\nFriday: 8:00 AM – 4:30 PM\nSaturday: 8:00 AM – 4:30 PM\nSunday: Closed",
+      "vicinity": "4/8 Brennan Cl, Asquith NSW 2077, Australia",
+      "lat": -33.696359799999996,
+      "lng": 151.1100841,
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 5:00 PM\nSaturday: 8:00 AM – 5:00 AM\nSunday: Closed",
       "search_keyword": "panel beater"
     },
     {
@@ -2286,6 +2249,60 @@
       "search_keyword": "panel beater"
     },
     {
+      "place_id": "ChIJMwxw8nZYDWsRRRj4Yqkv8Qo",
+      "name": "TGM Panel Beating & Spray Painting",
+      "address": "2/15 Brennan Cl, Asquith NSW 2077, Australia",
+      "phone": "(02) 9987 4969",
+      "website": null,
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2/15 Brennan Cl, Asquith NSW 2077, Australia",
+      "lat": -33.697024,
+      "lng": 151.109475,
+      "opening_hours": "",
+      "search_keyword": "panel beater"
+    },
+    {
+      "place_id": "ChIJx-Ww6nZYDWsRK4kBvh-VBJM",
+      "name": "Sublime Bodyworks",
+      "address": "7/12 Brennan Cl, Asquith NSW 2077, Australia",
+      "phone": "0416 026 060",
+      "website": "https://sublimebodyworks.com.au/",
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "7/12 Brennan Cl, Asquith NSW 2077, Australia",
+      "lat": -33.6965493,
+      "lng": 151.1097879,
+      "opening_hours": "Monday: 8:00 AM – 4:30 PM\nTuesday: 8:00 AM – 4:30 PM\nWednesday: 8:00 AM – 4:30 PM\nThursday: 8:00 AM – 4:30 PM\nFriday: 8:00 AM – 4:30 PM\nSaturday: 8:00 AM – 4:30 PM\nSunday: Closed",
+      "search_keyword": "panel beater"
+    },
+    {
+      "place_id": "ChIJC-6Kd5ShEmsRHeDeq5SZZ0M",
+      "name": "Hills Custom Smash Repairs",
+      "address": "34/2 Hoyle Ave, Castle Hill NSW 2154, Australia",
+      "phone": "(02) 9634 4343",
+      "website": "https://hillscustomsmashrepairs.com.au/",
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "34/2 Hoyle Ave, Castle Hill NSW 2154, Australia",
+      "lat": -33.7327813,
+      "lng": 150.9819365,
+      "opening_hours": "Monday: 7:00 AM – 4:00 PM\nTuesday: 7:00 AM – 4:00 PM\nWednesday: 7:00 AM – 4:00 PM\nThursday: 7:00 AM – 4:00 PM\nFriday: 7:00 AM – 4:00 PM\nSaturday: 7:00 AM – 2:00 PM\nSunday: Closed",
+      "search_keyword": "panel beater"
+    },
+    {
       "place_id": "ChIJERbxU3FYDWsR3vHjqX9FVRY",
       "name": "Asquith Body Works PTY Ltd.",
       "address": "39 Salisbury Rd, Asquith NSW 2077, Australia",
@@ -2300,24 +2317,6 @@
       "vicinity": "39 Salisbury Rd, Asquith NSW 2077, Australia",
       "lat": -33.6949687,
       "lng": 151.1106931,
-      "opening_hours": "Monday: 7:30 AM – 4:30 PM\nTuesday: 7:30 AM – 4:30 PM\nWednesday: 7:30 AM – 4:30 PM\nThursday: 7:30 AM – 4:30 PM\nFriday: 7:30 AM – 4:30 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "panel beater"
-    },
-    {
-      "place_id": "ChIJ_X8lOJ1ZDWsRoqrm4aUQ9ew",
-      "name": "Quest Collision Centre",
-      "address": "49-51 Salisbury Rd, Asquith NSW 2077, Australia",
-      "phone": "(02) 9476 4859",
-      "website": "https://questcollisioncentre.com.au/",
-      "types": [
-        "car_repair",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "49-51 Salisbury Rd, Asquith NSW 2077, Australia",
-      "lat": -33.6935539,
-      "lng": 151.1101531,
       "opening_hours": "Monday: 7:30 AM – 4:30 PM\nTuesday: 7:30 AM – 4:30 PM\nWednesday: 7:30 AM – 4:30 PM\nThursday: 7:30 AM – 4:30 PM\nFriday: 7:30 AM – 4:30 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "panel beater"
     },
@@ -2337,6 +2336,24 @@
       "lat": -33.7621536,
       "lng": 151.27908259999998,
       "opening_hours": "Monday: 7:30 AM – 4:30 PM\nTuesday: 7:30 AM – 4:30 PM\nWednesday: 7:30 AM – 4:30 PM\nThursday: 7:30 AM – 4:30 PM\nFriday: 7:30 AM – 4:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "panel beater"
+    },
+    {
+      "place_id": "ChIJ_X8lOJ1ZDWsRoqrm4aUQ9ew",
+      "name": "Quest Collision Centre",
+      "address": "49-51 Salisbury Rd, Asquith NSW 2077, Australia",
+      "phone": "(02) 9476 4859",
+      "website": "https://questcollisioncentre.com.au/",
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "49-51 Salisbury Rd, Asquith NSW 2077, Australia",
+      "lat": -33.6935539,
+      "lng": 151.1101531,
+      "opening_hours": "Monday: 7:30 AM – 4:30 PM\nTuesday: 7:30 AM – 4:30 PM\nWednesday: 7:30 AM – 4:30 PM\nThursday: 7:30 AM – 4:30 PM\nFriday: 7:30 AM – 4:30 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "panel beater"
     },
     {
@@ -2376,6 +2393,24 @@
       "search_keyword": "panel beater"
     },
     {
+      "place_id": "ChIJae7fTwWnEmsRZwnrnXlnkQs",
+      "name": "Thornleigh Auto Body Alignment",
+      "address": "14A Duffy Ave, Thornleigh NSW 2120, Australia",
+      "phone": "(02) 9484 7623",
+      "website": "http://www.autobody.com.au/",
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "14A Duffy Ave, Thornleigh NSW 2120, Australia",
+      "lat": -33.725042,
+      "lng": 151.0824726,
+      "opening_hours": "Monday: 8:00 AM – 4:30 PM\nTuesday: 8:00 AM – 4:30 PM\nWednesday: 8:00 AM – 4:30 PM\nThursday: 8:00 AM – 4:30 PM\nFriday: 8:00 AM – 4:30 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "panel beater"
+    },
+    {
       "place_id": "ChIJgQgVuqmvEmsRlQnO34DUgt4",
       "name": "DingGo",
       "address": "1F Homebush Bay Dr, Rhodes NSW 2138, Australia",
@@ -2412,21 +2447,39 @@
       "search_keyword": "panel beater"
     },
     {
-      "place_id": "ChIJ2XFqMV-qEmsRdKryEGYblvo",
-      "name": "Northern Beaches Smash Repairs",
-      "address": "6 Wattle Rd, Brookvale NSW 2100, Australia",
-      "phone": "(02) 9939 1293",
-      "website": "https://www.nbsr.com/",
+      "place_id": "ChIJvY7i6SavEmsRflEjAELl0Us",
+      "name": "HD Smash Repairs",
+      "address": "52 Sawyer Ln, Artarmon NSW 2064, Australia",
+      "phone": "0408 242 481",
+      "website": null,
       "types": [
         "car_repair",
         "service",
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "6 Wattle Rd, Brookvale NSW 2100, Australia",
-      "lat": -33.768048,
-      "lng": 151.278269,
-      "opening_hours": "Monday: 8:00 AM – 4:30 PM\nTuesday: 8:00 AM – 4:30 PM\nWednesday: 8:00 AM – 4:30 PM\nThursday: 8:00 AM – 4:30 PM\nFriday: 8:00 AM – 4:30 PM\nSaturday: Closed\nSunday: Closed",
+      "vicinity": "52 Sawyer Ln, Artarmon NSW 2064, Australia",
+      "lat": -33.8152451,
+      "lng": 151.1820056,
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 5:00 PM\nSaturday: 9:00 AM – 3:00 PM\nSunday: Closed",
+      "search_keyword": "panel beater"
+    },
+    {
+      "place_id": "ChIJx-PUEnFYDWsRqv7l4EVjRak",
+      "name": "Classic Body Repairs",
+      "address": "5 Salisbury Rd, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 5995",
+      "website": null,
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "5 Salisbury Rd, Hornsby NSW 2077, Australia",
+      "lat": -33.698003,
+      "lng": 151.110589,
+      "opening_hours": "",
       "search_keyword": "panel beater"
     },
     {
@@ -2438,10 +2491,10 @@
       "types": [
         "gift_shop",
         "locksmith",
-        "manufacturer",
         "store",
-        "point_of_interest",
+        "manufacturer",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "kiosk 118 westfields, Hornsby NSW 2077, Australia",
@@ -2460,8 +2513,8 @@
         "gift_shop",
         "locksmith",
         "store",
-        "point_of_interest",
         "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Westfield Hornsby, Kiosk K103/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -2469,6 +2522,24 @@
       "lng": 151.1020972,
       "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
       "search_keyword": "locksmith"
+    },
+    {
+      "place_id": "ChIJY9c6TISnEmsRUTjlC4mSrao",
+      "name": "SRM Termite & Pest Control",
+      "address": "59 Edgeworth David Ave, Waitara NSW 2077, Australia",
+      "phone": "1300 776 435",
+      "website": "https://srmtermiteandpestcontrol.com.au/",
+      "types": [
+        "general_contractor",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "59 Edgeworth David Ave, Waitara NSW 2077, Australia",
+      "lat": -33.7065406,
+      "lng": 151.1090776,
+      "opening_hours": "Monday: 8:00 AM – 6:30 PM\nTuesday: 8:00 AM – 6:30 PM\nWednesday: 8:00 AM – 6:30 PM\nThursday: 8:00 AM – 6:30 PM\nFriday: 8:00 AM – 6:30 PM\nSaturday: 8:00 AM – 6:30 PM\nSunday: 8:00 AM – 6:00 PM",
+      "search_keyword": "pest control"
     },
     {
       "place_id": "ChIJ5eyJs-qnEmsREhfjnTd4WUA",
@@ -2487,24 +2558,6 @@
       "lat": -33.7135837,
       "lng": 151.10823639999998,
       "opening_hours": "Monday: 7:00 AM – 10:00 PM\nTuesday: 7:00 AM – 10:00 PM\nWednesday: 7:00 AM – 10:00 PM\nThursday: 7:00 AM – 10:00 PM\nFriday: 7:00 AM – 10:00 PM\nSaturday: 7:00 AM – 10:00 PM\nSunday: 7:00 AM – 10:00 PM",
-      "search_keyword": "pest control"
-    },
-    {
-      "place_id": "ChIJY9c6TISnEmsRUTjlC4mSrao",
-      "name": "SRM Termite & Pest Control",
-      "address": "59 Edgeworth David Ave, Waitara NSW 2077, Australia",
-      "phone": "1300 776 435",
-      "website": "https://srmtermiteandpestcontrol.com.au/",
-      "types": [
-        "general_contractor",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "59 Edgeworth David Ave, Waitara NSW 2077, Australia",
-      "lat": -33.7065406,
-      "lng": 151.1090776,
-      "opening_hours": "Monday: 8:00 AM – 6:30 PM\nTuesday: 8:00 AM – 6:30 PM\nWednesday: 8:00 AM – 6:30 PM\nThursday: 8:00 AM – 6:30 PM\nFriday: 8:00 AM – 6:30 PM\nSaturday: 8:00 AM – 6:30 PM\nSunday: 8:00 AM – 6:00 PM",
       "search_keyword": "pest control"
     },
     {
@@ -2543,23 +2596,6 @@
       "search_keyword": "pest control"
     },
     {
-      "place_id": "ChIJHRC4UQCnEmsRM3wYJl4ki0w",
-      "name": "Home Termite Control Pty Ltd",
-      "address": "107 Browns Rd, Wahroonga NSW 2076, Australia",
-      "phone": "(02) 9454 7774",
-      "website": "http://www.hometermitecontrolsydney.com.au/",
-      "types": [
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "107 Browns Rd, Wahroonga NSW 2076, Australia",
-      "lat": -33.734338099999995,
-      "lng": 151.0913319,
-      "opening_hours": "Monday: 7:00 AM – 5:00 PM\nTuesday: 7:00 AM – 5:00 PM\nWednesday: 7:00 AM – 5:00 PM\nThursday: 7:00 AM – 5:00 PM\nFriday: 7:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "pest control"
-    },
-    {
       "place_id": "ChIJL5W2Z7pZDWsRgpcY-ZDxuaQ",
       "name": "Apex Pest",
       "address": "18 Salisbury Rd, Asquith NSW 2077, Australia",
@@ -2573,6 +2609,23 @@
       "vicinity": "18 Salisbury Rd, Asquith NSW 2077, Australia",
       "lat": -33.6955901,
       "lng": 151.11187619999998,
+      "opening_hours": "Monday: 7:00 AM – 5:00 PM\nTuesday: 7:00 AM – 5:00 PM\nWednesday: 7:00 AM – 5:00 PM\nThursday: 7:00 AM – 5:00 PM\nFriday: 7:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "pest control"
+    },
+    {
+      "place_id": "ChIJHRC4UQCnEmsRM3wYJl4ki0w",
+      "name": "Home Termite Control Pty Ltd",
+      "address": "107 Browns Rd, Wahroonga NSW 2076, Australia",
+      "phone": "(02) 9454 7774",
+      "website": "http://www.hometermitecontrolsydney.com.au/",
+      "types": [
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "107 Browns Rd, Wahroonga NSW 2076, Australia",
+      "lat": -33.734338099999995,
+      "lng": 151.0913319,
       "opening_hours": "Monday: 7:00 AM – 5:00 PM\nTuesday: 7:00 AM – 5:00 PM\nWednesday: 7:00 AM – 5:00 PM\nThursday: 7:00 AM – 5:00 PM\nFriday: 7:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "pest control"
     },
@@ -2876,6 +2929,24 @@
       "search_keyword": "cleaner"
     },
     {
+      "place_id": "ChIJP3lyI_el0y0Rgli9TFCb0eU",
+      "name": "Victor's Cleaning Pty Ltd",
+      "address": "76 Ryde Rd, Gordon NSW 2072, Australia",
+      "phone": "0490 769 099",
+      "website": "https://www.victorscleaning.com.au/",
+      "types": [
+        "laundry",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "76 Ryde Rd, Gordon NSW 2072, Australia",
+      "lat": -33.75504,
+      "lng": 151.1407599,
+      "opening_hours": "Monday: 8:00 AM – 5:30 PM\nTuesday: 8:00 AM – 5:30 PM\nWednesday: 8:00 AM – 5:30 PM\nThursday: 8:00 AM – 9:00 PM\nFriday: 8:00 AM – 5:30 PM\nSaturday: 9:00 AM – 1:00 PM\nSunday: 9:00 AM – 1:00 PM",
+      "search_keyword": "cleaner"
+    },
+    {
       "place_id": "ChIJmWMi9BQ0wAERZp45jBiZfv4",
       "name": "Infinite Access Property Detailing",
       "address": "1 Edgeworth David Ave, Hornsby NSW 2077, Australia",
@@ -2911,24 +2982,6 @@
       "search_keyword": "cleaner"
     },
     {
-      "place_id": "ChIJH0YCoJ1ZDWsRJnKxIfXtMmw",
-      "name": "E-Valence",
-      "address": "Unit 13/12 Cecil Rd, Hornsby NSW 2077, Australia",
-      "phone": "1300 845 498",
-      "website": "https://www.e-valence.com.au/",
-      "types": [
-        "manufacturer",
-        "supplier",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Unit 13/12 Cecil Rd, Hornsby NSW 2077, Australia",
-      "lat": -33.696809099999996,
-      "lng": 151.1147684,
-      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "cleaner"
-    },
-    {
       "place_id": "ChIJFy0Lo9yvEmsRtNS5YHMPJw8",
       "name": "Miracle Maid",
       "address": "Ste 3728, 903/50 Clarence St, Sydney NSW 2000, Australia",
@@ -2944,6 +2997,24 @@
       "lat": -33.8659457,
       "lng": 151.20519,
       "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 9:00 AM – 5:00 PM",
+      "search_keyword": "cleaner"
+    },
+    {
+      "place_id": "ChIJH0YCoJ1ZDWsRJnKxIfXtMmw",
+      "name": "E-Valence",
+      "address": "Unit 13/12 Cecil Rd, Hornsby NSW 2077, Australia",
+      "phone": "1300 845 498",
+      "website": "https://www.e-valence.com.au/",
+      "types": [
+        "supplier",
+        "manufacturer",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Unit 13/12 Cecil Rd, Hornsby NSW 2077, Australia",
+      "lat": -33.696809099999996,
+      "lng": 151.1147684,
+      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "cleaner"
     },
     {
@@ -3018,6 +3089,23 @@
       "search_keyword": "cleaning service"
     },
     {
+      "place_id": "ChIJtQN-cZvvEmsRiQP8oqFPNA8",
+      "name": "BlueBear Cleaning",
+      "address": "18 Cusack Cl, St Helens Park NSW 2560, Australia",
+      "phone": "0410 694 108",
+      "website": "http://www.bluebearcleaning.com.au/",
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "18 Cusack Cl, St Helens Park NSW 2560, Australia",
+      "lat": -34.1003289,
+      "lng": 150.807541,
+      "opening_hours": "Monday: 7:00 AM – 6:00 PM\nTuesday: 7:00 AM – 6:00 PM\nWednesday: 7:00 AM – 6:00 PM\nThursday: 7:00 AM – 6:00 PM\nFriday: 7:00 AM – 6:00 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 9:00 AM – 5:00 PM",
+      "search_keyword": "cleaning service"
+    },
+    {
       "place_id": "ChIJ7YIg4eivEmsRSpX7JcqDIMM",
       "name": "Cleaning Ease",
       "address": "Unit 211/199 Pyrmont St, Pyrmont NSW 2009, Australia",
@@ -3036,23 +3124,6 @@
       "search_keyword": "cleaning service"
     },
     {
-      "place_id": "ChIJtQN-cZvvEmsRiQP8oqFPNA8",
-      "name": "BlueBear Cleaning",
-      "address": "18 Cusack Cl, St Helens Park NSW 2560, Australia",
-      "phone": "0410 694 108",
-      "website": "http://www.bluebearcleaning.com.au/",
-      "types": [
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "18 Cusack Cl, St Helens Park NSW 2560, Australia",
-      "lat": -34.1003289,
-      "lng": 150.807541,
-      "opening_hours": "Monday: 7:00 AM – 6:00 PM\nTuesday: 7:00 AM – 6:00 PM\nWednesday: 7:00 AM – 6:00 PM\nThursday: 7:00 AM – 6:00 PM\nFriday: 7:00 AM – 6:00 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 9:00 AM – 5:00 PM",
-      "search_keyword": "cleaning service"
-    },
-    {
       "place_id": "ChIJXTZOsNNZDWsREc6Sr8rl0oE",
       "name": "Careful Movers Hornsby",
       "address": "Unit 12/38 Lords Ave, Asquith NSW 2077, Australia",
@@ -3060,11 +3131,11 @@
       "website": "https://www.carefulmovers.com.au/removalists-hornsby/",
       "types": [
         "moving_company",
-        "storage",
         "shipping_service",
+        "storage",
         "transportation_service",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Unit 12/38 Lords Ave, Asquith NSW 2077, Australia",
@@ -3081,12 +3152,12 @@
       "website": "http://www.sosremovals.com.au/",
       "types": [
         "moving_company",
-        "storage",
         "shipping_service",
-        "transportation_service",
-        "service",
+        "storage",
         "store",
+        "transportation_service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "22/10 Chilvers Rd, Thornleigh NSW 2120, Australia",
@@ -3104,14 +3175,36 @@
       "types": [
         "moving_company",
         "transportation_service",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "14 Little John St, Middleton Grange NSW 2171, Australia",
       "lat": -33.9173577,
       "lng": 150.843955,
       "opening_hours": "Monday: Open 24 hours\nTuesday: Open 24 hours\nWednesday: Open 24 hours\nThursday: Open 24 hours\nFriday: Open 24 hours\nSaturday: Open 24 hours\nSunday: Open 24 hours",
+      "search_keyword": "removalist"
+    },
+    {
+      "place_id": "ChIJhwLeEh-jEmsRn1y-j2T-QeQ",
+      "name": "Six Brothers Removalists",
+      "address": "Ste 1 level 5/58/60 Macquarie St, Parramatta NSW 2150, Australia",
+      "phone": "1300 764 372",
+      "website": "https://www.sixbrothersremovalist.com.au/?utm_source=local&utm_medium=organic&utm_term=gmb&utm_content=website",
+      "types": [
+        "moving_company",
+        "courier_service",
+        "shipping_service",
+        "storage",
+        "transportation_service",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "Ste 1 level 5/58/60 Macquarie St, Parramatta NSW 2150, Australia",
+      "lat": -33.815114,
+      "lng": 151.0044256,
+      "opening_hours": "Monday: 7:30 AM – 6:00 PM\nTuesday: 7:30 AM – 6:00 PM\nWednesday: 7:30 AM – 6:00 PM\nThursday: 7:30 AM – 6:00 PM\nFriday: 7:30 AM – 6:00 PM\nSaturday: 8:00 AM – 4:00 PM\nSunday: Closed",
       "search_keyword": "removalist"
     },
     {
@@ -3132,28 +3225,6 @@
       "search_keyword": "removalist"
     },
     {
-      "place_id": "ChIJhwLeEh-jEmsRn1y-j2T-QeQ",
-      "name": "Six Brothers Removalists",
-      "address": "Ste 1 level 5/58/60 Macquarie St, Parramatta NSW 2150, Australia",
-      "phone": "1300 764 372",
-      "website": "https://www.sixbrothersremovalist.com.au/?utm_source=local&utm_medium=organic&utm_term=gmb&utm_content=website",
-      "types": [
-        "moving_company",
-        "courier_service",
-        "storage",
-        "shipping_service",
-        "transportation_service",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Ste 1 level 5/58/60 Macquarie St, Parramatta NSW 2150, Australia",
-      "lat": -33.815114,
-      "lng": 151.0044256,
-      "opening_hours": "Monday: 7:30 AM – 6:00 PM\nTuesday: 7:30 AM – 6:00 PM\nWednesday: 7:30 AM – 6:00 PM\nThursday: 7:30 AM – 6:00 PM\nFriday: 7:30 AM – 6:00 PM\nSaturday: 8:00 AM – 4:00 PM\nSunday: Closed",
-      "search_keyword": "removalist"
-    },
-    {
       "place_id": "ChIJkyoL-dsPkWsR8NNZAo0zGwI",
       "name": "TWO MEN AND A TRUCK",
       "address": "15/6 Herbert St, St Leonards NSW 2065, Australia",
@@ -3162,10 +3233,10 @@
       "types": [
         "moving_company",
         "storage",
-        "transportation_service",
-        "service",
         "store",
+        "transportation_service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "15/6 Herbert St, St Leonards NSW 2065, Australia",
@@ -3182,11 +3253,11 @@
       "website": "https://www.zoomremovals.com.au/?utm_source=google&utm_medium=maps&utm_campaign=beverley-hills",
       "types": [
         "moving_company",
-        "storage",
         "shipping_service",
+        "storage",
         "transportation_service",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Suite 3/423 King Georges Rd, Beverly Hills NSW 2209, Australia",
@@ -3203,11 +3274,11 @@
       "website": "https://billremovalistssydney.com.au/",
       "types": [
         "moving_company",
-        "storage",
         "shipping_service",
+        "storage",
         "transportation_service",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Unit 907b/8 Cowper St, Parramatta NSW 2150, Australia",
@@ -3224,12 +3295,12 @@
       "website": "https://goldlineremovals.com.au/",
       "types": [
         "moving_company",
-        "storage",
         "shipping_service",
-        "transportation_service",
-        "service",
+        "storage",
         "store",
+        "transportation_service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Unit 604/233-237 Military Rd, Cremorne NSW 2090, Australia",
@@ -3246,11 +3317,11 @@
       "website": "https://www.wemovegroup.com.au/",
       "types": [
         "moving_company",
-        "storage",
         "shipping_service",
+        "storage",
         "transportation_service",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "501/24 Hunter St, Parramatta NSW 2150, Australia",
@@ -3268,8 +3339,8 @@
       "types": [
         "moving_company",
         "transportation_service",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "21 King Rd, Hornsby NSW 2077, Australia",
@@ -3286,14 +3357,14 @@
       "website": "https://www.bondiremovals.com.au/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
       "types": [
         "moving_company",
-        "storage",
         "shipping_service",
-        "transportation_service",
-        "service",
         "home_improvement_store",
+        "storage",
         "home_goods_store",
         "store",
+        "transportation_service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "51 Clovelly Rd, Randwick NSW 2031, Australia",
@@ -3309,8 +3380,8 @@
       "phone": "0488 991 731",
       "website": "https://www.totalrubbishhornsby.com.au/",
       "types": [
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "9 Coronation St, Hornsby NSW 2077, Australia",
@@ -3363,11 +3434,11 @@
       "types": [
         "moving_company",
         "courier_service",
-        "storage",
         "shipping_service",
+        "storage",
         "transportation_service",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "107 Richmond Rd, Blacktown NSW 2148, Australia",
@@ -3383,8 +3454,8 @@
       "phone": "0421 720 009",
       "website": "http://www.gardeningandmowing.com.au/",
       "types": [
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Unit 24/2 Lodge St, Hornsby NSW 2077, Australia",
@@ -3400,9 +3471,9 @@
       "phone": "0404 784 469",
       "website": "http://greenvibegardening.com.au/",
       "types": [
+        "point_of_interest",
         "general_contractor",
         "service",
-        "point_of_interest",
         "establishment"
       ],
       "vicinity": "3 Metcalfe St, Maroubra NSW 2035, Australia",
@@ -3435,9 +3506,9 @@
       "phone": "0499 790 240",
       "website": "https://www.sydneyhorticulture.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10107997343766581807",
       "types": [
+        "point_of_interest",
         "general_contractor",
         "service",
-        "point_of_interest",
         "establishment"
       ],
       "vicinity": "14 Pound Rd, Hornsby NSW 2077, Australia",
@@ -3453,9 +3524,9 @@
       "phone": "0420 570 014",
       "website": "https://elitelandscapingandmaintenance.com.au/",
       "types": [
+        "point_of_interest",
         "general_contractor",
         "service",
-        "point_of_interest",
         "establishment"
       ],
       "vicinity": "86 Kenthurst Rd, Kenthurst NSW 2156, Australia",
@@ -3471,9 +3542,9 @@
       "phone": "1300 374 273",
       "website": "https://www.drgarden.com.au/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB",
       "types": [
+        "point_of_interest",
         "general_contractor",
         "service",
-        "point_of_interest",
         "establishment"
       ],
       "vicinity": "17-25 Denman Parade, Normanhurst NSW 2076, Australia",
@@ -3492,8 +3563,8 @@
         "ramen_restaurant",
         "japanese_restaurant",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "FC08, Westfieild, 236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -3512,17 +3583,35 @@
         "cafe",
         "coffee_shop",
         "breakfast_restaurant",
+        "restaurant",
+        "point_of_interest",
         "food_store",
         "store",
-        "restaurant",
         "food",
-        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Shop B22 Florence St, Hornsby NSW 2077, Australia",
       "lat": -33.704201999999995,
       "lng": 151.100721,
       "opening_hours": "Monday: 7:00 AM – 10:00 PM\nTuesday: 7:00 AM – 10:00 PM\nWednesday: 7:00 AM – 10:00 PM\nThursday: 7:00 AM – 10:00 PM\nFriday: 7:00 AM – 10:00 PM\nSaturday: 7:00 AM – 10:00 PM\nSunday: 7:00 AM – 10:00 PM",
+      "search_keyword": "restaurant"
+    },
+    {
+      "place_id": "ChIJ9yQZeLhZDWsRMWqrSDW8IHU",
+      "name": "The Dining and Co Hornsby",
+      "address": "412 Peats Ferry Rd, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9446 2635",
+      "website": "https://m.facebook.com/thediningandcohornsby/",
+      "types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "412 Peats Ferry Rd, Hornsby NSW 2077, Australia",
+      "lat": -33.691145299999995,
+      "lng": 151.10137849999998,
+      "opening_hours": "Monday: 7:00 AM – 4:00 PM\nTuesday: 7:00 AM – 4:00 PM\nWednesday: 7:00 AM – 4:00 PM\nThursday: 7:00 AM – 4:00 PM\nFriday: 7:00 AM – 4:00 PM\nSaturday: 8:00 AM – 4:00 PM\nSunday: 8:00 AM – 4:00 PM",
       "search_keyword": "restaurant"
     },
     {
@@ -3534,32 +3623,14 @@
       "types": [
         "family_restaurant",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "Westfield Hornsby, Level 2,Shop3100/236 Pacific Hwy, Hornsby NSW 2077, Australia",
       "lat": -33.704367999999995,
       "lng": 151.1003783,
       "opening_hours": "Monday: 7:00 AM – 9:30 PM\nTuesday: 7:00 AM – 9:30 PM\nWednesday: 7:00 AM – 9:30 PM\nThursday: 7:00 AM – 9:30 PM\nFriday: 7:00 AM – 9:30 PM\nSaturday: 7:00 AM – 9:30 PM\nSunday: 7:00 AM – 9:30 PM",
-      "search_keyword": "restaurant"
-    },
-    {
-      "place_id": "ChIJ9yQZeLhZDWsRMWqrSDW8IHU",
-      "name": "The Dining and Co Hornsby",
-      "address": "412 Peats Ferry Rd, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9446 2635",
-      "website": "https://m.facebook.com/thediningandcohornsby/",
-      "types": [
-        "cafe",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "412 Peats Ferry Rd, Hornsby NSW 2077, Australia",
-      "lat": -33.691145299999995,
-      "lng": 151.10137849999998,
-      "opening_hours": "Monday: 7:00 AM – 4:00 PM\nTuesday: 7:00 AM – 4:00 PM\nWednesday: 7:00 AM – 4:00 PM\nThursday: 7:00 AM – 4:00 PM\nFriday: 7:00 AM – 4:00 PM\nSaturday: 8:00 AM – 4:00 PM\nSunday: 8:00 AM – 4:00 PM",
       "search_keyword": "restaurant"
     },
     {
@@ -3571,8 +3642,8 @@
       "types": [
         "persian_restaurant",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "Unit 133/121 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -3591,8 +3662,8 @@
         "indian_restaurant",
         "fine_dining_restaurant",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "24 Florence St, Hornsby NSW 2077, Australia",
@@ -3609,8 +3680,8 @@
       "website": "http://doodee.com.au/",
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "Shop 1/25-31 Florence St, Hornsby NSW 2077, Australia",
@@ -3629,8 +3700,8 @@
         "korean_barbecue_restaurant",
         "korean_restaurant",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "2/262 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -3649,14 +3720,38 @@
         "korean_barbecue_restaurant",
         "korean_restaurant",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "Shop R2/236 Pacific Hwy, Hornsby NSW 2077, Australia",
       "lat": -33.7032496,
       "lng": 151.1009894,
       "opening_hours": "Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM\nTuesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM\nWednesday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM\nThursday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM\nFriday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM\nSaturday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM\nSunday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+      "search_keyword": "restaurant"
+    },
+    {
+      "place_id": "ChIJ71uGYeinEmsRH-SddgFV9YM",
+      "name": "Fox and Hounds",
+      "address": "18-24 Ingram Rd, Wahroonga NSW 2076, Australia",
+      "phone": "0482 031 457",
+      "website": "http://thefoxandhounds.com.au/",
+      "types": [
+        "steak_house",
+        "cocktail_bar",
+        "fine_dining_restaurant",
+        "bar_and_grill",
+        "australian_restaurant",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "18-24 Ingram Rd, Wahroonga NSW 2076, Australia",
+      "lat": -33.7161927,
+      "lng": 151.1092141,
+      "opening_hours": "Monday: Closed\nTuesday: 5:30 – 9:30 PM\nWednesday: 5:30 – 9:30 PM\nThursday: 5:30 – 9:30 PM\nFriday: 5:00 – 10:00 PM\nSaturday: 5:00 – 10:00 PM\nSunday: 5:00 – 9:15 PM",
       "search_keyword": "restaurant"
     },
     {
@@ -3668,38 +3763,14 @@
       "types": [
         "chinese_restaurant",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
       "lat": -33.7036556,
       "lng": 151.1009302,
       "opening_hours": "Monday: 11:00 AM – 8:00 PM\nTuesday: 11:00 AM – 8:00 PM\nWednesday: 11:00 AM – 8:00 PM\nThursday: 11:00 AM – 9:00 PM\nFriday: 11:00 AM – 8:00 PM\nSaturday: 11:00 AM – 8:00 PM\nSunday: 11:00 AM – 8:00 PM",
-      "search_keyword": "restaurant"
-    },
-    {
-      "place_id": "ChIJ71uGYeinEmsRH-SddgFV9YM",
-      "name": "Fox and Hounds",
-      "address": "18-24 Ingram Rd, Wahroonga NSW 2076, Australia",
-      "phone": "0482 031 457",
-      "website": "http://thefoxandhounds.com.au/",
-      "types": [
-        "steak_house",
-        "fine_dining_restaurant",
-        "bar_and_grill",
-        "australian_restaurant",
-        "cocktail_bar",
-        "bar",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "18-24 Ingram Rd, Wahroonga NSW 2076, Australia",
-      "lat": -33.7161927,
-      "lng": 151.1092141,
-      "opening_hours": "Monday: Closed\nTuesday: 5:30 – 9:30 PM\nWednesday: 5:30 – 9:30 PM\nThursday: 5:30 – 9:30 PM\nFriday: 5:00 – 10:00 PM\nSaturday: 5:00 – 10:00 PM\nSunday: 5:00 – 9:15 PM",
       "search_keyword": "restaurant"
     },
     {
@@ -3711,8 +3782,8 @@
       "types": [
         "bistro",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "1 Lodge St, Hornsby NSW 2077, Australia",
@@ -3729,32 +3800,14 @@
       "website": null,
       "types": [
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "Westfield Hornsby, shop fc13/236 Pacific Hwy, Hornsby NSW 2077, Australia",
       "lat": -33.7035252,
       "lng": 151.1012888,
       "opening_hours": "Monday: 11:00 AM – 7:30 PM\nTuesday: 11:00 AM – 7:30 PM\nWednesday: 11:00 AM – 7:30 PM\nThursday: 11:00 AM – 9:00 PM\nFriday: 11:00 AM – 7:30 PM\nSaturday: 11:00 AM – 7:30 PM\nSunday: 11:00 AM – 7:30 PM",
-      "search_keyword": "restaurant"
-    },
-    {
-      "place_id": "ChIJjx44XLinEmsRXPDXiPTa5fg",
-      "name": "Absolute Thai - Hornsby Westfield",
-      "address": "Shop R1a Westfield Shopping Centre, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 4988",
-      "website": "https://absolutethaigroup.com.au/our-resturants/absolute-thai-r1a/",
-      "types": [
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Shop R1a Westfield Shopping Centre, Hornsby NSW 2077, Australia",
-      "lat": -33.7034111,
-      "lng": 151.100925,
-      "opening_hours": "Monday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM\nTuesday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM\nWednesday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM\nThursday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM\nFriday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM\nSaturday: 11:30 AM – 3:30 PM, 5:00 – 8:30 PM\nSunday: 11:00 AM – 3:30 PM, 5:00 – 8:30 PM",
       "search_keyword": "restaurant"
     },
     {
@@ -3767,11 +3820,11 @@
         "indian_restaurant",
         "bar",
         "manufacturer",
+        "restaurant",
+        "point_of_interest",
         "supplier",
         "store",
-        "restaurant",
         "food",
-        "point_of_interest",
         "establishment"
       ],
       "vicinity": "264 Peats Ferry Rd, Hornsby NSW 2077, Australia",
@@ -3791,8 +3844,8 @@
         "hamburger_restaurant",
         "american_restaurant",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "15 Bridge Rd, Hornsby NSW 2077, Australia",
@@ -3802,47 +3855,46 @@
       "search_keyword": "restaurant"
     },
     {
+      "place_id": "ChIJjx44XLinEmsRXPDXiPTa5fg",
+      "name": "Absolute Thai - Hornsby Westfield",
+      "address": "Shop R1a Westfield Shopping Centre, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 4988",
+      "website": "https://absolutethaigroup.com.au/our-resturants/absolute-thai-r1a/",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "Shop R1a Westfield Shopping Centre, Hornsby NSW 2077, Australia",
+      "lat": -33.7034111,
+      "lng": 151.100925,
+      "opening_hours": "Monday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM\nTuesday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM\nWednesday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM\nThursday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM\nFriday: 11:30 AM – 3:00 PM, 5:00 – 8:30 PM\nSaturday: 11:30 AM – 3:30 PM, 5:00 – 8:30 PM\nSunday: 11:00 AM – 3:30 PM, 5:00 – 8:30 PM",
+      "search_keyword": "restaurant"
+    },
+    {
       "place_id": "ChIJQ77vB4OnEmsRfFHwZ0dmiWI",
       "name": "Hornsby RSL Club",
       "address": "4 High St, Hornsby NSW 2077, Australia",
       "phone": "(02) 9477 7777",
       "website": "http://www.hornsbyrsl.com.au/",
       "types": [
-        "coffee_shop",
         "cocktail_bar",
+        "coffee_shop",
+        "cafe",
         "sports_bar",
         "bar",
-        "cafe",
-        "food_store",
+        "point_of_interest",
         "association_or_organization",
+        "food_store",
         "store",
         "food",
-        "point_of_interest",
         "establishment"
       ],
       "vicinity": "4 High St, Hornsby NSW 2077, Australia",
       "lat": -33.7038681,
       "lng": 151.0967647,
       "opening_hours": "Monday: 10:00 AM – 1:00 AM\nTuesday: 10:00 AM – 1:00 AM\nWednesday: 10:00 AM – 2:00 AM\nThursday: 10:00 AM – 2:00 AM\nFriday: 10:00 AM – 4:00 AM\nSaturday: 10:00 AM – 4:00 AM\nSunday: 10:00 AM – 1:00 AM",
-      "search_keyword": "restaurant"
-    },
-    {
-      "place_id": "ChIJsU7t3oOnEmsR3HRHJ0oQsq0",
-      "name": "Station Street Bistro",
-      "address": "31 Station St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9477 7369",
-      "website": "https://hornsbyrailwayhotel.com.au/#bistro",
-      "types": [
-        "bistro",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "31 Station St, Hornsby NSW 2077, Australia",
-      "lat": -33.7026286,
-      "lng": 151.0978285,
-      "opening_hours": "Monday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nTuesday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nWednesday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nThursday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nFriday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nSaturday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nSunday: 11:30 AM – 3:00 PM",
       "search_keyword": "restaurant"
     },
     {
@@ -3855,14 +3907,33 @@
         "cafe",
         "breakfast_restaurant",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "15 Redleaf Ave, Wahroonga NSW 2076, Australia",
       "lat": -33.718722899999996,
       "lng": 151.11730530000003,
       "opening_hours": "Monday: 5:00 AM – 4:30 PM, 5:00 – 10:00 PM\nTuesday: 5:00 AM – 4:30 PM, 5:00 – 10:00 PM\nWednesday: 5:00 AM – 4:30 PM, 5:00 – 10:00 PM\nThursday: 5:00 AM – 4:30 PM, 5:00 – 10:00 PM\nFriday: 5:00 AM – 4:30 PM, 5:00 – 11:00 PM\nSaturday: 5:30 AM – 4:30 PM, 5:00 – 11:00 PM\nSunday: 6:00 AM – 4:30 PM, 5:00 – 10:00 PM",
+      "search_keyword": "restaurant"
+    },
+    {
+      "place_id": "ChIJsU7t3oOnEmsR3HRHJ0oQsq0",
+      "name": "Station Street Bistro",
+      "address": "31 Station St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 7369",
+      "website": "https://hornsbyrailwayhotel.com.au/#bistro",
+      "types": [
+        "bistro",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "31 Station St, Hornsby NSW 2077, Australia",
+      "lat": -33.7026286,
+      "lng": 151.0978285,
+      "opening_hours": "Monday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nTuesday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nWednesday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nThursday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nFriday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nSaturday: 11:30 AM – 3:00 PM, 5:30 – 10:00 PM\nSunday: 11:30 AM – 3:00 PM",
       "search_keyword": "restaurant"
     },
     {
@@ -3874,8 +3945,8 @@
       "types": [
         "chicken_restaurant",
         "restaurant",
-        "food",
         "point_of_interest",
+        "food",
         "establishment"
       ],
       "vicinity": "Shop 1041, Level 1/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -3883,27 +3954,6 @@
       "lng": 151.10128799999998,
       "opening_hours": "Monday: 10:00 AM – 9:00 PM\nTuesday: 10:00 AM – 9:00 PM\nWednesday: 10:00 AM – 9:00 PM\nThursday: 10:00 AM – 9:00 PM\nFriday: 10:00 AM – 9:00 PM\nSaturday: 10:00 AM – 9:00 PM\nSunday: 10:00 AM – 9:00 PM",
       "search_keyword": "restaurant"
-    },
-    {
-      "place_id": "ChIJj-vFVNSnEmsRDRpf5FWus4I",
-      "name": "Cafe Forest",
-      "address": "Pedestrian Bridge, 2a Florence St, Hornsby NSW 2077, Australia",
-      "phone": "",
-      "website": "https://order.piona.com.au/",
-      "types": [
-        "coffee_shop",
-        "cafe",
-        "food_store",
-        "store",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Pedestrian Bridge, 2a Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.703964299999996,
-      "lng": 151.09924469999999,
-      "opening_hours": "Monday: 6:30 AM – 3:30 PM\nTuesday: 6:30 AM – 3:30 PM\nWednesday: 6:30 AM – 3:30 PM\nThursday: 6:30 AM – 3:30 PM\nFriday: 6:30 AM – 3:30 PM\nSaturday: 8:00 AM – 2:30 PM\nSunday: 8:00 AM – 2:00 PM",
-      "search_keyword": "cafe"
     },
     {
       "place_id": "ChIJTxC0i56nEmsR2ZNrmSigP-A",
@@ -3927,6 +3977,27 @@
       "search_keyword": "cafe"
     },
     {
+      "place_id": "ChIJj-vFVNSnEmsRDRpf5FWus4I",
+      "name": "PIONA",
+      "address": "Pedestrian Bridge, 2a Florence St, Hornsby NSW 2077, Australia",
+      "phone": "",
+      "website": "https://order.piona.com.au/",
+      "types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Pedestrian Bridge, 2a Florence St, Hornsby NSW 2077, Australia",
+      "lat": -33.703823199999995,
+      "lng": 151.0993468,
+      "opening_hours": "Monday: 6:45 AM – 3:30 PM\nTuesday: 6:45 AM – 3:30 PM\nWednesday: 6:45 AM – 3:30 PM\nThursday: 6:45 AM – 3:30 PM\nFriday: 6:45 AM – 3:30 PM\nSaturday: 8:00 AM – 2:30 PM\nSunday: Closed",
+      "search_keyword": "cafe"
+    },
+    {
       "place_id": "ChIJ4WzZ9mRZDWsRLaLyQ0vxM9o",
       "name": "51 Cafe",
       "address": "Unit 43/51 Leighton Pl, Hornsby NSW 2077, Australia",
@@ -3943,47 +4014,6 @@
       "lat": -33.6948325,
       "lng": 151.11446229999999,
       "opening_hours": "Monday: 5:30 AM – 4:00 PM\nTuesday: 5:30 AM – 4:00 PM\nWednesday: 5:30 AM – 4:00 PM\nThursday: 5:30 AM – 4:00 PM\nFriday: 5:30 AM – 4:00 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "cafe"
-    },
-    {
-      "place_id": "ChIJVVhAgIOnEmsRuN58_Ot3EM8",
-      "name": "Jiminis Cafe",
-      "address": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 2173",
-      "website": null,
-      "types": [
-        "cafe",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "lat": -33.7053231,
-      "lng": 151.0999833,
-      "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 5:00 PM\nSaturday: 8:00 AM – 5:00 PM\nSunday: 9:00 AM – 5:00 PM",
-      "search_keyword": "cafe"
-    },
-    {
-      "place_id": "ChIJPbPZ3IOnEmsRCbsOMfNMUGY",
-      "name": "Bunker Bean",
-      "address": "23 Station St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 8411 2366",
-      "website": null,
-      "types": [
-        "cafe",
-        "coffee_shop",
-        "breakfast_restaurant",
-        "food_store",
-        "store",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "23 Station St, Hornsby NSW 2077, Australia",
-      "lat": -33.7028471,
-      "lng": 151.09789949999998,
-      "opening_hours": "Monday: 6:00 AM – 3:00 PM\nTuesday: 6:00 AM – 3:00 PM\nWednesday: 6:00 AM – 3:00 PM\nThursday: 6:00 AM – 3:00 PM\nFriday: 6:00 AM – 3:00 PM\nSaturday: 7:00 AM – 2:00 PM\nSunday: Closed",
       "search_keyword": "cafe"
     },
     {
@@ -4008,10 +4038,33 @@
       "search_keyword": "cafe"
     },
     {
-      "place_id": "ChIJG4cMRHNYDWsRiWg9YnjJUew",
-      "name": "Leighton Place Café",
-      "address": "Unit 7/26 Leighton Pl, Hornsby NSW 2077, Australia",
-      "phone": "(02) 8407 9992",
+      "place_id": "ChIJPbPZ3IOnEmsRCbsOMfNMUGY",
+      "name": "Bunker Bean",
+      "address": "23 Station St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 8411 2366",
+      "website": null,
+      "types": [
+        "cafe",
+        "breakfast_restaurant",
+        "coffee_shop",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "23 Station St, Hornsby NSW 2077, Australia",
+      "lat": -33.7028471,
+      "lng": 151.09789949999998,
+      "opening_hours": "Monday: 6:00 AM – 3:00 PM\nTuesday: 6:00 AM – 3:00 PM\nWednesday: 6:00 AM – 3:00 PM\nThursday: 6:00 AM – 3:00 PM\nFriday: 6:00 AM – 3:00 PM\nSaturday: 7:00 AM – 2:00 PM\nSunday: Closed",
+      "search_keyword": "cafe"
+    },
+    {
+      "place_id": "ChIJVVhAgIOnEmsRuN58_Ot3EM8",
+      "name": "Jiminis Cafe",
+      "address": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 2173",
       "website": null,
       "types": [
         "cafe",
@@ -4019,10 +4072,10 @@
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "Unit 7/26 Leighton Pl, Hornsby NSW 2077, Australia",
-      "lat": -33.69575330000001,
-      "lng": 151.1162721,
-      "opening_hours": "Monday: 6:15 AM – 3:00 PM\nTuesday: 6:15 AM – 3:00 PM\nWednesday: 6:15 AM – 3:00 PM\nThursday: 6:15 AM – 3:00 PM\nFriday: 6:15 AM – 3:00 PM\nSaturday: Closed\nSunday: Closed",
+      "vicinity": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.7053231,
+      "lng": 151.0999833,
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 5:00 PM\nSaturday: 8:00 AM – 5:00 PM\nSunday: 9:00 AM – 5:00 PM",
       "search_keyword": "cafe"
     },
     {
@@ -4054,8 +4107,8 @@
       "website": null,
       "types": [
         "cafe",
-        "coffee_shop",
         "breakfast_restaurant",
+        "coffee_shop",
         "food_store",
         "store",
         "restaurant",
@@ -4123,9 +4176,9 @@
       "types": [
         "cafe",
         "brunch_restaurant",
-        "dessert_restaurant",
         "coffee_shop",
         "food_store",
+        "dessert_restaurant",
         "store",
         "restaurant",
         "food",
@@ -4136,6 +4189,24 @@
       "lat": -33.7036208,
       "lng": 151.10209279999998,
       "opening_hours": "Monday: 11:30 AM – 3:00 PM\nTuesday: 11:30 AM – 3:00 PM\nWednesday: 11:00 AM – 3:00 PM\nThursday: 11:30 AM – 3:00 PM\nFriday: 11:30 AM – 3:00 PM\nSaturday: 11:00 AM – 3:00 PM\nSunday: 11:00 AM – 3:00 PM",
+      "search_keyword": "cafe"
+    },
+    {
+      "place_id": "ChIJG4cMRHNYDWsRiWg9YnjJUew",
+      "name": "Leighton Place Café",
+      "address": "Unit 7/26 Leighton Pl, Hornsby NSW 2077, Australia",
+      "phone": "(02) 8407 9992",
+      "website": null,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Unit 7/26 Leighton Pl, Hornsby NSW 2077, Australia",
+      "lat": -33.69575330000001,
+      "lng": 151.1162721,
+      "opening_hours": "Monday: 6:15 AM – 3:00 PM\nTuesday: 6:15 AM – 3:00 PM\nWednesday: 6:15 AM – 3:00 PM\nThursday: 6:15 AM – 3:00 PM\nFriday: 6:15 AM – 3:00 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "cafe"
     },
     {
@@ -4167,8 +4238,8 @@
       "website": null,
       "types": [
         "cafe",
-        "coffee_shop",
         "breakfast_restaurant",
+        "coffee_shop",
         "food_store",
         "store",
         "restaurant",
@@ -4190,13 +4261,13 @@
       "website": null,
       "types": [
         "cafe",
-        "coffee_shop",
         "breakfast_restaurant",
+        "coffee_shop",
         "australian_restaurant",
         "italian_restaurant",
+        "bar",
         "food_store",
         "store",
-        "bar",
         "restaurant",
         "food",
         "point_of_interest",
@@ -4206,6 +4277,29 @@
       "lat": -33.704058499999995,
       "lng": 151.0999589,
       "opening_hours": "Monday: 7:00 AM – 4:00 PM\nTuesday: 7:00 AM – 4:00 PM\nWednesday: 7:00 AM – 4:00 PM\nThursday: 7:00 AM – 4:00 PM\nFriday: 7:00 AM – 4:00 PM\nSaturday: 7:00 AM – 4:00 PM\nSunday: 8:00 AM – 4:00 PM",
+      "search_keyword": "cafe"
+    },
+    {
+      "place_id": "ChIJ8z-8EoSnEmsRanUXSUa4n1o",
+      "name": "The Coffee Emporium Hornsby",
+      "address": "Westfield Hornsby, Shop 3035 Level 3/236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 3023",
+      "website": "https://www.thecoffeeemporium.com.au/",
+      "types": [
+        "coffee_shop",
+        "breakfast_restaurant",
+        "cafe",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Westfield Hornsby, Shop 3035 Level 3/236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.704086,
+      "lng": 151.10031039999998,
+      "opening_hours": "Monday: 7:30 AM – 5:00 PM\nTuesday: 7:30 AM – 5:00 PM\nWednesday: 7:30 AM – 5:00 PM\nThursday: 7:30 AM – 9:00 PM\nFriday: 7:30 AM – 5:00 PM\nSaturday: 7:30 AM – 5:00 PM\nSunday: 8:00 AM – 5:00 PM",
       "search_keyword": "cafe"
     },
     {
@@ -4242,29 +4336,6 @@
       "lat": -33.6875435,
       "lng": 151.10837139999998,
       "opening_hours": "Monday: 5:30 AM – 3:00 PM\nTuesday: 5:30 AM – 3:00 PM\nWednesday: 5:30 AM – 3:00 PM\nThursday: 5:30 AM – 3:00 PM\nFriday: 5:30 AM – 3:00 PM\nSaturday: 6:00 AM – 3:00 PM\nSunday: 7:00 AM – 3:00 PM",
-      "search_keyword": "cafe"
-    },
-    {
-      "place_id": "ChIJ8z-8EoSnEmsRanUXSUa4n1o",
-      "name": "The Coffee Emporium Hornsby",
-      "address": "Westfield Hornsby, Shop 3035 Level 3/236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 3023",
-      "website": "https://www.thecoffeeemporium.com.au/",
-      "types": [
-        "coffee_shop",
-        "breakfast_restaurant",
-        "cafe",
-        "food_store",
-        "store",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Westfield Hornsby, Shop 3035 Level 3/236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "lat": -33.704086,
-      "lng": 151.10031039999998,
-      "opening_hours": "Monday: 7:30 AM – 5:00 PM\nTuesday: 7:30 AM – 5:00 PM\nWednesday: 7:30 AM – 5:00 PM\nThursday: 7:30 AM – 9:00 PM\nFriday: 7:30 AM – 5:00 PM\nSaturday: 7:30 AM – 5:00 PM\nSunday: 8:00 AM – 5:00 PM",
       "search_keyword": "cafe"
     },
     {
@@ -4537,9 +4608,9 @@
       "website": "https://www.soulorigin.com.au/blogs/stores/hornsby-westfield/",
       "types": [
         "salad_shop",
+        "breakfast_restaurant",
         "catering_service",
         "food_delivery",
-        "breakfast_restaurant",
         "food_store",
         "store",
         "service",
@@ -4646,12 +4717,12 @@
       "website": "https://www.breadtop.com.au/",
       "types": [
         "bakery",
-        "cake_shop",
         "cafe",
-        "food_store",
-        "manufacturer",
-        "store",
+        "cake_shop",
         "wholesaler",
+        "food_store",
+        "store",
+        "manufacturer",
         "food",
         "point_of_interest",
         "establishment"
@@ -4671,10 +4742,10 @@
       "types": [
         "bakery",
         "cake_shop",
-        "food_store",
-        "manufacturer",
-        "store",
         "wholesaler",
+        "food_store",
+        "store",
+        "manufacturer",
         "food",
         "point_of_interest",
         "establishment"
@@ -4686,14 +4757,34 @@
       "search_keyword": "bakery"
     },
     {
+      "place_id": "ChIJ407bUQunEmsRQeE9gE7vwUU",
+      "name": "Shepherd's Artisian Bakehouse",
+      "address": "5/26 Florence St, Hornsby NSW 2077, Australia",
+      "phone": "",
+      "website": "http://shepherds.com.au/",
+      "types": [
+        "bakery",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "5/26 Florence St, Hornsby NSW 2077, Australia",
+      "lat": -33.7042201,
+      "lng": 151.101008,
+      "opening_hours": "Monday: Closed\nTuesday: Closed\nWednesday: Closed\nThursday: 7:00 AM – 2:00 PM\nFriday: Closed\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "bakery"
+    },
+    {
       "place_id": "ChIJ5YE788KuEmsRUmlvkeX2z6w",
       "name": "St Malo Bakery",
       "address": "4/12 Cecil Rd, Hornsby NSW 2077, Australia",
       "phone": "0404 242 219",
       "website": "http://www.stmalobakery.com/",
       "types": [
-        "manufacturer",
         "wholesaler",
+        "manufacturer",
         "food",
         "point_of_interest",
         "establishment"
@@ -4705,23 +4796,34 @@
       "search_keyword": "bakery"
     },
     {
-      "place_id": "ChIJv8URFgCnEmsRkql-lfx3-e8",
-      "name": "Sofé Bakery",
-      "address": "12 Railway Ave, Wahroonga NSW 2076, Australia",
-      "phone": "",
-      "website": "https://www.instagram.com/sofebakery/",
+      "place_id": "ChIJpaFEr0ZYDWsRDYxY_RyHsmA",
+      "name": "Bite Me Bakehouse",
+      "address": "561 Pacific Hwy, Mount Colah NSW 2079, Australia",
+      "phone": "0402 267 037",
+      "website": "http://bitemebakehouse.com.au/",
       "types": [
         "bakery",
+        "breakfast_restaurant",
+        "coffee_shop",
+        "cafe",
+        "pastry_shop",
+        "dessert_shop",
+        "confectionery",
+        "meal_takeaway",
+        "cake_shop",
+        "wholesaler",
         "food_store",
         "store",
+        "manufacturer",
+        "restaurant",
         "food",
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "12 Railway Ave, Wahroonga NSW 2076, Australia",
-      "lat": -33.7184135,
-      "lng": 151.1168823,
-      "opening_hours": "Monday: Closed\nTuesday: 6:00 AM – 3:00 PM\nWednesday: 6:00 AM – 3:00 PM\nThursday: Closed\nFriday: 6:00 AM – 3:00 PM\nSaturday: 6:00 AM – 3:00 PM\nSunday: 7:00 AM – 3:00 PM",
+      "vicinity": "561 Pacific Hwy, Mount Colah NSW 2079, Australia",
+      "lat": -33.6744036,
+      "lng": 151.1118123,
+      "opening_hours": "Monday: 5:30 AM – 2:00 PM\nTuesday: 5:30 AM – 2:00 PM\nWednesday: 5:30 AM – 2:00 PM\nThursday: 5:30 AM – 2:00 PM\nFriday: 5:30 AM – 2:00 PM\nSaturday: 6:00 AM – 2:00 PM\nSunday: 7:30 AM – 2:00 PM",
       "search_keyword": "bakery"
     },
     {
@@ -4743,37 +4845,6 @@
       "lat": -33.7213689,
       "lng": 151.0970202,
       "opening_hours": "Monday: Closed\nTuesday: 6:00 AM – 2:00 PM\nWednesday: 6:00 AM – 2:00 PM\nThursday: 6:00 AM – 2:00 PM\nFriday: 6:00 AM – 2:00 PM\nSaturday: 6:30 AM – 2:00 PM\nSunday: 6:30 AM – 12:30 PM",
-      "search_keyword": "bakery"
-    },
-    {
-      "place_id": "ChIJpaFEr0ZYDWsRDYxY_RyHsmA",
-      "name": "Bite Me Bakehouse",
-      "address": "561 Pacific Hwy, Mount Colah NSW 2079, Australia",
-      "phone": "0402 267 037",
-      "website": "http://bitemebakehouse.com.au/",
-      "types": [
-        "bakery",
-        "cake_shop",
-        "coffee_shop",
-        "breakfast_restaurant",
-        "meal_takeaway",
-        "cafe",
-        "pastry_shop",
-        "dessert_shop",
-        "confectionery",
-        "food_store",
-        "manufacturer",
-        "store",
-        "wholesaler",
-        "restaurant",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "561 Pacific Hwy, Mount Colah NSW 2079, Australia",
-      "lat": -33.6744036,
-      "lng": 151.1118123,
-      "opening_hours": "Monday: 5:30 AM – 2:00 PM\nTuesday: 5:30 AM – 2:00 PM\nWednesday: 5:30 AM – 2:00 PM\nThursday: 5:30 AM – 2:00 PM\nFriday: 5:30 AM – 2:00 PM\nSaturday: 6:00 AM – 2:00 PM\nSunday: 7:30 AM – 2:00 PM",
       "search_keyword": "bakery"
     },
     {
@@ -4801,11 +4872,11 @@
       "search_keyword": "bakery"
     },
     {
-      "place_id": "ChIJ407bUQunEmsRQeE9gE7vwUU",
-      "name": "Shepherd's Artisian Bakehouse",
-      "address": "5/26 Florence St, Hornsby NSW 2077, Australia",
+      "place_id": "ChIJv8URFgCnEmsRkql-lfx3-e8",
+      "name": "Sofé Bakery",
+      "address": "12 Railway Ave, Wahroonga NSW 2076, Australia",
       "phone": "",
-      "website": "http://shepherds.com.au/",
+      "website": "https://www.instagram.com/sofebakery/",
       "types": [
         "bakery",
         "food_store",
@@ -4814,10 +4885,10 @@
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "5/26 Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.7042201,
-      "lng": 151.101008,
-      "opening_hours": "Monday: Closed\nTuesday: Closed\nWednesday: Closed\nThursday: 7:00 AM – 2:00 PM\nFriday: Closed\nSaturday: Closed\nSunday: Closed",
+      "vicinity": "12 Railway Ave, Wahroonga NSW 2076, Australia",
+      "lat": -33.7184135,
+      "lng": 151.1168823,
+      "opening_hours": "Monday: Closed\nTuesday: 6:00 AM – 3:00 PM\nWednesday: 6:00 AM – 3:00 PM\nThursday: Closed\nFriday: 6:00 AM – 3:00 PM\nSaturday: 6:00 AM – 3:00 PM\nSunday: 7:00 AM – 3:00 PM",
       "search_keyword": "bakery"
     },
     {
@@ -4848,11 +4919,11 @@
       "website": "https://www.instagram.com/eliii.cakeee?igsh=MWMzamk2ZGhxcWJxbw==",
       "types": [
         "cake_shop",
+        "wholesaler",
         "bakery",
         "food_store",
-        "manufacturer",
         "store",
-        "wholesaler",
+        "manufacturer",
         "food",
         "point_of_interest",
         "establishment"
@@ -4911,11 +4982,11 @@
       "website": null,
       "types": [
         "cake_shop",
+        "wholesaler",
         "bakery",
         "food_store",
-        "manufacturer",
         "store",
-        "wholesaler",
+        "manufacturer",
         "food",
         "point_of_interest",
         "establishment"
@@ -4969,25 +5040,6 @@
       "search_keyword": "bakery"
     },
     {
-      "place_id": "ChIJeeblaYenEmsRkHoIrBfvX9c",
-      "name": "Jepska Enterprises",
-      "address": "8/103 Hunter Ln, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 3689",
-      "website": "http://www.jepska.com.au/",
-      "types": [
-        "manufacturer",
-        "wholesaler",
-        "food",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "8/103 Hunter Ln, Hornsby NSW 2077, Australia",
-      "lat": -33.6988735,
-      "lng": 151.10112759999998,
-      "opening_hours": "Monday: 6:00 AM – 12:00 PM\nTuesday: 6:00 AM – 12:00 PM\nWednesday: 6:00 AM – 12:00 PM\nThursday: 6:00 AM – 12:00 PM\nFriday: 6:00 AM – 12:00 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "bakery"
-    },
-    {
       "place_id": "ChIJCZE-2IKmEmsR88V80KACIp4",
       "name": "Davelle's Bakery Epping",
       "address": "44 Langston Pl, Epping NSW 2121, Australia",
@@ -5008,6 +5060,25 @@
       "search_keyword": "bakery"
     },
     {
+      "place_id": "ChIJeeblaYenEmsRkHoIrBfvX9c",
+      "name": "Jepska Enterprises",
+      "address": "8/103 Hunter Ln, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 3689",
+      "website": "http://www.jepska.com.au/",
+      "types": [
+        "wholesaler",
+        "manufacturer",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "8/103 Hunter Ln, Hornsby NSW 2077, Australia",
+      "lat": -33.6988735,
+      "lng": 151.10112759999998,
+      "opening_hours": "Monday: 6:00 AM – 12:00 PM\nTuesday: 6:00 AM – 12:00 PM\nWednesday: 6:00 AM – 12:00 PM\nThursday: 6:00 AM – 12:00 PM\nFriday: 6:00 AM – 12:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "bakery"
+    },
+    {
       "place_id": "ChIJP3OSK--nEmsR3es1qnSBAdE",
       "name": "Hornsby Dental | Cosmetique Dental",
       "address": "Suite 21/14 Edgeworth David Ave, Hornsby NSW 2077, Australia",
@@ -5017,9 +5088,9 @@
         "dentist",
         "dental_clinic",
         "medical_clinic",
-        "point_of_interest",
-        "service",
         "health",
+        "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Suite 21/14 Edgeworth David Ave, Hornsby NSW 2077, Australia",
@@ -5038,8 +5109,8 @@
         "dentist",
         "dental_clinic",
         "medical_clinic",
-        "point_of_interest",
         "health",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Unit 619/1C Burdett St, Hornsby NSW 2077, Australia",
@@ -5057,17 +5128,38 @@
       "types": [
         "dentist",
         "dental_clinic",
-        "medical_clinic",
-        "point_of_interest",
-        "service",
         "doctor",
+        "medical_clinic",
         "health",
+        "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Shop 1/17-19 Florence St, Hornsby NSW 2077, Australia",
       "lat": -33.7035565,
       "lng": 151.0997396,
       "opening_hours": "Monday: 8:00 AM – 6:00 PM\nTuesday: 8:00 AM – 6:00 PM\nWednesday: 8:00 AM – 6:00 PM\nThursday: 8:00 AM – 6:00 PM\nFriday: 8:00 AM – 6:00 PM\nSaturday: 8:00 AM – 6:00 PM\nSunday: Closed",
+      "search_keyword": "dentist"
+    },
+    {
+      "place_id": "ChIJrfvo_oSnEmsREj9wp_F-8hk",
+      "name": "Hornsby Dental Care- Dr. Rabeeh Dentist Hornsby",
+      "address": "18/14 Edgeworth David Ave, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 2522",
+      "website": "http://www.hornsbydentalcare.com.au/",
+      "types": [
+        "dentist",
+        "dental_clinic",
+        "medical_clinic",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "18/14 Edgeworth David Ave, Hornsby NSW 2077, Australia",
+      "lat": -33.7061888,
+      "lng": 151.10184519999999,
+      "opening_hours": "Monday: 8:30 AM – 5:00 PM\nTuesday: 8:30 AM – 5:00 PM\nWednesday: Closed\nThursday: 8:30 AM – 5:00 PM\nFriday: 8:30 AM – 5:00 PM\nSaturday: 8:00 AM – 1:00 PM\nSunday: Closed",
       "search_keyword": "dentist"
     },
     {
@@ -5078,8 +5170,8 @@
       "website": "http://happysmilesdentist.com.au/",
       "types": [
         "dentist",
-        "point_of_interest",
         "health",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "259 Peats Ferry Rd, Hornsby NSW 2077, Australia",
@@ -5096,8 +5188,8 @@
       "website": "https://www.whitecrossdental.com.au/",
       "types": [
         "dentist",
-        "point_of_interest",
         "health",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "105/10-12 Edgeworth David Ave, Hornsby NSW 2077, Australia",
@@ -5114,9 +5206,9 @@
       "website": "https://www.hornsbyfamilydentalcare.com/",
       "types": [
         "dentist",
-        "point_of_interest",
-        "service",
         "health",
+        "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Ste 4/ Level 2/32-34 Florence St, Hornsby NSW 2077, Australia",
@@ -5134,11 +5226,11 @@
       "types": [
         "dentist",
         "dental_clinic",
-        "medical_clinic",
-        "point_of_interest",
-        "service",
         "doctor",
+        "medical_clinic",
         "health",
+        "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Shop 7/25-31 Florence St, Hornsby NSW 2077, Australia",
@@ -5155,8 +5247,8 @@
       "website": "https://www.goodmorningdental.com.au/",
       "types": [
         "dentist",
-        "point_of_interest",
         "health",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "141 Peats Ferry Rd, Hornsby NSW 2077, Australia",
@@ -5173,36 +5265,15 @@
       "website": "https://www.pacificsmilesdental.com.au/locations/nsw/hornsby/?utm_source=google_my_business&utm_medium=yext",
       "types": [
         "dentist",
-        "point_of_interest",
-        "service",
         "health",
+        "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Westfield Hornsby, level 1/236 Pacific Hwy, Hornsby NSW 2077, Australia",
       "lat": -33.7036208,
       "lng": 151.10209279999998,
       "opening_hours": "Monday: 8:30 AM – 6:00 PM\nTuesday: 8:30 AM – 6:00 PM\nWednesday: 8:30 AM – 6:00 PM\nThursday: 8:30 AM – 7:00 PM\nFriday: 8:30 AM – 6:00 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 9:00 AM – 5:00 PM",
-      "search_keyword": "dentist"
-    },
-    {
-      "place_id": "ChIJrfvo_oSnEmsREj9wp_F-8hk",
-      "name": "Hornsby Dental Care- Dr. Rabeeh Dentist Hornsby",
-      "address": "18/14 Edgeworth David Ave, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 2522",
-      "website": "http://www.hornsbydentalcare.com.au/",
-      "types": [
-        "dentist",
-        "dental_clinic",
-        "medical_clinic",
-        "point_of_interest",
-        "service",
-        "health",
-        "establishment"
-      ],
-      "vicinity": "18/14 Edgeworth David Ave, Hornsby NSW 2077, Australia",
-      "lat": -33.7061888,
-      "lng": 151.10184519999999,
-      "opening_hours": "Monday: 8:30 AM – 5:00 PM\nTuesday: 8:30 AM – 5:00 PM\nWednesday: Closed\nThursday: 8:30 AM – 5:00 PM\nFriday: 8:30 AM – 5:00 PM\nSaturday: 8:00 AM – 1:00 PM\nSunday: Closed",
       "search_keyword": "dentist"
     },
     {
@@ -5214,55 +5285,14 @@
       "types": [
         "dental_clinic",
         "medical_clinic",
-        "point_of_interest",
         "health",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "246 Peats Ferry Rd, Hornsby NSW 2077, Australia",
       "lat": -33.7032234,
       "lng": 151.09763930000003,
       "opening_hours": "Monday: 9:00 AM – 6:00 PM\nTuesday: 9:00 AM – 6:00 PM\nWednesday: 9:00 AM – 6:00 PM\nThursday: 9:00 AM – 6:00 PM\nFriday: 9:00 AM – 6:00 PM\nSaturday: 9:00 AM – 6:00 PM\nSunday: 9:00 AM – 6:00 PM",
-      "search_keyword": "dentist"
-    },
-    {
-      "place_id": "ChIJ5Y5mL4SnEmsR5eSI8HH0ML8",
-      "name": "Bupa Dental Hornsby",
-      "address": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9477 3906",
-      "website": "https://www.bupadental.com.au/find-a-dentist/nsw-hornsby-2077-au/bupa-dental-hornsby/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
-      "types": [
-        "dentist",
-        "dental_clinic",
-        "medical_clinic",
-        "point_of_interest",
-        "service",
-        "health",
-        "establishment"
-      ],
-      "vicinity": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "lat": -33.7053779,
-      "lng": 151.10020269999998,
-      "opening_hours": "Monday: 8:00 AM – 5:30 PM\nTuesday: 8:00 AM – 5:30 PM\nWednesday: 8:00 AM – 5:30 PM\nThursday: 9:00 AM – 8:30 PM\nFriday: 8:00 AM – 5:30 PM\nSaturday: 8:00 AM – 2:00 PM\nSunday: Closed",
-      "search_keyword": "dentist"
-    },
-    {
-      "place_id": "ChIJY42Mg4mnEmsR6h6vLFq66Nc",
-      "name": "Gentle Care Dentistry",
-      "address": "3/49 Palmerston Rd, Hornsby NSW 2077, Australia",
-      "phone": "(02) 8411 2674",
-      "website": "https://www.gentlecaredentistry.com.au/",
-      "types": [
-        "dental_clinic",
-        "dentist",
-        "medical_clinic",
-        "point_of_interest",
-        "health",
-        "establishment"
-      ],
-      "vicinity": "3/49 Palmerston Rd, Hornsby NSW 2077, Australia",
-      "lat": -33.702689,
-      "lng": 151.11105999999998,
-      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 4:00 PM\nSunday: Closed",
       "search_keyword": "dentist"
     },
     {
@@ -5275,16 +5305,57 @@
         "dental_clinic",
         "bridge",
         "dentist",
-        "transportation_service",
         "medical_clinic",
-        "point_of_interest",
         "health",
+        "transportation_service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "104 Balmoral St, Hornsby NSW 2077, Australia",
       "lat": -33.7023104,
       "lng": 151.11053379999998,
       "opening_hours": "Monday: Closed\nTuesday: 9:30 AM – 6:00 PM\nWednesday: 9:00 AM – 6:00 PM\nThursday: 9:30 AM – 6:00 PM\nFriday: 9:00 AM – 6:00 PM\nSaturday: 9:00 AM – 3:00 PM\nSunday: 9:00 AM – 3:00 PM",
+      "search_keyword": "dentist"
+    },
+    {
+      "place_id": "ChIJY42Mg4mnEmsR6h6vLFq66Nc",
+      "name": "Gentle Care Dentistry",
+      "address": "3/49 Palmerston Rd, Hornsby NSW 2077, Australia",
+      "phone": "(02) 8411 2674",
+      "website": "https://www.gentlecaredentistry.com.au/",
+      "types": [
+        "dental_clinic",
+        "dentist",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3/49 Palmerston Rd, Hornsby NSW 2077, Australia",
+      "lat": -33.702689,
+      "lng": 151.11105999999998,
+      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 4:00 PM\nSunday: Closed",
+      "search_keyword": "dentist"
+    },
+    {
+      "place_id": "ChIJ5Y5mL4SnEmsR5eSI8HH0ML8",
+      "name": "Bupa Dental Hornsby",
+      "address": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 3906",
+      "website": "https://www.bupadental.com.au/find-a-dentist/nsw-hornsby-2077-au/bupa-dental-hornsby/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "types": [
+        "dentist",
+        "dental_clinic",
+        "medical_clinic",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.7053779,
+      "lng": 151.10020269999998,
+      "opening_hours": "Monday: 8:00 AM – 5:30 PM\nTuesday: 8:00 AM – 5:30 PM\nWednesday: 8:00 AM – 5:30 PM\nThursday: 9:00 AM – 8:30 PM\nFriday: 8:00 AM – 5:30 PM\nSaturday: 8:00 AM – 2:00 PM\nSunday: Closed",
       "search_keyword": "dentist"
     },
     {
@@ -5298,12 +5369,12 @@
         "skin_care_clinic",
         "physiotherapist",
         "dentist",
-        "medical_clinic",
-        "hospital",
-        "point_of_interest",
-        "service",
         "doctor",
+        "hospital",
+        "medical_clinic",
         "health",
+        "service",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "4/21 Hunter St, Hornsby NSW 2077, Australia",
@@ -5321,35 +5392,16 @@
       "types": [
         "dental_clinic",
         "dentist",
-        "medical_clinic",
-        "point_of_interest",
         "doctor",
+        "medical_clinic",
         "health",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Unit 3/135 Pacific Hwy, Hornsby NSW 2077, Australia",
       "lat": -33.7062419,
       "lng": 151.0985832,
       "opening_hours": "Monday: 9:00 AM – 6:00 PM\nTuesday: 9:00 AM – 6:00 PM\nWednesday: 9:00 AM – 6:00 PM\nThursday: 9:00 AM – 6:00 PM\nFriday: 9:00 AM – 6:00 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: Closed",
-      "search_keyword": "dentist"
-    },
-    {
-      "place_id": "ChIJp8F2JKGnEmsR7HaidvpvLis",
-      "name": "Smile Health Dental Care",
-      "address": "suite 509/90 George St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 2226",
-      "website": "https://www.smilehealthdentalcare.com.au/",
-      "types": [
-        "dental_clinic",
-        "medical_clinic",
-        "point_of_interest",
-        "health",
-        "establishment"
-      ],
-      "vicinity": "suite 509/90 George St, Hornsby NSW 2077, Australia",
-      "lat": -33.701387,
-      "lng": 151.0997487,
-      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: Closed\nFriday: 9:00 AM – 5:30 PM\nSaturday: 8:30 AM – 1:00 PM\nSunday: Closed",
       "search_keyword": "dentist"
     },
     {
@@ -5360,8 +5412,8 @@
       "website": "http://www.edgeworthfamilydental.com.au/",
       "types": [
         "dentist",
-        "point_of_interest",
         "health",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "G04/10 Edgeworth David Ave, Hornsby NSW 2077, Australia",
@@ -5371,21 +5423,23 @@
       "search_keyword": "dentist"
     },
     {
-      "place_id": "ChIJYXb8_uGnEmsRKHTis44mCRE",
-      "name": "Hornsby Fountain Dental Clinic",
-      "address": "4/21 Hunter St, Hornsby NSW 2077, Australia",
-      "phone": "0468 517 900",
-      "website": "https://hornsbyfountaindental.com.au/",
+      "place_id": "ChIJ523qEYSnEmsRFpIT7Ucvacs",
+      "name": "Dr Ben Dunster",
+      "address": "1/17-19 Hunter St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 6464",
+      "website": "https://www.bendunster.com.au/",
       "types": [
         "dentist",
-        "point_of_interest",
+        "dental_clinic",
+        "medical_clinic",
         "health",
+        "point_of_interest",
         "establishment"
       ],
-      "vicinity": "4/21 Hunter St, Hornsby NSW 2077, Australia",
-      "lat": -33.7034686,
-      "lng": 151.1002699,
-      "opening_hours": "Monday: 9:30 AM – 5:00 PM\nTuesday: 9:30 AM – 5:00 PM\nWednesday: 9:30 AM – 5:00 PM\nThursday: Closed\nFriday: 9:30 AM – 5:00 PM\nSaturday: 9:30 AM – 3:00 PM\nSunday: Closed",
+      "vicinity": "1/17-19 Hunter St, Hornsby NSW 2077, Australia",
+      "lat": -33.703736,
+      "lng": 151.10034700000003,
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 1:00 PM\nSaturday: 8:00 AM – 12:00 PM\nSunday: Closed",
       "search_keyword": "dentist"
     },
     {
@@ -5397,14 +5451,33 @@
       "types": [
         "dental_clinic",
         "medical_clinic",
-        "point_of_interest",
         "health",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Level 3 Shop 3109/12, Westfield Hornsby, 236 Pacific Hwy, Hornsby NSW 2077, Australia",
       "lat": -33.7052839,
       "lng": 151.0995811,
       "opening_hours": "Monday: 8:00 AM – 5:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: 8:00 AM – 5:00 PM\nFriday: 8:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "dentist"
+    },
+    {
+      "place_id": "ChIJidbpOISnEmsR9vmx8Af2ATg",
+      "name": "Advanced Dental Care, Hornsby",
+      "address": "Ste 6, Level 2/32 Florence St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 1406",
+      "website": "http://www.advanced-dental-care.com.au/",
+      "types": [
+        "dentist",
+        "health",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Ste 6, Level 2/32 Florence St, Hornsby NSW 2077, Australia",
+      "lat": -33.704313,
+      "lng": 151.1016363,
+      "opening_hours": "Monday: 8:30 AM – 4:00 PM\nTuesday: 8:30 AM – 6:00 PM\nWednesday: 8:30 AM – 5:30 PM\nThursday: 8:30 AM – 5:30 PM\nFriday: Closed\nSaturday: 8:00 AM – 12:00 PM\nSunday: Closed",
       "search_keyword": "dentist"
     },
     {
@@ -5558,6 +5631,32 @@
       "search_keyword": "physiotherapist"
     },
     {
+      "place_id": "ChIJzd-LABGnEmsR30CkOsUaNdE",
+      "name": "My HealthPoint Physio/Chiro/Massage/Acupuncture/Pilates/Workcover,CTP,NDIS",
+      "address": "Westfield hornsby, SHOP 1049/236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "(02) 8924 3060",
+      "website": "https://www.myhealthpoint.com.au/",
+      "types": [
+        "physiotherapist",
+        "chiropractor",
+        "gym",
+        "massage",
+        "sports_complex",
+        "sports_school",
+        "medical_clinic",
+        "sports_activity_location",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "Westfield hornsby, SHOP 1049/236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.7048729,
+      "lng": 151.1016201,
+      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
+      "search_keyword": "physiotherapist"
+    },
+    {
       "place_id": "ChIJ39sYCEOnEmsRWxcHKWxvv1k",
       "name": "Reach & Rise Physio",
       "address": "Westfield (inside TerryWhite & Hornsby Family Medical Practice, Shop 1053/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -5592,50 +5691,6 @@
       "lat": -33.703505799999995,
       "lng": 151.0974288,
       "opening_hours": "Monday: 8:30 AM – 5:00 PM\nTuesday: 8:30 AM – 5:00 PM\nWednesday: 8:30 AM – 5:00 PM\nThursday: 8:30 AM – 5:00 PM\nFriday: 8:30 AM – 5:00 PM\nSaturday: 8:30 AM – 4:00 PM\nSunday: Closed",
-      "search_keyword": "physiotherapist"
-    },
-    {
-      "place_id": "ChIJzS2dHoSnEmsRDh0W7pzO6QE",
-      "name": "Northside Sports Physio Hornsby",
-      "address": "Shop 1, 93/103 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 1666",
-      "website": "http://northsidesportsphysio.com/",
-      "types": [
-        "physiotherapist",
-        "health",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Shop 1, 93/103 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "lat": -33.708182,
-      "lng": 151.098235,
-      "opening_hours": "Monday: 7:00 AM – 6:00 PM\nTuesday: 7:00 AM – 6:00 PM\nWednesday: 7:00 AM – 6:00 PM\nThursday: 7:00 AM – 6:00 PM\nFriday: 7:00 AM – 6:00 PM\nSaturday: 7:00 – 11:00 AM\nSunday: Closed",
-      "search_keyword": "physiotherapist"
-    },
-    {
-      "place_id": "ChIJzd-LABGnEmsR30CkOsUaNdE",
-      "name": "My HealthPoint Physio/Chiro/Massage/Acupuncture/Pilates/Workcover,CTP,NDIS",
-      "address": "Westfield hornsby, SHOP 1049/236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "phone": "(02) 8924 3060",
-      "website": "https://www.myhealthpoint.com.au/",
-      "types": [
-        "physiotherapist",
-        "chiropractor",
-        "sports_complex",
-        "gym",
-        "massage",
-        "sports_activity_location",
-        "sports_school",
-        "medical_clinic",
-        "health",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "Westfield hornsby, SHOP 1049/236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "lat": -33.7048729,
-      "lng": 151.1016201,
-      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
       "search_keyword": "physiotherapist"
     },
     {
@@ -5675,6 +5730,24 @@
       "search_keyword": "physiotherapist"
     },
     {
+      "place_id": "ChIJzS2dHoSnEmsRDh0W7pzO6QE",
+      "name": "Northside Sports Physio Hornsby",
+      "address": "Shop 1, 93/103 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 1666",
+      "website": "http://northsidesportsphysio.com/",
+      "types": [
+        "physiotherapist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Shop 1, 93/103 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.708182,
+      "lng": 151.098235,
+      "opening_hours": "Monday: 7:00 AM – 6:00 PM\nTuesday: 7:00 AM – 6:00 PM\nWednesday: 7:00 AM – 6:00 PM\nThursday: 7:00 AM – 6:00 PM\nFriday: 7:00 AM – 6:00 PM\nSaturday: 7:00 – 11:00 AM\nSunday: Closed",
+      "search_keyword": "physiotherapist"
+    },
+    {
       "place_id": "ChIJ63nqyNCnEmsRbRF1sIgystQ",
       "name": "Functional Movement Physio",
       "address": "Rear 2/41 Palmerston Rd, Hornsby NSW 2077, Australia",
@@ -5702,11 +5775,11 @@
       "website": "https://opt.net.au/hornsby/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_term=hornsby",
       "types": [
         "physiotherapist",
-        "consultant",
         "doctor",
-        "association_or_organization",
+        "consultant",
         "health",
         "point_of_interest",
+        "association_or_organization",
         "service",
         "establishment"
       ],
@@ -5714,6 +5787,24 @@
       "lat": -33.695186,
       "lng": 151.1180604,
       "opening_hours": "Monday: 7:00 AM – 7:00 PM\nTuesday: 7:00 AM – 7:00 PM\nWednesday: 7:00 AM – 7:00 PM\nThursday: 7:00 AM – 7:00 PM\nFriday: 7:00 AM – 7:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "physiotherapist"
+    },
+    {
+      "place_id": "ChIJ6ar7D4SnEmsREiZ5eoQLf4M",
+      "name": "Narelle Veverka",
+      "address": "5/26 Florence St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 3459",
+      "website": "http://www.hornsbyphysiocentre.com/",
+      "types": [
+        "physiotherapist",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "5/26 Florence St, Hornsby NSW 2077, Australia",
+      "lat": -33.704146099999996,
+      "lng": 151.1008981,
+      "opening_hours": "Monday: 7:30 AM – 7:30 PM\nTuesday: 7:30 AM – 7:30 PM\nWednesday: 7:30 AM – 7:30 PM\nThursday: 7:30 AM – 7:30 PM\nFriday: 7:30 AM – 7:30 PM\nSaturday: 8:00 AM – 1:00 PM\nSunday: Closed",
       "search_keyword": "physiotherapist"
     },
     {
@@ -5753,41 +5844,21 @@
       "search_keyword": "physiotherapist"
     },
     {
-      "place_id": "ChIJ6ar7D4SnEmsREiZ5eoQLf4M",
-      "name": "Narelle Veverka",
-      "address": "5/26 Florence St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9477 3459",
-      "website": "http://www.hornsbyphysiocentre.com/",
+      "place_id": "ChIJRzZkJJinEmsR-3tPHfYENt8",
+      "name": "Women's Health Matters",
+      "address": "2/1 Ashley St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9904 6599",
+      "website": "http://www.womenshealthmatters.com.au/",
       "types": [
         "physiotherapist",
         "health",
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "5/26 Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.704146099999996,
-      "lng": 151.1008981,
-      "opening_hours": "Monday: 7:30 AM – 7:30 PM\nTuesday: 7:30 AM – 7:30 PM\nWednesday: 7:30 AM – 7:30 PM\nThursday: 7:30 AM – 7:30 PM\nFriday: 7:30 AM – 7:30 PM\nSaturday: 8:00 AM – 1:00 PM\nSunday: Closed",
-      "search_keyword": "physiotherapist"
-    },
-    {
-      "place_id": "ChIJw-hK-YSnEmsRi2cx5wHOc6k",
-      "name": "IC Sports Therapies",
-      "address": "Business Centre, Suite 6/14 Edgeworth David Ave, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9477 3103",
-      "website": "https://www.icsportstherapies.com.au/",
-      "types": [
-        "physiotherapist",
-        "massage",
-        "health",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "Business Centre, Suite 6/14 Edgeworth David Ave, Hornsby NSW 2077, Australia",
-      "lat": -33.7059327,
-      "lng": 151.1021905,
-      "opening_hours": "Monday: 7:00 AM – 6:00 PM\nTuesday: 7:00 AM – 6:00 PM\nWednesday: 7:00 AM – 6:00 PM\nThursday: 7:00 AM – 6:00 PM\nFriday: 7:00 AM – 6:00 PM\nSaturday: Closed\nSunday: Closed",
+      "vicinity": "2/1 Ashley St, Hornsby NSW 2077, Australia",
+      "lat": -33.705318,
+      "lng": 151.09740499999998,
+      "opening_hours": "Monday: 11:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: Closed\nThursday: 9:00 AM – 4:00 PM\nFriday: 8:30 AM – 12:00 PM\nSaturday: 11:00 AM – 1:00 PM\nSunday: Closed",
       "search_keyword": "physiotherapist"
     },
     {
@@ -5824,24 +5895,6 @@
       "lat": -33.7062453,
       "lng": 151.1032194,
       "opening_hours": "Monday: 8:30 AM – 6:30 PM\nTuesday: 8:30 AM – 6:30 PM\nWednesday: 8:30 AM – 6:00 PM\nThursday: 8:30 AM – 6:30 PM\nFriday: 9:00 AM – 6:30 PM\nSaturday: 8:00 AM – 12:00 PM\nSunday: Closed",
-      "search_keyword": "chiropractor"
-    },
-    {
-      "place_id": "ChIJvaszgoSnEmsRpMWahhCn6mI",
-      "name": "TLC Hornsby",
-      "address": "107/10 Edgeworth David Ave, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9487 6439",
-      "website": "https://tlcaustralia.com/locations/hornsby/",
-      "types": [
-        "chiropractor",
-        "health",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "107/10 Edgeworth David Ave, Hornsby NSW 2077, Australia",
-      "lat": -33.705604199999996,
-      "lng": 151.099879,
-      "opening_hours": "Monday: 8:00 AM – 1:00 PM, 2:00 – 6:00 PM\nTuesday: 8:00 AM – 12:00 PM, 2:00 – 6:00 PM\nWednesday: 8:00 AM – 1:00 PM, 2:00 – 5:00 PM\nThursday: 2:00 – 8:00 PM\nFriday: 8:00 AM – 1:00 PM, 2:00 – 6:00 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "chiropractor"
     },
     {
@@ -5882,6 +5935,42 @@
       "search_keyword": "chiropractor"
     },
     {
+      "place_id": "ChIJvaszgoSnEmsRpMWahhCn6mI",
+      "name": "TLC Hornsby",
+      "address": "107/10 Edgeworth David Ave, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9487 6439",
+      "website": "https://tlcaustralia.com/locations/hornsby/",
+      "types": [
+        "chiropractor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "107/10 Edgeworth David Ave, Hornsby NSW 2077, Australia",
+      "lat": -33.705604199999996,
+      "lng": 151.099879,
+      "opening_hours": "Monday: 8:00 AM – 1:00 PM, 2:00 – 6:00 PM\nTuesday: 8:00 AM – 12:00 PM, 2:00 – 6:00 PM\nWednesday: 8:00 AM – 1:00 PM, 2:00 – 5:00 PM\nThursday: 2:00 – 8:00 PM\nFriday: 8:00 AM – 1:00 PM, 2:00 – 6:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "chiropractor"
+    },
+    {
+      "place_id": "ChIJidbpOISnEmsRWy3Q8UhtRyI",
+      "name": "Chiropractic Spinal Health",
+      "address": "Suite 9 Second Floor, 32 Florence St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 4900",
+      "website": "http://www.spinalhealth.com.au/",
+      "types": [
+        "chiropractor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Suite 9 Second Floor, 32 Florence St, Hornsby NSW 2077, Australia",
+      "lat": -33.704350999999996,
+      "lng": 151.101542,
+      "opening_hours": "Monday: 8:00 AM – 7:00 PM\nTuesday: 8:00 AM – 7:00 PM\nWednesday: Closed\nThursday: 8:00 AM – 7:00 PM\nFriday: 8:00 AM – 12:00 PM\nSaturday: 8:00 AM – 12:00 PM\nSunday: Closed",
+      "search_keyword": "chiropractor"
+    },
+    {
       "place_id": "ChIJW0pPqIanEmsRTMc_flOxB5c",
       "name": "Vivid Health Chiropractic",
       "address": "90 George St, Hornsby NSW 2077, Australia",
@@ -5918,24 +6007,6 @@
       "search_keyword": "chiropractor"
     },
     {
-      "place_id": "ChIJidbpOISnEmsRWy3Q8UhtRyI",
-      "name": "Chiropractic Spinal Health",
-      "address": "Suite 9 Second Floor, 32 Florence St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 4900",
-      "website": "http://www.spinalhealth.com.au/",
-      "types": [
-        "chiropractor",
-        "health",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Suite 9 Second Floor, 32 Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.704350999999996,
-      "lng": 151.101542,
-      "opening_hours": "Monday: 8:00 AM – 7:00 PM\nTuesday: 8:00 AM – 7:00 PM\nWednesday: Closed\nThursday: 8:00 AM – 7:00 PM\nFriday: 8:00 AM – 12:00 PM\nSaturday: 8:00 AM – 12:00 PM\nSunday: Closed",
-      "search_keyword": "chiropractor"
-    },
-    {
       "place_id": "ChIJBSOdmX5YDWsR02ATCAyZVAM",
       "name": "Hornsby Spine Centre",
       "address": "259a Peats Ferry Rd, Hornsby NSW 2077, Australia",
@@ -5944,9 +6015,9 @@
       "types": [
         "chiropractor",
         "massage",
+        "service",
         "health",
         "point_of_interest",
-        "service",
         "establishment"
       ],
       "vicinity": "259a Peats Ferry Rd, Hornsby NSW 2077, Australia",
@@ -5965,9 +6036,9 @@
         "chiropractor",
         "massage",
         "medical_clinic",
+        "service",
         "health",
         "point_of_interest",
-        "service",
         "establishment"
       ],
       "vicinity": "Unit 707/90 George St, Hornsby NSW 2077, Australia",
@@ -5977,21 +6048,43 @@
       "search_keyword": "chiropractor"
     },
     {
-      "place_id": "ChIJL8iYOISnEmsR2mKov5PaNjI",
-      "name": "Little Spines - Hornsby Chiropractor for Children and Families",
-      "address": "Suite 1, Level 1/32-34 Florence St, Hornsby NSW 2077, Australia",
-      "phone": "0401 839 072",
-      "website": "http://www.littlespines.com.au/",
+      "place_id": "ChIJ2XVE-YOnEmsRtieYfzygvyw",
+      "name": "Neurocare Chiropractic",
+      "address": "Ste 2, Ground Floor/20 George St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 4080",
+      "website": "http://www.neurocarechiropractic.com.au/",
       "types": [
         "chiropractor",
         "health",
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "Suite 1, Level 1/32-34 Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.7042698,
-      "lng": 151.1016132,
-      "opening_hours": "Monday: Closed\nTuesday: Closed\nWednesday: 10:00 AM – 7:00 PM\nThursday: Closed\nFriday: Closed\nSaturday: 9:00 AM – 12:00 PM\nSunday: Closed",
+      "vicinity": "Ste 2, Ground Floor/20 George St, Hornsby NSW 2077, Australia",
+      "lat": -33.703348999999996,
+      "lng": 151.09925099999998,
+      "opening_hours": "Monday: 8:00 AM – 12:00 PM, 2:00 – 6:00 PM\nTuesday: 8:00 AM – 12:00 PM, 2:00 – 6:00 PM\nWednesday: Closed\nThursday: 8:00 AM – 12:00 PM, 2:00 – 7:00 PM\nFriday: 8:00 AM – 12:00 PM\nSaturday: 9:00 AM – 12:00 PM\nSunday: Closed",
+      "search_keyword": "chiropractor"
+    },
+    {
+      "place_id": "ChIJ66zrxw-nEmsRyqCq_bdlLq4",
+      "name": "AM Health & Performance",
+      "address": "Unit 6/109 Hunter St, Hornsby NSW 2077, Australia",
+      "phone": "0432 347 976",
+      "website": "http://www.amhealthperformance.com/",
+      "types": [
+        "chiropractor",
+        "physiotherapist",
+        "doctor",
+        "massage",
+        "service",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Unit 6/109 Hunter St, Hornsby NSW 2077, Australia",
+      "lat": -33.6984679,
+      "lng": 151.1013184,
+      "opening_hours": "Monday: 11:00 AM – 8:00 PM\nTuesday: 7:00 AM – 8:00 PM\nWednesday: 11:00 AM – 8:00 PM\nThursday: 7:00 AM – 8:00 PM\nFriday: 7:00 AM – 6:00 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "chiropractor"
     },
     {
@@ -6030,31 +6123,9 @@
       "search_keyword": "chiropractor"
     },
     {
-      "place_id": "ChIJ66zrxw-nEmsRyqCq_bdlLq4",
-      "name": "AM Health & Performance",
-      "address": "Unit 6/109 Hunter St, Hornsby NSW 2077, Australia",
-      "phone": "0432 347 976",
-      "website": "http://www.amhealthperformance.com/",
-      "types": [
-        "chiropractor",
-        "physiotherapist",
-        "massage",
-        "doctor",
-        "health",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "Unit 6/109 Hunter St, Hornsby NSW 2077, Australia",
-      "lat": -33.6984679,
-      "lng": 151.1013184,
-      "opening_hours": "Monday: 11:00 AM – 8:00 PM\nTuesday: 7:00 AM – 8:00 PM\nWednesday: 11:00 AM – 8:00 PM\nThursday: 7:00 AM – 8:00 PM\nFriday: 7:00 AM – 6:00 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "chiropractor"
-    },
-    {
-      "place_id": "ChIJY5VrOISnEmsRKwo5wMJgNkI",
-      "name": "Dr Emily Petherbridge (Chiropractor) Hornsby",
-      "address": "Ste 4b level 1/32 Florence St, Hornsby NSW 2077, Australia",
+      "place_id": "ChIJL8iYOISnEmsR2mKov5PaNjI",
+      "name": "Little Spines - Hornsby Chiropractor for Children and Families",
+      "address": "Suite 1, Level 1/32-34 Florence St, Hornsby NSW 2077, Australia",
       "phone": "0401 839 072",
       "website": "http://www.littlespines.com.au/",
       "types": [
@@ -6063,28 +6134,30 @@
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "Ste 4b level 1/32 Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.7044204,
-      "lng": 151.1015678,
-      "opening_hours": "Monday: Closed\nTuesday: Closed\nWednesday: 10:00 AM – 7:00 PM\nThursday: Closed\nFriday: Closed\nSaturday: 9:00 AM – 12:00 AM\nSunday: Closed",
+      "vicinity": "Suite 1, Level 1/32-34 Florence St, Hornsby NSW 2077, Australia",
+      "lat": -33.7042698,
+      "lng": 151.1016132,
+      "opening_hours": "Monday: Closed\nTuesday: Closed\nWednesday: 10:00 AM – 7:00 PM\nThursday: Closed\nFriday: Closed\nSaturday: 9:00 AM – 12:00 PM\nSunday: Closed",
       "search_keyword": "chiropractor"
     },
     {
-      "place_id": "ChIJ2XVE-YOnEmsRtieYfzygvyw",
-      "name": "Neurocare Chiropractic",
-      "address": "Ste 2, Ground Floor/20 George St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 4080",
-      "website": "http://www.neurocarechiropractic.com.au/",
+      "place_id": "ChIJZRLVtpSnEmsRjYrx_dVivBs",
+      "name": "Tensegrity Sports Clinics - Wahroonga",
+      "address": "66 Coonanbarra Rd, Wahroonga NSW 2076, Australia",
+      "phone": "(02) 9989 8881",
+      "website": "https://tensegrity.com.au/wahroonga/",
       "types": [
         "chiropractor",
+        "doctor",
+        "medical_clinic",
         "health",
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "Ste 2, Ground Floor/20 George St, Hornsby NSW 2077, Australia",
-      "lat": -33.703348999999996,
-      "lng": 151.09925099999998,
-      "opening_hours": "Monday: 8:00 AM – 12:00 PM, 2:00 – 6:00 PM\nTuesday: 8:00 AM – 12:00 PM, 2:00 – 6:00 PM\nWednesday: Closed\nThursday: 8:00 AM – 12:00 PM, 2:00 – 7:00 PM\nFriday: 8:00 AM – 12:00 PM\nSaturday: 9:00 AM – 12:00 PM\nSunday: Closed",
+      "vicinity": "66 Coonanbarra Rd, Wahroonga NSW 2076, Australia",
+      "lat": -33.7157394,
+      "lng": 151.11647990000003,
+      "opening_hours": "Monday: 7:30 AM – 7:00 PM\nTuesday: 7:30 AM – 7:00 PM\nWednesday: 7:30 AM – 7:00 PM\nThursday: 7:30 AM – 7:00 PM\nFriday: 7:30 AM – 7:00 PM\nSaturday: 8:00 AM – 1:00 PM\nSunday: 7:30 AM – 6:30 PM",
       "search_keyword": "chiropractor"
     },
     {
@@ -6112,11 +6185,11 @@
       "website": "https://www.specsavers.com.au/stores/hornsby?utm_source=google&utm_medium=places&utm_content=hornsby&utm_campaign=googleplaces&y_source=1_MTEzNDk2MzQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
       "types": [
         "doctor",
-        "store",
         "medical_clinic",
+        "store",
+        "service",
         "health",
         "point_of_interest",
-        "service",
         "establishment"
       ],
       "vicinity": "Westfield Hornsby Cnr Florence and, Level 1, Shop 1076-1077 Hunter St, Hornsby NSW 2077, Australia",
@@ -6132,8 +6205,8 @@
       "phone": "(02) 8357 1353",
       "website": "https://baileynelson.com.au/pages/optometrist-hornsby/?utm_source=gmb&utm_medium=organic&utm_campaign=hornsby",
       "types": [
-        "store",
         "medical_clinic",
+        "store",
         "health",
         "point_of_interest",
         "establishment"
@@ -6151,11 +6224,11 @@
       "phone": "(02) 9987 2003",
       "website": "https://1001optometry.com.au/pages/hornsby-optometrist-westfield?utm_source=google&utm_medium=organic&utm_campaign=gmb-Hornsby&utm_term=plcid_10739781970921440581",
       "types": [
-        "store",
         "medical_clinic",
+        "store",
+        "service",
         "health",
         "point_of_interest",
-        "service",
         "establishment"
       ],
       "vicinity": "Westfield Hornsby, Shop 1026/7, Level 1/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -6183,26 +6256,6 @@
       "search_keyword": "optometrist"
     },
     {
-      "place_id": "ChIJVVhAgIOnEmsRs8aKkNzZHD8",
-      "name": "OPSM Hornsby",
-      "address": "Shop 1017/236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9477 3439",
-      "website": "https://www.opsm.com.au/stores/nsw/hornsby/opsm-hornsby/1102?cid=OA-OPG&campaign=gmb-website-clicks&details=opsm-hornsby-1102&utm_term=plcid_10405412843703057757",
-      "types": [
-        "store",
-        "medical_clinic",
-        "health",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "Shop 1017/236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "lat": -33.7042994,
-      "lng": 151.0999076,
-      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
-      "search_keyword": "optometrist"
-    },
-    {
       "place_id": "ChIJ47eUFgqnEmsRxkj7FmLXA7g",
       "name": "Oscar Wylee Optometrist - Hornsby",
       "address": "Westfield Hornsby, Level 1 Shop 1069/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -6220,22 +6273,23 @@
       "search_keyword": "optometrist"
     },
     {
-      "place_id": "ChIJidbpOISnEmsRV9H7tW9RU5E",
-      "name": "Complete Vision Optometrist",
-      "address": "Suite 2 (Ground Floor, 32/34 Florence St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9987 1870",
-      "website": "https://completevision.net/",
+      "place_id": "ChIJVVhAgIOnEmsRs8aKkNzZHD8",
+      "name": "OPSM Hornsby",
+      "address": "Shop 1017/236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 3439",
+      "website": "https://www.opsm.com.au/stores/nsw/hornsby/opsm-hornsby/1102?cid=OA-OPG&campaign=gmb-website-clicks&details=opsm-hornsby-1102&utm_term=plcid_10405412843703057757",
       "types": [
-        "store",
         "medical_clinic",
+        "store",
+        "service",
         "health",
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "Suite 2 (Ground Floor, 32/34 Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.7042503,
-      "lng": 151.10143680000002,
-      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 1:00 PM\nSunday: Closed",
+      "vicinity": "Shop 1017/236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.7042994,
+      "lng": 151.0999076,
+      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
       "search_keyword": "optometrist"
     },
     {
@@ -6245,11 +6299,11 @@
       "phone": "(02) 9482 8825",
       "website": null,
       "types": [
-        "store",
         "medical_clinic",
+        "store",
+        "service",
         "health",
         "point_of_interest",
-        "service",
         "establishment"
       ],
       "vicinity": "Shop 3090/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -6265,11 +6319,11 @@
       "phone": "(02) 9477 1711",
       "website": null,
       "types": [
-        "store",
         "medical_clinic",
+        "store",
+        "service",
         "health",
         "point_of_interest",
-        "service",
         "establishment"
       ],
       "vicinity": "Shop1/14 Hunter St, Hornsby NSW 2077, Australia",
@@ -6279,21 +6333,22 @@
       "search_keyword": "optometrist"
     },
     {
-      "place_id": "ChIJidbpOISnEmsRKHaAuJQpE6c",
-      "name": "The Eye Centre Hornsby",
-      "address": "32 Florence St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9477 1109",
-      "website": "http://www.eye.com.au/",
+      "place_id": "ChIJidbpOISnEmsRV9H7tW9RU5E",
+      "name": "Complete Vision Optometrist",
+      "address": "Suite 2 (Ground Floor, 32/34 Florence St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9987 1870",
+      "website": "https://completevision.net/",
       "types": [
-        "doctor",
+        "medical_clinic",
+        "store",
         "health",
         "point_of_interest",
         "establishment"
       ],
-      "vicinity": "32 Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.704310299999996,
-      "lng": 151.1014566,
-      "opening_hours": "Monday: 8:00 AM – 4:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 4:30 PM\nThursday: Closed\nFriday: 8:00 AM – 1:00 PM\nSaturday: Closed\nSunday: Closed",
+      "vicinity": "Suite 2 (Ground Floor, 32/34 Florence St, Hornsby NSW 2077, Australia",
+      "lat": -33.7042503,
+      "lng": 151.10143680000002,
+      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 1:00 PM\nSunday: Closed",
       "search_keyword": "optometrist"
     },
     {
@@ -6313,6 +6368,24 @@
       "lat": -33.7042873,
       "lng": 151.10084469999998,
       "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "optometrist"
+    },
+    {
+      "place_id": "ChIJidbpOISnEmsRKHaAuJQpE6c",
+      "name": "The Eye Centre Hornsby",
+      "address": "32 Florence St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 1109",
+      "website": "http://www.eye.com.au/",
+      "types": [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "32 Florence St, Hornsby NSW 2077, Australia",
+      "lat": -33.704310299999996,
+      "lng": 151.1014566,
+      "opening_hours": "Monday: 8:00 AM – 4:00 PM\nTuesday: 8:00 AM – 5:00 PM\nWednesday: 8:00 AM – 4:30 PM\nThursday: Closed\nFriday: 8:00 AM – 1:00 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "optometrist"
     },
     {
@@ -6341,13 +6414,13 @@
       "types": [
         "physiotherapist",
         "doctor",
-        "wholesaler",
-        "manufacturer",
-        "store",
         "medical_clinic",
+        "wholesaler",
+        "store",
+        "manufacturer",
+        "service",
         "health",
         "point_of_interest",
-        "service",
         "establishment"
       ],
       "vicinity": "3/2 Redleaf Ave, Wahroonga NSW 2076, Australia",
@@ -6363,36 +6436,17 @@
       "phone": "(02) 8406 1595",
       "website": "https://www.icontact-optometrists.com.au/",
       "types": [
-        "store",
         "medical_clinic",
+        "store",
+        "service",
         "health",
         "point_of_interest",
-        "service",
         "establishment"
       ],
       "vicinity": "shop 4a/25 Florence St, Hornsby NSW 2077, Australia",
       "lat": -33.7037036,
       "lng": 151.10008879999998,
       "opening_hours": "Monday: 9:30 AM – 5:30 PM\nTuesday: 9:30 AM – 5:30 PM\nWednesday: 9:30 AM – 5:30 PM\nThursday: 9:30 AM – 5:30 PM\nFriday: 9:30 AM – 5:30 PM\nSaturday: 9:30 AM – 5:00 PM\nSunday: Closed",
-      "search_keyword": "optometrist"
-    },
-    {
-      "place_id": "ChIJidbpOISnEmsRl8WAilQZZPU",
-      "name": "Dr Steven Wine",
-      "address": "Level 1, Suite 6/32 Florence St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9477 1109",
-      "website": "http://www.eye.com.au/",
-      "types": [
-        "doctor",
-        "medical_clinic",
-        "health",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Level 1, Suite 6/32 Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.7043161,
-      "lng": 151.1015185,
-      "opening_hours": "Monday: 8:00 AM – 4:00 PM\nTuesday: 8:00 AM – 4:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: Closed\nFriday: 8:00 AM – 1:00 PM\nSaturday: Closed\nSunday: Closed",
       "search_keyword": "optometrist"
     },
     {
@@ -6448,6 +6502,25 @@
       "search_keyword": "optometrist"
     },
     {
+      "place_id": "ChIJidbpOISnEmsRl8WAilQZZPU",
+      "name": "Dr Steven Wine",
+      "address": "Level 1, Suite 6/32 Florence St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 1109",
+      "website": "http://www.eye.com.au/",
+      "types": [
+        "doctor",
+        "medical_clinic",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Level 1, Suite 6/32 Florence St, Hornsby NSW 2077, Australia",
+      "lat": -33.7043161,
+      "lng": 151.1015185,
+      "opening_hours": "Monday: 8:00 AM – 4:00 PM\nTuesday: 8:00 AM – 4:00 PM\nWednesday: 8:00 AM – 5:00 PM\nThursday: Closed\nFriday: 8:00 AM – 1:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "optometrist"
+    },
+    {
       "place_id": "ChIJuRRPG4SnEmsRjGQa3mlTm4k",
       "name": "Madison Day Surgery",
       "address": "Shop 3/25-29 Hunter St, Hornsby NSW 2077, Australia",
@@ -6455,9 +6528,9 @@
       "website": "https://curagroup.com.au/hospital/madison-day-surgery/",
       "types": [
         "hospital",
+        "service",
         "health",
         "point_of_interest",
-        "service",
         "establishment"
       ],
       "vicinity": "Shop 3/25-29 Hunter St, Hornsby NSW 2077, Australia",
@@ -6494,8 +6567,8 @@
       "types": [
         "gym",
         "fitness_center",
-        "sports_school",
         "sports_complex",
+        "sports_school",
         "sports_activity_location",
         "health",
         "point_of_interest",
@@ -6528,46 +6601,6 @@
       "search_keyword": "gym"
     },
     {
-      "place_id": "ChIJ9VtfdkqnEmsRFb5fiBH5cyo",
-      "name": "Conditn Hornsby",
-      "address": "1100/236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "phone": "0426 782 328",
-      "website": "https://conditn.com/hornsby",
-      "types": [
-        "gym",
-        "sports_activity_location",
-        "health",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "1100/236 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "lat": -33.7036208,
-      "lng": 151.10209279999998,
-      "opening_hours": "Monday: 5:00 AM – 7:00 PM\nTuesday: 5:00 AM – 7:00 PM\nWednesday: 5:00 AM – 7:00 PM\nThursday: 5:00 AM – 7:00 PM\nFriday: 5:00 AM – 1:30 PM\nSaturday: 7:00 – 10:00 AM\nSunday: 8:00 – 9:30 AM",
-      "search_keyword": "gym"
-    },
-    {
-      "place_id": "ChIJFzR1xddZDWsRNUkZ0g1tUMY",
-      "name": "BFT Hornsby",
-      "address": "Ste 7A/6-18 Bridge Rd, Hornsby NSW 2077, Australia",
-      "phone": "0403 634 729",
-      "website": "https://www.bodyfittraining.com/club/hornsby?utm_source=extnet&utm_medium=search&utm_campaign=franchise_lead_genn",
-      "types": [
-        "gym",
-        "fitness_center",
-        "sports_activity_location",
-        "health",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "Ste 7A/6-18 Bridge Rd, Hornsby NSW 2077, Australia",
-      "lat": -33.697821399999995,
-      "lng": 151.1009949,
-      "opening_hours": "Monday: 5:00 AM – 7:30 PM\nTuesday: 5:00 AM – 7:30 PM\nWednesday: 5:00 AM – 7:30 PM\nThursday: 5:00 AM – 7:30 PM\nFriday: 5:00 AM – 6:30 PM\nSaturday: 6:00 – 10:30 AM\nSunday: Closed",
-      "search_keyword": "gym"
-    },
-    {
       "place_id": "ChIJvXYzDa6nEmsRdlWuzNWayzA",
       "name": "Planet Fitness",
       "address": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -6585,6 +6618,25 @@
       "lat": -33.7047254,
       "lng": 151.09958939999999,
       "opening_hours": "",
+      "search_keyword": "gym"
+    },
+    {
+      "place_id": "ChIJ9VtfdkqnEmsRFb5fiBH5cyo",
+      "name": "Conditn Hornsby",
+      "address": "1100/236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "0426 782 328",
+      "website": "https://conditn.com/hornsby",
+      "types": [
+        "gym",
+        "sports_activity_location",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1100/236 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.7036208,
+      "lng": 151.10209279999998,
+      "opening_hours": "Monday: 5:00 AM – 7:00 PM\nTuesday: 5:00 AM – 7:00 PM\nWednesday: 5:00 AM – 7:00 PM\nThursday: 5:00 AM – 7:00 PM\nFriday: 5:00 AM – 1:30 PM\nSaturday: 7:00 – 10:00 AM\nSunday: 8:00 – 9:30 AM",
       "search_keyword": "gym"
     },
     {
@@ -6607,23 +6659,24 @@
       "search_keyword": "gym"
     },
     {
-      "place_id": "ChIJ81rtvIinEmsRvK3cGACAcTk",
-      "name": "Fernwood Fitness",
-      "address": "Albert Street, Shop R4, Level/2 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9477 4177",
-      "website": "https://www.fernwoodfitness.com.au/clubs/hornsby",
+      "place_id": "ChIJFzR1xddZDWsRNUkZ0g1tUMY",
+      "name": "BFT Hornsby",
+      "address": "Ste 7A/6-18 Bridge Rd, Hornsby NSW 2077, Australia",
+      "phone": "0403 634 729",
+      "website": "https://www.bodyfittraining.com/club/hornsby?utm_source=extnet&utm_medium=search&utm_campaign=franchise_lead_genn",
       "types": [
         "gym",
+        "fitness_center",
         "sports_activity_location",
         "health",
         "point_of_interest",
         "service",
         "establishment"
       ],
-      "vicinity": "Albert Street, Shop R4, Level/2 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "lat": -33.703435299999995,
-      "lng": 151.1013648,
-      "opening_hours": "Monday: Open 24 hours\nTuesday: Open 24 hours\nWednesday: Open 24 hours\nThursday: Open 24 hours\nFriday: Open 24 hours\nSaturday: Open 24 hours\nSunday: Open 24 hours",
+      "vicinity": "Ste 7A/6-18 Bridge Rd, Hornsby NSW 2077, Australia",
+      "lat": -33.697821399999995,
+      "lng": 151.1009949,
+      "opening_hours": "Monday: 5:00 AM – 7:30 PM\nTuesday: 5:00 AM – 7:30 PM\nWednesday: 5:00 AM – 7:30 PM\nThursday: 5:00 AM – 7:30 PM\nFriday: 5:00 AM – 6:30 PM\nSaturday: 6:00 – 10:30 AM\nSunday: Closed",
       "search_keyword": "gym"
     },
     {
@@ -6667,6 +6720,26 @@
       "search_keyword": "gym"
     },
     {
+      "place_id": "ChIJ81rtvIinEmsRvK3cGACAcTk",
+      "name": "Fernwood Fitness",
+      "address": "Albert Street, Shop R4, Level/2 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9477 4177",
+      "website": "https://www.fernwoodfitness.com.au/clubs/hornsby",
+      "types": [
+        "gym",
+        "sports_activity_location",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "Albert Street, Shop R4, Level/2 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.703435299999995,
+      "lng": 151.1013648,
+      "opening_hours": "Monday: Open 24 hours\nTuesday: Open 24 hours\nWednesday: Open 24 hours\nThursday: Open 24 hours\nFriday: Open 24 hours\nSaturday: Open 24 hours\nSunday: Open 24 hours",
+      "search_keyword": "gym"
+    },
+    {
       "place_id": "ChIJSZVh1YOnEmsRZjhIyCMBy-Q",
       "name": "Hornsby Aquatic and Leisure Centre",
       "address": "203 Peats Ferry Rd, Hornsby NSW 2077, Australia",
@@ -6674,8 +6747,8 @@
       "website": "http://www.hornsby.nsw.gov.au/lifestyle/sports-and-recreation/swimming/hornsby-aquatic-and-leisure-centre",
       "types": [
         "swimming_pool",
-        "sports_complex",
         "gym",
+        "sports_complex",
         "sports_activity_location",
         "health",
         "point_of_interest",
@@ -6751,20 +6824,20 @@
       "phone": "(02) 8998 5400",
       "website": "https://www.pcycnsw.org.au/hornsby-ku-ring-gai",
       "types": [
-        "non_profit_organization",
         "cafe",
-        "athletic_field",
-        "government_office",
-        "sports_club",
         "sports_coaching",
-        "sports_school",
-        "sports_complex",
+        "non_profit_organization",
         "gym",
+        "sports_club",
+        "sports_complex",
+        "sports_school",
+        "athletic_field",
         "sports_activity_location",
+        "government_office",
         "health",
-        "food",
         "point_of_interest",
         "association_or_organization",
+        "food",
         "service",
         "establishment"
       ],
@@ -6795,24 +6868,6 @@
       "search_keyword": "gym"
     },
     {
-      "place_id": "ChIJOS9UYYenEmsRkyXD03JSdRk",
-      "name": "Freeman's Fitness Training Studio - Hornsby",
-      "address": "2/113 Hunter St, Hornsby NSW 2077, Australia",
-      "phone": "0435 249 198",
-      "website": "http://www.freemansfitness.com/",
-      "types": [
-        "health",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "2/113 Hunter St, Hornsby NSW 2077, Australia",
-      "lat": -33.69828760000001,
-      "lng": 151.1013661,
-      "opening_hours": "Monday: 10:30 – 11:30 AM, 4:00 – 6:00 PM\nTuesday: 4:00 – 6:30 PM\nWednesday: 5:30 – 6:30 AM, 10:00 AM – 12:00 PM, 4:00 – 6:00 PM\nThursday: 11:00 AM – 12:00 PM, 4:00 – 6:30 PM\nFriday: 5:30 – 6:30 AM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "gym"
-    },
-    {
       "place_id": "ChIJpUE-eohYDWsRr-0kG84sPPs",
       "name": "Eternally Fit",
       "address": "6/113 Hunter St, Hornsby NSW 2077, Australia",
@@ -6829,25 +6884,6 @@
       "lat": -33.6983142,
       "lng": 151.1015482,
       "opening_hours": "Monday: 6:00 AM – 8:00 PM\nTuesday: 6:00 – 8:00 AM\nWednesday: 6:00 AM – 8:00 PM\nThursday: 6:00 AM – 8:00 PM\nFriday: 6:00 AM – 8:00 PM\nSaturday: 6:00 – 8:00 AM\nSunday: Closed",
-      "search_keyword": "gym"
-    },
-    {
-      "place_id": "ChIJzx4QW4WnEmsRdrpFftUqNgg",
-      "name": "S & C Recovery Lab",
-      "address": "Unit 1 138/140 George St, Hornsby NSW 2077, Australia",
-      "phone": "0407 067 889",
-      "website": "https://www.sandcrecoverylab.com.au/",
-      "types": [
-        "gym",
-        "sports_activity_location",
-        "health",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Unit 1 138/140 George St, Hornsby NSW 2077, Australia",
-      "lat": -33.6990559,
-      "lng": 151.1006136,
-      "opening_hours": "Monday: 5:00 AM – 11:00 PM\nTuesday: 5:00 AM – 11:00 PM\nWednesday: 5:00 AM – 11:00 PM\nThursday: 5:00 AM – 11:00 PM\nFriday: 5:00 AM – 11:00 PM\nSaturday: 5:00 AM – 5:00 PM\nSunday: 5:00 AM – 5:00 PM",
       "search_keyword": "gym"
     },
     {
@@ -6871,27 +6907,46 @@
       "search_keyword": "gym"
     },
     {
-      "place_id": "ChIJ6eZW5ZlZDWsRgV3CvcIvwek",
-      "name": "Fern Tree Yoga",
-      "address": "19 Fern Tree Cl, Hornsby NSW 2077, Australia",
-      "phone": "0408 331 879",
-      "website": "https://www.ferntreeyoga.com.au/",
+      "place_id": "ChIJzx4QW4WnEmsRdrpFftUqNgg",
+      "name": "S & C Recovery Lab",
+      "address": "Unit 1 138/140 George St, Hornsby NSW 2077, Australia",
+      "phone": "0407 067 889",
+      "website": "https://www.sandcrecoverylab.com.au/",
       "types": [
-        "yoga_studio",
-        "fitness_center",
         "gym",
+        "sports_activity_location",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Unit 1 138/140 George St, Hornsby NSW 2077, Australia",
+      "lat": -33.6990559,
+      "lng": 151.1006136,
+      "opening_hours": "Monday: 5:00 AM – 11:00 PM\nTuesday: 5:00 AM – 11:00 PM\nWednesday: 5:00 AM – 11:00 PM\nThursday: 5:00 AM – 11:00 PM\nFriday: 5:00 AM – 11:00 PM\nSaturday: 5:00 AM – 5:00 PM\nSunday: 5:00 AM – 5:00 PM",
+      "search_keyword": "gym"
+    },
+    {
+      "place_id": "ChIJL6rWFWFYDWsRLJrDuNjBgoU",
+      "name": "Feel Good Health and Performance",
+      "address": "2/14 Brennan Cl, Asquith NSW 2077, Australia",
+      "phone": "0422 677 595",
+      "website": "http://www.fghp.com.au/",
+      "types": [
+        "gym",
+        "fitness_center",
+        "sports_coaching",
         "sports_complex",
         "sports_school",
         "sports_activity_location",
-        "point_of_interest",
         "health",
+        "point_of_interest",
         "establishment"
       ],
-      "vicinity": "19 Fern Tree Cl, Hornsby NSW 2077, Australia",
-      "lat": -33.6950873,
-      "lng": 151.0934457,
-      "opening_hours": "Monday: 7:00 – 9:15 PM\nTuesday: 7:00 – 9:15 PM\nWednesday: Closed\nThursday: Closed\nFriday: Closed\nSaturday: 7:30 – 8:30 AM\nSunday: Closed",
-      "search_keyword": "yoga studio"
+      "vicinity": "2/14 Brennan Cl, Asquith NSW 2077, Australia",
+      "lat": -33.6966959,
+      "lng": 151.10938199999998,
+      "opening_hours": "Monday: 5:00 AM – 8:00 PM\nTuesday: 5:00 AM – 8:00 PM\nWednesday: 5:00 AM – 8:00 PM\nThursday: 5:00 AM – 8:00 PM\nFriday: 5:00 AM – 8:00 PM\nSaturday: 7:00 – 9:00 AM\nSunday: Closed",
+      "search_keyword": "gym"
     },
     {
       "place_id": "ChIJmTYVYIenEmsR1dxQVivkpPQ",
@@ -6903,17 +6958,40 @@
         "yoga_studio",
         "fitness_center",
         "gym",
-        "sports_complex",
         "sports_school",
+        "health",
+        "sports_complex",
         "sports_activity_location",
         "point_of_interest",
-        "health",
         "establishment"
       ],
       "vicinity": "Unit 44/31-33 Leighton Pl, Hornsby NSW 2077, Australia",
       "lat": -33.6955546,
       "lng": 151.1150427,
       "opening_hours": "Monday: 9:30 – 11:00 AM, 4:30 – 8:45 PM\nTuesday: 6:45 – 8:00 AM, 5:45 – 8:30 PM\nWednesday: 5:45 – 11:00 AM, 5:45 – 8:30 PM\nThursday: 6:00 – 11:00 AM, 4:30 – 6:00 PM, 7:00 – 8:30 PM\nFriday: 7:45 – 9:15 AM, 5:45 – 7:15 PM\nSaturday: 6:45 – 10:00 AM\nSunday: 8:15 – 10:00 AM, 4:30 – 7:30 PM",
+      "search_keyword": "yoga studio"
+    },
+    {
+      "place_id": "ChIJ6eZW5ZlZDWsRgV3CvcIvwek",
+      "name": "Fern Tree Yoga",
+      "address": "19 Fern Tree Cl, Hornsby NSW 2077, Australia",
+      "phone": "0408 331 879",
+      "website": "https://www.ferntreeyoga.com.au/",
+      "types": [
+        "yoga_studio",
+        "fitness_center",
+        "gym",
+        "sports_school",
+        "health",
+        "sports_complex",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "19 Fern Tree Cl, Hornsby NSW 2077, Australia",
+      "lat": -33.6950873,
+      "lng": 151.0934457,
+      "opening_hours": "Monday: 7:00 – 9:15 PM\nTuesday: 7:00 – 9:15 PM\nWednesday: Closed\nThursday: Closed\nFriday: Closed\nSaturday: 7:30 – 8:30 AM\nSunday: Closed",
       "search_keyword": "yoga studio"
     },
     {
@@ -6924,37 +7002,14 @@
       "website": "http://www.yogainhornsby.com/",
       "types": [
         "wellness_center",
-        "point_of_interest",
         "health",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "15a Somerville Rd, Hornsby Heights NSW 2077, Australia",
       "lat": -33.6687726,
       "lng": 151.096182,
       "opening_hours": "Monday: 9:00 AM – 9:15 PM\nTuesday: 9:00 AM – 9:15 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 8:30 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "yoga studio"
-    },
-    {
-      "place_id": "ChIJIyWXqIanEmsRW0diSv1X598",
-      "name": "North Side Yoga",
-      "address": "56/51 Leighton Pl, Hornsby NSW 2077, Australia",
-      "phone": "0405 020 201",
-      "website": "https://northsideyoga.com.au/",
-      "types": [
-        "yoga_studio",
-        "fitness_center",
-        "gym",
-        "sports_complex",
-        "sports_school",
-        "sports_activity_location",
-        "point_of_interest",
-        "health",
-        "establishment"
-      ],
-      "vicinity": "56/51 Leighton Pl, Hornsby NSW 2077, Australia",
-      "lat": -33.6948601,
-      "lng": 151.1144721,
-      "opening_hours": "Monday: 7:00 – 8:30 PM\nTuesday: Closed\nWednesday: 9:15 – 10:45 AM, 7:00 – 8:30 PM\nThursday: Closed\nFriday: Closed\nSaturday: 10:00 – 11:30 AM\nSunday: Closed",
       "search_keyword": "yoga studio"
     },
     {
@@ -6967,17 +7022,40 @@
         "yoga_studio",
         "fitness_center",
         "gym",
-        "sports_complex",
         "sports_school",
+        "health",
+        "sports_complex",
         "sports_activity_location",
         "point_of_interest",
-        "health",
         "establishment"
       ],
       "vicinity": "1 Huddart Ave, Normanhurst NSW 2076, Australia",
       "lat": -33.723142599999996,
       "lng": 151.0944031,
       "opening_hours": "Monday: 9:00 AM – 6:00 PM\nTuesday: 9:00 AM – 6:00 PM\nWednesday: 9:00 AM – 6:00 PM\nThursday: 9:00 AM – 6:00 PM\nFriday: 9:00 AM – 6:00 PM\nSaturday: Closed\nSunday: Closed",
+      "search_keyword": "yoga studio"
+    },
+    {
+      "place_id": "ChIJIyWXqIanEmsRW0diSv1X598",
+      "name": "North Side Yoga",
+      "address": "56/51 Leighton Pl, Hornsby NSW 2077, Australia",
+      "phone": "0405 020 201",
+      "website": "https://northsideyoga.com.au/",
+      "types": [
+        "yoga_studio",
+        "fitness_center",
+        "gym",
+        "sports_school",
+        "health",
+        "sports_complex",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "56/51 Leighton Pl, Hornsby NSW 2077, Australia",
+      "lat": -33.6948601,
+      "lng": 151.1144721,
+      "opening_hours": "Monday: 7:00 – 8:30 PM\nTuesday: Closed\nWednesday: 9:15 – 10:45 AM, 7:00 – 8:30 PM\nThursday: Closed\nFriday: Closed\nSaturday: 10:00 – 11:30 AM\nSunday: Closed",
       "search_keyword": "yoga studio"
     },
     {
@@ -6990,11 +7068,11 @@
         "yoga_studio",
         "fitness_center",
         "gym",
-        "sports_complex",
         "sports_school",
+        "health",
+        "sports_complex",
         "sports_activity_location",
         "point_of_interest",
-        "health",
         "establishment"
       ],
       "vicinity": "2 Lockinvar Pl, Hornsby NSW 2077, Australia",
@@ -7013,11 +7091,11 @@
         "yoga_studio",
         "fitness_center",
         "gym",
-        "sports_complex",
         "sports_school",
+        "health",
+        "sports_complex",
         "sports_activity_location",
         "point_of_interest",
-        "health",
         "establishment"
       ],
       "vicinity": "102 George St, Hornsby NSW 2077, Australia",
@@ -7036,11 +7114,11 @@
         "yoga_studio",
         "fitness_center",
         "gym",
-        "sports_complex",
         "sports_school",
+        "health",
+        "sports_complex",
         "sports_activity_location",
         "point_of_interest",
-        "health",
         "establishment"
       ],
       "vicinity": "79 Edgeworth David Ave, Wahroonga NSW 2076, Australia",
@@ -7056,43 +7134,14 @@
       "phone": "0401 784 815",
       "website": "http://www.meditateforfree.au/",
       "types": [
-        "point_of_interest",
         "health",
+        "point_of_interest",
         "establishment"
       ],
       "vicinity": "Hornsby Youth and Family Centre, 20 Burdett St, Hornsby NSW 2077, Australia",
       "lat": -33.7031777,
       "lng": 151.10326519999998,
       "opening_hours": "Monday: 7:00 – 8:00 PM\nTuesday: Closed\nWednesday: Closed\nThursday: Closed\nFriday: Closed\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "yoga studio"
-    },
-    {
-      "place_id": "ChIJHbkqMdunEmsRm1FQDYVb5QE",
-      "name": "KULA BODY",
-      "address": "Level 2/4 Forbes Ln, Turramurra NSW 2074, Australia",
-      "phone": "0418 138 779",
-      "website": "https://kulabody.com/",
-      "types": [
-        "wellness_center",
-        "yoga_studio",
-        "fitness_center",
-        "sauna",
-        "spa",
-        "gym",
-        "public_bath",
-        "sports_complex",
-        "sports_school",
-        "school",
-        "educational_institution",
-        "sports_activity_location",
-        "point_of_interest",
-        "health",
-        "establishment"
-      ],
-      "vicinity": "Level 2/4 Forbes Ln, Turramurra NSW 2074, Australia",
-      "lat": -33.7332223,
-      "lng": 151.1282046,
-      "opening_hours": "Monday: 7:30 AM – 8:30 PM\nTuesday: 6:00 AM – 8:30 PM\nWednesday: 6:00 AM – 8:30 PM\nThursday: 6:00 AM – 8:30 PM\nFriday: 6:00 AM – 7:30 PM\nSaturday: 6:00 AM – 5:00 PM\nSunday: 8:00 AM – 6:00 PM",
       "search_keyword": "yoga studio"
     },
     {
@@ -7105,151 +7154,19 @@
         "yoga_studio",
         "fitness_center",
         "gym",
-        "sports_complex",
         "sports_school",
         "medical_clinic",
+        "health",
+        "sports_complex",
         "sports_activity_location",
         "point_of_interest",
         "service",
-        "health",
         "establishment"
       ],
       "vicinity": "Baha'i Centre, 19 Dural St, Hornsby NSW 2077, Australia",
       "lat": -33.7026971,
       "lng": 151.0947337,
       "opening_hours": "Monday: Closed\nTuesday: Closed\nWednesday: Closed\nThursday: Closed\nFriday: Closed\nSaturday: 9:30 – 10:45 AM\nSunday: Closed",
-      "search_keyword": "yoga studio"
-    },
-    {
-      "place_id": "ChIJWxkWBvanEmsRG3LkTJMh9oo",
-      "name": "ON Pilates",
-      "address": "21 Hunter St, Hornsby NSW 2077, Australia",
-      "phone": "0494 028 531",
-      "website": null,
-      "types": [
-        "gym",
-        "sports_complex",
-        "sports_school",
-        "sports_activity_location",
-        "point_of_interest",
-        "health",
-        "establishment"
-      ],
-      "vicinity": "21 Hunter St, Hornsby NSW 2077, Australia",
-      "lat": -33.7035055,
-      "lng": 151.1002272,
-      "opening_hours": "Monday: 9:00 AM – 8:00 PM\nTuesday: 9:00 AM – 8:00 PM\nWednesday: 9:00 AM – 8:00 PM\nThursday: 9:00 AM – 8:00 PM\nFriday: 9:00 AM – 8:00 PM\nSaturday: 9:00 AM – 2:00 PM\nSunday: 9:00 AM – 2:00 AM",
-      "search_keyword": "yoga studio"
-    },
-    {
-      "place_id": "ChIJeZim692pEmsRUYiNzZDvBrc",
-      "name": "Soul of Yoga",
-      "address": "294 Mona Vale Rd, St Ives NSW 2075, Australia",
-      "phone": "0411 570 882",
-      "website": "https://soulofyoga.com.au/",
-      "types": [
-        "yoga_studio",
-        "fitness_center",
-        "gym",
-        "sports_complex",
-        "sports_school",
-        "sports_activity_location",
-        "point_of_interest",
-        "health",
-        "establishment"
-      ],
-      "vicinity": "294 Mona Vale Rd, St Ives NSW 2075, Australia",
-      "lat": -33.7240762,
-      "lng": 151.16965589999998,
-      "opening_hours": "Monday: 9:00 AM – 9:00 PM\nTuesday: 9:00 AM – 9:00 PM\nWednesday: 9:00 AM – 9:00 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 – 11:00 AM\nSaturday: 8:00 AM – 12:00 PM\nSunday: Closed",
-      "search_keyword": "yoga studio"
-    },
-    {
-      "place_id": "ChIJEZ2eCpZZDWsR_u99lStcNAA",
-      "name": "Happy Power",
-      "address": "2/4 Leighton Pl, Hornsby NSW 2077, Australia",
-      "phone": "",
-      "website": "http://www.happypower.com.au/",
-      "types": [
-        "sporting_goods_store",
-        "clothing_store",
-        "point_of_interest",
-        "store",
-        "establishment"
-      ],
-      "vicinity": "2/4 Leighton Pl, Hornsby NSW 2077, Australia",
-      "lat": -33.697446,
-      "lng": 151.11195899999998,
-      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: 9:00 AM – 5:00 PM\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 9:00 AM – 5:00 PM",
-      "search_keyword": "yoga studio"
-    },
-    {
-      "place_id": "ChIJgQNez_RZDWsRWx6BS96dO3I",
-      "name": "Gia Massage and Yoga",
-      "address": "Unit 44/31-33 Leighton Pl, Hornsby NSW 2077, Australia",
-      "phone": "0418 667 574",
-      "website": "http://giamassage.com.au/",
-      "types": [
-        "massage",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "Unit 44/31-33 Leighton Pl, Hornsby NSW 2077, Australia",
-      "lat": -33.695270199999996,
-      "lng": 151.1147097,
-      "opening_hours": "",
-      "search_keyword": "yoga studio"
-    },
-    {
-      "place_id": "ChIJAbDff-Ioa6MRlh0OVLiTCv8",
-      "name": "Bloom In Motion",
-      "address": "1 Wells St, Thornleigh NSW 2120, Australia",
-      "phone": "0403 264 645",
-      "website": "https://www.bloominmotion.com.au/",
-      "types": [
-        "yoga_studio",
-        "fitness_center",
-        "gym",
-        "sports_complex",
-        "sports_school",
-        "sports_activity_location",
-        "point_of_interest",
-        "health",
-        "establishment"
-      ],
-      "vicinity": "1 Wells St, Thornleigh NSW 2120, Australia",
-      "lat": -33.7321482,
-      "lng": 151.0766616,
-      "opening_hours": "Monday: 9:00 AM – 4:00 PM\nTuesday: 8:30 AM – 3:00 PM\nWednesday: 8:30 – 10:30 AM\nThursday: 11:30 AM – 2:30 PM\nFriday: 1:00 – 6:30 PM\nSaturday: Closed\nSunday: Closed",
-      "search_keyword": "yoga studio"
-    },
-    {
-      "place_id": "ChIJEQDL2YFZDWsRvFIWr8ZJuXk",
-      "name": "Ayurveda Bliss Holistic Centre - Ayurveda Sydney",
-      "address": "100 Pacific Hwy, Waitara NSW 2077, Australia",
-      "phone": "0451 818 950",
-      "website": "https://ayurvedabliss.com.au/",
-      "types": [
-        "yoga_studio",
-        "fitness_center",
-        "massage_spa",
-        "spa",
-        "gym",
-        "sports_complex",
-        "massage",
-        "sports_school",
-        "sports_activity_location",
-        "point_of_interest",
-        "service",
-        "health",
-        "store",
-        "establishment"
-      ],
-      "vicinity": "100 Pacific Hwy, Waitara NSW 2077, Australia",
-      "lat": -33.7102025,
-      "lng": 151.1027164,
-      "opening_hours": "Monday: 9:00 AM – 8:00 PM\nTuesday: 9:00 AM – 8:00 PM\nWednesday: 9:00 AM – 8:00 PM\nThursday: 9:00 AM – 8:00 PM\nFriday: 9:00 AM – 8:00 PM\nSaturday: 9:00 AM – 8:00 PM\nSunday: 9:00 AM – 8:00 PM",
       "search_keyword": "yoga studio"
     },
     {
@@ -7307,6 +7224,25 @@
       "lat": -33.7065061,
       "lng": 151.0991939,
       "opening_hours": "Monday: 9:30 AM – 6:00 PM\nTuesday: 9:30 AM – 6:00 PM\nWednesday: 9:30 AM – 8:00 PM\nThursday: 9:30 AM – 9:00 PM\nFriday: 9:30 AM – 6:00 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
+      "search_keyword": "hair salon"
+    },
+    {
+      "place_id": "ChIJlzMiTYOnEmsRmJjWOsXyFaQ",
+      "name": "Prachi Hair And Beauty Salon",
+      "address": "Unit 130/121-133 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "0413 327 553",
+      "website": "http://prachihairandbeauty.com.au/",
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "Unit 130/121-133 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.7067675,
+      "lng": 151.0984605,
+      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: Closed\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 3:00 PM\nSunday: 10:00 AM – 4:00 PM",
       "search_keyword": "hair salon"
     },
     {
@@ -7386,25 +7322,6 @@
       "search_keyword": "hair salon"
     },
     {
-      "place_id": "ChIJlzMiTYOnEmsRmJjWOsXyFaQ",
-      "name": "Prachi Hair And Beauty Salon",
-      "address": "Unit 130/121-133 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "phone": "0413 327 553",
-      "website": "http://prachihairandbeauty.com.au/",
-      "types": [
-        "hair_salon",
-        "hair_care",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "Unit 130/121-133 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "lat": -33.7067675,
-      "lng": 151.0984605,
-      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: Closed\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 3:00 PM\nSunday: 10:00 AM – 4:00 PM",
-      "search_keyword": "hair salon"
-    },
-    {
       "place_id": "ChIJDYPpVtmnEmsRJSqgc5MgL70",
       "name": "Hair And Rose Studio",
       "address": "shop 132/121-133 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -7432,8 +7349,8 @@
       "types": [
         "hair_salon",
         "cosmetics_store",
-        "hair_care",
         "body_art_service",
+        "hair_care",
         "store",
         "point_of_interest",
         "service",
@@ -7443,6 +7360,26 @@
       "lat": -33.7037463,
       "lng": 151.101251,
       "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
+      "search_keyword": "hair salon"
+    },
+    {
+      "place_id": "ChIJT6FbDISnEmsRJL55Qijkf5U",
+      "name": "Noriko's Hair Salon",
+      "address": "6/25-31 Florence St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 8924 5189",
+      "website": "http://norikohairsalon.wixsite.com/hornsby",
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "6/25-31 Florence St, Hornsby NSW 2077, Australia",
+      "lat": -33.7037006,
+      "lng": 151.100101,
+      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: Closed\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 4:00 PM\nSunday: Closed",
       "search_keyword": "hair salon"
     },
     {
@@ -7484,26 +7421,6 @@
       "search_keyword": "hair salon"
     },
     {
-      "place_id": "ChIJT6FbDISnEmsRJL55Qijkf5U",
-      "name": "Noriko's Hair Salon",
-      "address": "6/25-31 Florence St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 8924 5189",
-      "website": "http://norikohairsalon.wixsite.com/hornsby",
-      "types": [
-        "hair_salon",
-        "hair_care",
-        "store",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "6/25-31 Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.7037006,
-      "lng": 151.100101,
-      "opening_hours": "Monday: 9:00 AM – 5:00 PM\nTuesday: 9:00 AM – 5:00 PM\nWednesday: Closed\nThursday: 9:00 AM – 5:00 PM\nFriday: 9:00 AM – 5:00 PM\nSaturday: 9:00 AM – 4:00 PM\nSunday: Closed",
-      "search_keyword": "hair salon"
-    },
-    {
       "place_id": "ChIJk725m5qnEmsRtOT-Cwg1Bzc",
       "name": "Hair Salon Asquith Platinum Hair By Belle",
       "address": "361 Pacific Hwy, Asquith NSW 2077, Australia",
@@ -7542,11 +7459,11 @@
       "search_keyword": "hair salon"
     },
     {
-      "place_id": "ChIJsylUPoSnEmsRnd0EVam77A8",
-      "name": "Stylz Hair",
-      "address": "1, Hunter St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 6166",
-      "website": "http://www.stylz.com.au/",
+      "place_id": "ChIJK1jXwTinEmsR3vLwEA-uw1o",
+      "name": "Ben's Hair Salon",
+      "address": "Unit 133/121-133 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "0416 722 451",
+      "website": null,
       "types": [
         "hair_salon",
         "hair_care",
@@ -7554,29 +7471,10 @@
         "service",
         "establishment"
       ],
-      "vicinity": "1, Hunter St, Hornsby NSW 2077, Australia",
-      "lat": -33.7039131,
-      "lng": 151.1009689,
-      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
-      "search_keyword": "hair salon"
-    },
-    {
-      "place_id": "ChIJIfSUnIOnEmsRcQo1egrbPdo",
-      "name": "Just Cuts",
-      "address": "Shop 1048 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9476 4700",
-      "website": "http://www.justcuts.com.au/",
-      "types": [
-        "hair_salon",
-        "hair_care",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "Shop 1048 Pacific Hwy, Hornsby NSW 2077, Australia",
-      "lat": -33.703519799999995,
-      "lng": 151.1017417,
-      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
+      "vicinity": "Unit 133/121-133 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.7069859,
+      "lng": 151.098532,
+      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: Closed\nThursday: 9:00 AM – 5:30 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: Closed",
       "search_keyword": "hair salon"
     },
     {
@@ -7599,6 +7497,44 @@
       "search_keyword": "hair salon"
     },
     {
+      "place_id": "ChIJIfSUnIOnEmsRcQo1egrbPdo",
+      "name": "Just Cuts",
+      "address": "Shop 1048 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 4700",
+      "website": "http://www.justcuts.com.au/",
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "Shop 1048 Pacific Hwy, Hornsby NSW 2077, Australia",
+      "lat": -33.703519799999995,
+      "lng": 151.1017417,
+      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
+      "search_keyword": "hair salon"
+    },
+    {
+      "place_id": "ChIJsylUPoSnEmsRnd0EVam77A8",
+      "name": "Stylz Hair",
+      "address": "1, Hunter St, Hornsby NSW 2077, Australia",
+      "phone": "(02) 9476 6166",
+      "website": "http://www.stylz.com.au/",
+      "types": [
+        "hair_salon",
+        "hair_care",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "1, Hunter St, Hornsby NSW 2077, Australia",
+      "lat": -33.7039131,
+      "lng": 151.1009689,
+      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
+      "search_keyword": "hair salon"
+    },
+    {
       "place_id": "ChIJ9Sk1tIanEmsRPvLy7Er9Fek",
       "name": "HOPI HAIR DESIGN hornsby",
       "address": "Australia, New South Wales, Hornsby, George St, U 506/88",
@@ -7618,25 +7554,6 @@
       "search_keyword": "hair salon"
     },
     {
-      "place_id": "ChIJrVflP4SnEmsR9z6rTM7PZVg",
-      "name": "Ivy hair co",
-      "address": "located under, westpac bank, Shop B/30 Florence St, Hornsby NSW 2077, Australia",
-      "phone": "(02) 9482 5700",
-      "website": "https://m.facebook.com/Ivy-Hair-Co-174163236695213/",
-      "types": [
-        "hair_salon",
-        "hair_care",
-        "point_of_interest",
-        "service",
-        "establishment"
-      ],
-      "vicinity": "located under, westpac bank, Shop B/30 Florence St, Hornsby NSW 2077, Australia",
-      "lat": -33.7044188,
-      "lng": 151.10110319999998,
-      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 5:30 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:30 PM\nSunday: 9:00 AM – 5:30 PM",
-      "search_keyword": "hair salon"
-    },
-    {
       "place_id": "ChIJLSNfi4OnEmsRdsBXQc-PDHs",
       "name": "Hornsby Beauty Salon",
       "address": "2 Florence St, Hornsby NSW 2077, Australia",
@@ -7644,8 +7561,8 @@
       "website": "https://hornsbybeautysalon.com.au/",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "2 Florence St, Hornsby NSW 2077, Australia",
@@ -7662,8 +7579,8 @@
       "website": "https://www.rubyroombeauty.com.au/",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -7681,8 +7598,8 @@
       "types": [
         "nail_salon",
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Westfield Hornsby, Level 3, Shop 3084/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -7699,8 +7616,8 @@
       "website": "http://www.jeevibrowstudio.com.au/",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "236 Pacific Hwy Shop 3078 Westfield Hornsby Level 3 Near David Jones, Hornsby NSW 2067, Australia",
@@ -7717,14 +7634,32 @@
       "website": "https://www.freskin.com.au/",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "236 Pacific Hwy, Hornsby NSW 2077, Australia",
       "lat": -33.7048729,
       "lng": 151.1016201,
       "opening_hours": "Monday: 10:00 AM – 5:30 PM\nTuesday: 10:00 AM – 5:30 PM\nWednesday: 10:00 AM – 5:30 PM\nThursday: 10:00 AM – 5:30 PM\nFriday: 10:00 AM – 5:30 PM\nSaturday: 10:00 AM – 5:30 PM\nSunday: 10:00 AM – 5:30 PM",
+      "search_keyword": "beauty salon"
+    },
+    {
+      "place_id": "ChIJlTUUej6nEmsRWOggzN8TnYY",
+      "name": "Milash Studio Hornsby",
+      "address": "Westfield Hornsby (Next to Baby Bunting, TK Maxx, Level 2, Shop 2057, Hornsby NSW 2077, Australia",
+      "phone": "0428 897 601",
+      "website": "https://www.fresha.com/book-now/milash-studio-hornsby-i5eqjumy/services?lid=2682302&share=true&pId=2596220",
+      "types": [
+        "beauty_salon",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "vicinity": "Westfield Hornsby (Next to Baby Bunting, TK Maxx, Level 2, Shop 2057, Hornsby NSW 2077, Australia",
+      "lat": -33.702876599999996,
+      "lng": 151.10137229999998,
+      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
       "search_keyword": "beauty salon"
     },
     {
@@ -7736,38 +7671,20 @@
       "types": [
         "beauty_salon",
         "skin_care_clinic",
-        "massage_spa",
         "hair_care",
-        "spa",
+        "massage_spa",
         "massage",
+        "spa",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "34 Hunter St, Hornsby NSW 2077, Australia",
       "lat": -33.703258,
       "lng": 151.100783,
       "opening_hours": "Monday: Closed\nTuesday: 10:00 AM – 8:00 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 4:30 PM\nSunday: Closed",
-      "search_keyword": "beauty salon"
-    },
-    {
-      "place_id": "ChIJlTUUej6nEmsRWOggzN8TnYY",
-      "name": "Milash Studio Hornsby",
-      "address": "Westfield Hornsby (Next to Baby Bunting, TK Maxx, Level 2, Shop 2057, Hornsby NSW 2077, Australia",
-      "phone": "0428 897 601",
-      "website": "https://www.fresha.com/book-now/milash-studio-hornsby-i5eqjumy/services?lid=2682302&share=true&pId=2596220",
-      "types": [
-        "beauty_salon",
-        "service",
-        "point_of_interest",
-        "establishment"
-      ],
-      "vicinity": "Westfield Hornsby (Next to Baby Bunting, TK Maxx, Level 2, Shop 2057, Hornsby NSW 2077, Australia",
-      "lat": -33.702876599999996,
-      "lng": 151.10137229999998,
-      "opening_hours": "Monday: 9:00 AM – 5:30 PM\nTuesday: 9:00 AM – 5:30 PM\nWednesday: 9:00 AM – 5:30 PM\nThursday: 9:00 AM – 9:00 PM\nFriday: 9:00 AM – 5:30 PM\nSaturday: 9:00 AM – 5:00 PM\nSunday: 10:00 AM – 5:00 PM",
       "search_keyword": "beauty salon"
     },
     {
@@ -7778,8 +7695,8 @@
       "website": "https://exoticindianbeauty.com.au/",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Shop 1045/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -7796,8 +7713,8 @@
       "website": "https://allurebeautyhornsby.com/",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Shop 3017 Westfield Hornsby Shopping Centre, 236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -7814,8 +7731,8 @@
       "website": "https://browbeautyhub.com.au/",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Ksk 106/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -7833,8 +7750,8 @@
       "types": [
         "beauty_salon",
         "makeup_artist",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "5/14 Edgeworth David Ave, Hornsby NSW 2077, Australia",
@@ -7851,8 +7768,8 @@
       "website": "https://evalinebeauty.com/",
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Westfield Hornsby, Level 3, Shop 3043/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -7869,8 +7786,8 @@
       "website": null,
       "types": [
         "beauty_salon",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Shop 2067, Level 2/236 Pacific Hwy, Hornsby NSW 2077, Australia",
@@ -7892,8 +7809,8 @@
         "hair_care",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "3A William St, Hornsby NSW 2077, Australia",
@@ -7913,8 +7830,8 @@
         "skin_care_clinic",
         "medical_clinic",
         "health",
-        "service",
         "point_of_interest",
+        "service",
         "establishment"
       ],
       "vicinity": "Australia, New South Wales, Hornsby, Florence St, AU NSW Hornsby Suit1邮政编码: 2077",

@@ -1360,5 +1360,11 @@
     "trade": "bakery",
     "sent_at": "2026-08-05T12:04:24.917468+10:00",
     "followup_sent_at": null
+  },
+  "bondi@brooklyndonutcoffeeco.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-06T11:00:20.493082+10:00",
+    "followup_sent_at": null
   }
 }
