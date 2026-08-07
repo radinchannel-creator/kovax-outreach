@@ -1311,31 +1311,31 @@
     "name": "Singh Movers And Packers",
     "trade": "removalist",
     "sent_at": "2026-07-30T11:08:05.018886+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-07T12:39:05.002437+10:00"
   },
   "sunshineplaza@brooklyndonutcoffeeco.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-07-30T11:08:11.617095+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-07T12:39:11.609151+10:00"
   },
   "joseph@empiremetal.com.au": {
     "name": "North Shore Fencing and Gates",
     "trade": "fencer",
     "sent_at": "2026-07-31T11:19:34.791418+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-07T12:39:18.248679+10:00"
   },
   "sales@longainfencing.com.au": {
     "name": "Longain Fencing",
     "trade": "fencer",
     "sent_at": "2026-07-31T11:19:41.513058+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-07T12:39:24.837818+10:00"
   },
   "pacfair@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-07-31T11:19:48.432733+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-07T12:39:31.692354+10:00"
   },
   "gardencity@brooklyndonutcoffeeco.com.au": {
     "name": "Brooklyn Donuts Hornsby",
@@ -1365,6 +1365,18 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-06T11:00:20.493082+10:00",
+    "followup_sent_at": null
+  },
+  "sqirtplusplumbing@gmail.com": {
+    "name": "SQIRT Plus Plumbing",
+    "trade": "roofer",
+    "sent_at": "2026-08-07T12:38:51.420334+10:00",
+    "followup_sent_at": null
+  },
+  "woden@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-07T12:38:58.140248+10:00",
     "followup_sent_at": null
   }
 }
