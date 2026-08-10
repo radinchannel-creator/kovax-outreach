@@ -1378,5 +1378,23 @@
     "trade": "bakery",
     "sent_at": "2026-08-07T12:38:58.140248+10:00",
     "followup_sent_at": null
+  },
+  "mountgravatt@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-10T11:08:37.401092+10:00",
+    "followup_sent_at": null
+  },
+  "hornsby@inlifewellness.com.au": {
+    "name": "inLIFE Wellness Hornsby",
+    "trade": "gym",
+    "sent_at": "2026-08-10T11:08:44.088737+10:00",
+    "followup_sent_at": null
+  },
+  "intake.sa@studioartes.org.au": {
+    "name": "Studio ARTES",
+    "trade": "yoga studio",
+    "sent_at": "2026-08-10T11:08:50.775923+10:00",
+    "followup_sent_at": null
   }
 }
