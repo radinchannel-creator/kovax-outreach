@@ -1341,7 +1341,7 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-03T11:23:51.811085+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-11T10:36:16.438867+10:00"
   },
   "brian@artviewlandscapes.com.au": {
     "name": "Artview Landscapes",
@@ -1395,6 +1395,30 @@
     "name": "Studio ARTES",
     "trade": "yoga studio",
     "sent_at": "2026-08-10T11:08:50.775923+10:00",
+    "followup_sent_at": null
+  },
+  "info@mipainting.com.au": {
+    "name": "Mi Painting & Maintenance",
+    "trade": "painter",
+    "sent_at": "2026-08-11T10:35:44.692883+10:00",
+    "followup_sent_at": null
+  },
+  "community@boral.com.au": {
+    "name": "Boral Concrete",
+    "trade": "concreter",
+    "sent_at": "2026-08-11T10:35:52.861595+10:00",
+    "followup_sent_at": null
+  },
+  "castletowers@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-11T10:36:01.873409+10:00",
+    "followup_sent_at": null
+  },
+  "reception@drckanowitz.com": {
+    "name": "Dr Kanowitz Dental Surgery - Hornsby Dentist",
+    "trade": "dentist",
+    "sent_at": "2026-08-11T10:36:08.899076+10:00",
     "followup_sent_at": null
   }
 }
