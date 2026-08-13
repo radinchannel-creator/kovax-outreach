@@ -1359,13 +1359,13 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-05T12:04:24.917468+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-13T11:08:36.014676+10:00"
   },
   "bondi@brooklyndonutcoffeeco.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-06T11:00:20.493082+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-13T11:08:42.583012+10:00"
   },
   "sqirtplusplumbing@gmail.com": {
     "name": "SQIRT Plus Plumbing",
@@ -1437,6 +1437,30 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-12T10:41:46.344099+10:00",
+    "followup_sent_at": null
+  },
+  "info@scarlethomes.com.au": {
+    "name": "Scarlet Homes Contact Office",
+    "trade": "builder",
+    "sent_at": "2026-08-13T11:08:08.503223+10:00",
+    "followup_sent_at": null
+  },
+  "admin@localroofingcompany.com.au": {
+    "name": "Local Roofing Company Hornsby",
+    "trade": "roofer",
+    "sent_at": "2026-08-13T11:08:15.506290+10:00",
+    "followup_sent_at": null
+  },
+  "indooroopilly@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-13T11:08:22.302840+10:00",
+    "followup_sent_at": null
+  },
+  "hello@esalonhair.com": {
+    "name": "é SALON Hair",
+    "trade": "hair salon",
+    "sent_at": "2026-08-13T11:08:29.051086+10:00",
     "followup_sent_at": null
   }
 }
