@@ -1462,5 +1462,11 @@
     "trade": "hair salon",
     "sent_at": "2026-08-13T11:08:29.051086+10:00",
     "followup_sent_at": null
+  },
+  "kotara@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-14T10:34:23.765706+10:00",
+    "followup_sent_at": null
   }
 }
