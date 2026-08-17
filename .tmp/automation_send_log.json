@@ -1371,13 +1371,13 @@
     "name": "SQIRT Plus Plumbing",
     "trade": "roofer",
     "sent_at": "2026-08-07T12:38:51.420334+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-17T10:10:26.651530+10:00"
   },
   "woden@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-07T12:38:58.140248+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-17T10:10:33.240014+10:00"
   },
   "mountgravatt@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
@@ -1467,6 +1467,30 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-14T10:34:23.765706+10:00",
+    "followup_sent_at": null
+  },
+  "info@northshorecleaners.com.au": {
+    "name": "North Shore Cleaners",
+    "trade": "cleaner",
+    "sent_at": "2026-08-17T10:09:59.134803+10:00",
+    "followup_sent_at": null
+  },
+  "azaremovalspty@gmail.com": {
+    "name": "AZA REMOVALS",
+    "trade": "removalist",
+    "sent_at": "2026-08-17T10:10:05.949693+10:00",
+    "followup_sent_at": null
+  },
+  "info@menthatmove.com": {
+    "name": "Men That Move",
+    "trade": "removalist",
+    "sent_at": "2026-08-17T10:10:12.660981+10:00",
+    "followup_sent_at": null
+  },
+  "miranda@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-17T10:10:19.265630+10:00",
     "followup_sent_at": null
   }
 }
