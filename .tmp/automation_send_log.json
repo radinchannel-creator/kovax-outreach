@@ -1383,19 +1383,19 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-10T11:08:37.401092+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-18T10:20:40.099746+10:00"
   },
   "hornsby@inlifewellness.com.au": {
     "name": "inLIFE Wellness Hornsby",
     "trade": "gym",
     "sent_at": "2026-08-10T11:08:44.088737+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-18T10:20:46.894696+10:00"
   },
   "intake.sa@studioartes.org.au": {
     "name": "Studio ARTES",
     "trade": "yoga studio",
     "sent_at": "2026-08-10T11:08:50.775923+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-18T10:20:53.415802+10:00"
   },
   "info@mipainting.com.au": {
     "name": "Mi Painting & Maintenance",
@@ -1491,6 +1491,12 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-17T10:10:19.265630+10:00",
+    "followup_sent_at": null
+  },
+  "strathpine@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-18T10:20:33.315821+10:00",
     "followup_sent_at": null
   }
 }
