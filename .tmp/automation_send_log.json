@@ -1425,19 +1425,19 @@
     "name": "Classic Perfection Painting",
     "trade": "painter",
     "sent_at": "2026-08-12T10:41:33.044504+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-20T10:24:08.003225+10:00"
   },
   "philliplimautomotive@gmail.com": {
     "name": "Phillip Lim Automotive",
     "trade": "mechanic",
     "sent_at": "2026-08-12T10:41:39.629106+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-20T10:24:14.704900+10:00"
   },
   "broadway@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-12T10:41:46.344099+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-20T10:24:21.346283+10:00"
   },
   "info@scarlethomes.com.au": {
     "name": "Scarlet Homes Contact Office",
@@ -1497,6 +1497,12 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-18T10:20:33.315821+10:00",
+    "followup_sent_at": null
+  },
+  "hello@brightforceelectrical.com.au": {
+    "name": "Bright Force Electrical Hornsby",
+    "trade": "electrician",
+    "sent_at": "2026-08-20T10:24:00.960228+10:00",
     "followup_sent_at": null
   }
 }
