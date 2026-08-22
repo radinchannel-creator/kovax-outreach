@@ -4,8 +4,8 @@ on:
   schedule:
     # Monday 9am AEST (UTC+10) = Sunday 23:00 UTC — full pipeline with fresh scrape
     - cron: '0 23 * * 0'
-    # Tue–Fri 9am AEST = Mon–Thu 23:00 UTC — send only, reuse existing leads
-    - cron: '0 23 * * 1-4'
+    # Tue–Sun 9am AEST = Mon–Sat 23:00 UTC — send only, reuse existing leads
+    - cron: '0 23 * * 1-6'
   workflow_dispatch:
     inputs:
       force:
@@ -44,8 +44,8 @@ jobs:
         if: github.event.schedule == '0 23 * * 0'
         run: python tools/run_automation_pipeline.py --limit 50 --force
 
-      - name: Run send-only pipeline (Tue–Fri)
-        if: github.event.schedule == '0 23 * * 1-4'
+      - name: Run send-only pipeline (Tue–Sun)
+        if: github.event.schedule == '0 23 * * 1-6'
         run: python tools/run_automation_pipeline.py --skip-scrape --limit 50 --force
 
       - name: Run manual trigger
