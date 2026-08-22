@@ -54,9 +54,10 @@ FAKE_DOMAINS = {
 
 # ── Industry categorisation ────────────────────────────────────────────────────
 
+QUOTER_KW = {"landscaper", "roofer"}
 TRADE_KW = {
     "electrician", "plumber", "builder", "carpenter", "painter",
-    "landscaper", "concreter", "tiler", "roofer", "fencer", "mechanic",
+    "concreter", "tiler", "fencer", "mechanic",
     "panel beater", "locksmith", "pest control", "cleaner", "cleaning",
     "removalist", "gardener", "handyman", "glazier",
 }
@@ -116,6 +117,9 @@ INDUSTRY_COPY = {
 
 def categorize(trade: str) -> str:
     t = trade.lower()
+    for kw in QUOTER_KW:
+        if kw in t:
+            return "quoter"
     for kw in TRADE_KW:
         if kw in t:
             return "trade"
@@ -183,14 +187,37 @@ def build_email(lead: dict) -> tuple[str, str, str]:
     name     = lead.get("name", "your business")
     trade    = (lead.get("trade") or "business").lower()
     category = categorize(trade)
-    body     = INDUSTRY_COPY[category]
 
-    subject = f"quick one for {name}"
+    if category == "quoter":
+        subject = f"free AI quoter for {name}?"
+        para1 = (
+            "Would your business be interested in an AI quoting tool for your site, "
+            "free of charge? A customer fills in their job details and gets a real "
+            "quote back straight away instead of waiting on a callback."
+        )
+        para2 = (
+            "I'm 16 and just starting out building these, so I'm doing a handful "
+            "for free right now to get some runs on the board — no cost, no catch."
+        )
+        closing_plain = "Keen for a quick chat if it sounds useful."
+        closing_html  = "Keen for a quick chat if it sounds useful."
+        body_plain    = f"{para1}\n\n{para2}"
+        body_html     = (
+            f'<p style="margin:0 0 16px;color:#333;font-size:15px;line-height:1.75;">{para1}</p>\n'
+            f'  <p style="margin:0 0 16px;color:#333;font-size:15px;line-height:1.75;">{para2}</p>'
+        )
+    else:
+        body          = INDUSTRY_COPY[category]
+        subject       = f"quick one for {name}"
+        closing_plain = f"If any of that sounds useful for {name}, let's jump on a quick call."
+        closing_html  = f"If any of that sounds useful for <strong>{name}</strong>, let&rsquo;s jump on a quick call."
+        body_plain    = body
+        body_html     = f'<p style="margin:0 0 16px;color:#333;font-size:15px;line-height:1.75;">{body}</p>'
 
     plain = (
         f"Hi,\n\n"
-        f"{body}\n\n"
-        f"If any of that sounds useful for {name}, let's jump on a quick call.\n\n"
+        f"{body_plain}\n\n"
+        f"{closing_plain}\n\n"
         f"Cheers,\nRadin\nkovax.com.au\n"
     )
 
@@ -203,9 +230,9 @@ def build_email(lead: dict) -> tuple[str, str, str]:
 <table width="580" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:8px;overflow:hidden;">
 <tr><td style="padding:36px 40px 32px;">
   <p style="margin:0 0 18px;color:#333;font-size:15px;line-height:1.75;">Hi,</p>
-  <p style="margin:0 0 16px;color:#333;font-size:15px;line-height:1.75;">{body}</p>
+  {body_html}
   <p style="margin:0 0 24px;color:#333;font-size:15px;line-height:1.75;">
-    If any of that sounds useful for <strong>{name}</strong>, let&rsquo;s jump on a quick call.
+    {closing_html}
   </p>
   <p style="margin:0 0 4px;color:#333;font-size:15px;line-height:1.75;">Cheers,</p>
   <p style="margin:0 0 2px;color:#333;font-size:15px;line-height:1.75;font-weight:bold;">Radin</p>
