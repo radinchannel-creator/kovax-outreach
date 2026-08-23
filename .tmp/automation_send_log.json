@@ -1467,7 +1467,7 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-14T10:34:23.765706+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-23T10:28:40.509621+10:00"
   },
   "info@northshorecleaners.com.au": {
     "name": "North Shore Cleaners",
@@ -1503,6 +1503,30 @@
     "name": "Bright Force Electrical Hornsby",
     "trade": "electrician",
     "sent_at": "2026-08-20T10:24:00.960228+10:00",
+    "followup_sent_at": null
+  },
+  "info@luxverastonetiles.com.au": {
+    "name": "LUXVERA STONE & TILES PTY LTD",
+    "trade": "tiler",
+    "sent_at": "2026-08-23T10:28:14.160395+10:00",
+    "followup_sent_at": null
+  },
+  "info@maidforyou.com.au": {
+    "name": "Maidforyou",
+    "trade": "cleaning service",
+    "sent_at": "2026-08-23T10:28:20.679313+10:00",
+    "followup_sent_at": null
+  },
+  "carindale@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-23T10:28:27.173900+10:00",
+    "followup_sent_at": null
+  },
+  "sytechteam@vnd.au": {
+    "name": "Sahaja Yoga Meditation Hornsby - Free classes Australia Wide",
+    "trade": "yoga studio",
+    "sent_at": "2026-08-23T10:28:33.708539+10:00",
     "followup_sent_at": null
   }
 }
