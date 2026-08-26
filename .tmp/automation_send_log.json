@@ -1594,5 +1594,17 @@
     "trade": "dog groomer",
     "sent_at": "2026-08-25T11:34:31.999584+10:00",
     "followup_sent_at": null
+  },
+  "you@email.com": {
+    "name": "JB Removals",
+    "trade": "removalist",
+    "sent_at": "2026-08-26T10:29:39.020970+10:00",
+    "followup_sent_at": null
+  },
+  "estherbecchio@hotmail.com": {
+    "name": "Yoga in Hornsby",
+    "trade": "yoga studio",
+    "sent_at": "2026-08-26T10:29:45.774706+10:00",
+    "followup_sent_at": null
   }
 }
