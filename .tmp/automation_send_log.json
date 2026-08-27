@@ -1503,7 +1503,7 @@
     "name": "Bright Force Electrical Hornsby",
     "trade": "electrician",
     "sent_at": "2026-08-20T10:24:00.960228+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-27T15:20:34.008696+10:00"
   },
   "info@luxverastonetiles.com.au": {
     "name": "LUXVERA STONE & TILES PTY LTD",
@@ -1605,6 +1605,54 @@
     "name": "Yoga in Hornsby",
     "trade": "yoga studio",
     "sent_at": "2026-08-26T10:29:45.774706+10:00",
+    "followup_sent_at": null
+  },
+  "info@gdmelectrical.com.au": {
+    "name": "GDM Electrical Local Electricians",
+    "trade": "electrician",
+    "sent_at": "2026-08-27T15:19:41.022341+10:00",
+    "followup_sent_at": null
+  },
+  "info@roofingtoday.com.au": {
+    "name": "Roofing Today of Cherrybrook",
+    "trade": "roofer",
+    "sent_at": "2026-08-27T15:19:47.661207+10:00",
+    "followup_sent_at": null
+  },
+  "fences@craftinwood.com.au": {
+    "name": "Craft in Wood",
+    "trade": "fencer",
+    "sent_at": "2026-08-27T15:19:54.287526+10:00",
+    "followup_sent_at": null
+  },
+  "sunshinecoast@kentremovalsstorage.com.au": {
+    "name": "Kent Removals & Storage",
+    "trade": "removalist",
+    "sent_at": "2026-08-27T15:20:00.867629+10:00",
+    "followup_sent_at": null
+  },
+  "cafetalkhornsby22@gmail.com": {
+    "name": "Cafe Talk Nepalese Restaurant - Hornsby",
+    "trade": "restaurant",
+    "sent_at": "2026-08-27T15:20:07.448250+10:00",
+    "followup_sent_at": null
+  },
+  "sydney@goldenroast.com.au": {
+    "name": "Coast to Coast the Golden Roast (Sydney & Northern Beaches)",
+    "trade": "catering",
+    "sent_at": "2026-08-27T15:20:13.990082+10:00",
+    "followup_sent_at": null
+  },
+  "info@motivhealth.com.au": {
+    "name": "Motiv Health | Chiropractic, Massage & Rehab",
+    "trade": "chiropractor",
+    "sent_at": "2026-08-27T15:20:20.522989+10:00",
+    "followup_sent_at": null
+  },
+  "hello@berowraeyestudio.com.au": {
+    "name": "Berowra Eye Studio",
+    "trade": "optometrist",
+    "sent_at": "2026-08-27T15:20:27.172061+10:00",
     "followup_sent_at": null
   }
 }
