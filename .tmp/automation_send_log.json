@@ -1654,5 +1654,11 @@
     "trade": "optometrist",
     "sent_at": "2026-08-27T15:20:27.172061+10:00",
     "followup_sent_at": null
+  },
+  "adelaide@kentremovalsstorage.com.au": {
+    "name": "Kent Removals & Storage",
+    "trade": "removalist",
+    "sent_at": "2026-08-28T17:42:32.064956+10:00",
+    "followup_sent_at": null
   }
 }
