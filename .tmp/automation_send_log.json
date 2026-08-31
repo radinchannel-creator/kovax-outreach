@@ -1533,13 +1533,13 @@
     "name": "Kennards Self Storage Hornsby",
     "trade": "removalist",
     "sent_at": "2026-08-24T10:11:29.600338+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-31T11:55:12.495059+10:00"
   },
   "albury@kentremovalsstorage.com.au": {
     "name": "Kent Removals & Storage",
     "trade": "removalist",
     "sent_at": "2026-08-24T10:11:36.243802+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-08-31T11:55:19.196516+10:00"
   },
   "info@veritasquality.com": {
     "name": "Veritas Quality Consulting & Construction",
@@ -1671,6 +1671,18 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-29T14:57:46.762450+10:00",
+    "followup_sent_at": null
+  },
+  "canberra@kentremovalsstorage.com.au": {
+    "name": "Kent Removals & Storage",
+    "trade": "removalist",
+    "sent_at": "2026-08-31T11:54:58.169883+10:00",
+    "followup_sent_at": null
+  },
+  "chermside@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-08-31T11:55:05.028982+10:00",
     "followup_sent_at": null
   }
 }
