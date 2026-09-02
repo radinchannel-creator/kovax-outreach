@@ -1599,13 +1599,13 @@
     "name": "JB Removals",
     "trade": "removalist",
     "sent_at": "2026-08-26T10:29:39.020970+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-02T12:35:45.933117+10:00"
   },
   "estherbecchio@hotmail.com": {
     "name": "Yoga in Hornsby",
     "trade": "yoga studio",
     "sent_at": "2026-08-26T10:29:45.774706+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-02T12:35:52.658495+10:00"
   },
   "info@gdmelectrical.com.au": {
     "name": "GDM Electrical Local Electricians",
@@ -1683,6 +1683,12 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-31T11:55:05.028982+10:00",
+    "followup_sent_at": null
+  },
+  "sunshinecoast@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-09-02T12:35:38.848229+10:00",
     "followup_sent_at": null
   }
 }
