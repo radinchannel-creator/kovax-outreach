@@ -1690,5 +1690,23 @@
     "trade": "bakery",
     "sent_at": "2026-09-02T12:35:38.848229+10:00",
     "followup_sent_at": null
+  },
+  "razorbackconcreting@gmail.com": {
+    "name": "Razorback concreting & earthworks",
+    "trade": "concreter",
+    "sent_at": "2026-09-03T12:02:28.761427+10:00",
+    "followup_sent_at": null
+  },
+  "info@yourlocalroofers.com.au": {
+    "name": "Your Local Roofers",
+    "trade": "roofer",
+    "sent_at": "2026-09-03T12:02:35.313619+10:00",
+    "followup_sent_at": null
+  },
+  "info@kpest.com.au": {
+    "name": "Ku-Ring-Gai Pest Control",
+    "trade": "pest control",
+    "sent_at": "2026-09-03T12:02:41.818313+10:00",
+    "followup_sent_at": null
   }
 }
