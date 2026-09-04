@@ -1611,49 +1611,49 @@
     "name": "GDM Electrical Local Electricians",
     "trade": "electrician",
     "sent_at": "2026-08-27T15:19:41.022341+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-04T12:25:05.184673+10:00"
   },
   "info@roofingtoday.com.au": {
     "name": "Roofing Today of Cherrybrook",
     "trade": "roofer",
     "sent_at": "2026-08-27T15:19:47.661207+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-04T12:25:11.843995+10:00"
   },
   "fences@craftinwood.com.au": {
     "name": "Craft in Wood",
     "trade": "fencer",
     "sent_at": "2026-08-27T15:19:54.287526+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-04T12:25:18.443662+10:00"
   },
   "sunshinecoast@kentremovalsstorage.com.au": {
     "name": "Kent Removals & Storage",
     "trade": "removalist",
     "sent_at": "2026-08-27T15:20:00.867629+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-04T12:25:25.274901+10:00"
   },
   "cafetalkhornsby22@gmail.com": {
     "name": "Cafe Talk Nepalese Restaurant - Hornsby",
     "trade": "restaurant",
     "sent_at": "2026-08-27T15:20:07.448250+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-04T12:25:31.783501+10:00"
   },
   "sydney@goldenroast.com.au": {
     "name": "Coast to Coast the Golden Roast (Sydney & Northern Beaches)",
     "trade": "catering",
     "sent_at": "2026-08-27T15:20:13.990082+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-04T12:25:38.371671+10:00"
   },
   "info@motivhealth.com.au": {
     "name": "Motiv Health | Chiropractic, Massage & Rehab",
     "trade": "chiropractor",
     "sent_at": "2026-08-27T15:20:20.522989+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-04T12:25:44.878175+10:00"
   },
   "hello@berowraeyestudio.com.au": {
     "name": "Berowra Eye Studio",
     "trade": "optometrist",
     "sent_at": "2026-08-27T15:20:27.172061+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-04T12:25:51.448155+10:00"
   },
   "adelaide@kentremovalsstorage.com.au": {
     "name": "Kent Removals & Storage",
@@ -1707,6 +1707,12 @@
     "name": "Ku-Ring-Gai Pest Control",
     "trade": "pest control",
     "sent_at": "2026-09-03T12:02:41.818313+10:00",
+    "followup_sent_at": null
+  },
+  "info@wilsonspestcontrol.com.au": {
+    "name": "Wilson's Pest Control Sydney",
+    "trade": "pest control",
+    "sent_at": "2026-09-04T12:24:58.261901+10:00",
     "followup_sent_at": null
   }
 }
