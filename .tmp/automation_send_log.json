@@ -1665,13 +1665,13 @@
     "name": "Tilecraft Neutral Bay",
     "trade": "tiler",
     "sent_at": "2026-08-29T14:57:40.175289+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-06T11:43:38.185849+10:00"
   },
   "coomera@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-08-29T14:57:46.762450+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-06T11:43:44.929183+10:00"
   },
   "canberra@kentremovalsstorage.com.au": {
     "name": "Kent Removals & Storage",
@@ -1713,6 +1713,12 @@
     "name": "Wilson's Pest Control Sydney",
     "trade": "pest control",
     "sent_at": "2026-09-04T12:24:58.261901+10:00",
+    "followup_sent_at": null
+  },
+  "sales@jbremovals.com": {
+    "name": "JB Removals",
+    "trade": "removalist",
+    "sent_at": "2026-09-06T11:43:31.396855+10:00",
     "followup_sent_at": null
   }
 }
