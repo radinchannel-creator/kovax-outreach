@@ -1720,5 +1720,11 @@
     "trade": "removalist",
     "sent_at": "2026-09-06T11:43:31.396855+10:00",
     "followup_sent_at": null
+  },
+  "roseland@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-09-07T11:24:11.696207+10:00",
+    "followup_sent_at": null
   }
 }
