@@ -1726,5 +1726,17 @@
     "trade": "bakery",
     "sent_at": "2026-09-07T11:24:11.696207+10:00",
     "followup_sent_at": null
+  },
+  "nick@goodmeasure.net.au": {
+    "name": "Good Measure Carpentry",
+    "trade": "carpenter",
+    "sent_at": "2026-09-09T12:04:19.335195+10:00",
+    "followup_sent_at": null
+  },
+  "privatechef1@outlook.com": {
+    "name": "Private Chef Catering",
+    "trade": "catering",
+    "sent_at": "2026-09-09T12:04:26.036552+10:00",
+    "followup_sent_at": null
   }
 }
