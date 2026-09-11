@@ -1695,19 +1695,19 @@
     "name": "Razorback concreting & earthworks",
     "trade": "concreter",
     "sent_at": "2026-09-03T12:02:28.761427+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-11T12:08:35.839691+10:00"
   },
   "info@yourlocalroofers.com.au": {
     "name": "Your Local Roofers",
     "trade": "roofer",
     "sent_at": "2026-09-03T12:02:35.313619+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-11T12:08:42.416169+10:00"
   },
   "info@kpest.com.au": {
     "name": "Ku-Ring-Gai Pest Control",
     "trade": "pest control",
     "sent_at": "2026-09-03T12:02:41.818313+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-11T12:08:49.080364+10:00"
   },
   "info@wilsonspestcontrol.com.au": {
     "name": "Wilson's Pest Control Sydney",
@@ -1737,6 +1737,24 @@
     "name": "Private Chef Catering",
     "trade": "catering",
     "sent_at": "2026-09-09T12:04:26.036552+10:00",
+    "followup_sent_at": null
+  },
+  "info@blackwoodcarpentry.com.au": {
+    "name": "Blackwood Carpentry and Joinery Pty Ltd",
+    "trade": "carpenter",
+    "sent_at": "2026-09-11T12:08:15.604433+10:00",
+    "followup_sent_at": null
+  },
+  "stives@theopticalco.com.au": {
+    "name": "The Optical Co St Ives",
+    "trade": "optometrist",
+    "sent_at": "2026-09-11T12:08:22.251544+10:00",
+    "followup_sent_at": null
+  },
+  "hello@studioarise.com.au": {
+    "name": "Studio Arise",
+    "trade": "yoga studio",
+    "sent_at": "2026-09-11T12:08:28.855498+10:00",
     "followup_sent_at": null
   }
 }
