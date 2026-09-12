@@ -1713,7 +1713,7 @@
     "name": "Wilson's Pest Control Sydney",
     "trade": "pest control",
     "sent_at": "2026-09-04T12:24:58.261901+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-12T11:57:25.395317+10:00"
   },
   "sales@jbremovals.com": {
     "name": "JB Removals",
@@ -1755,6 +1755,18 @@
     "name": "Studio Arise",
     "trade": "yoga studio",
     "sent_at": "2026-09-11T12:08:28.855498+10:00",
+    "followup_sent_at": null
+  },
+  "prescriptions@chemistwarehouse.com.au": {
+    "name": "Chemist Warehouse Hornsby",
+    "trade": "pest control",
+    "sent_at": "2026-09-12T11:57:12.021335+10:00",
+    "followup_sent_at": null
+  },
+  "contact@pureformstudio.com.au": {
+    "name": "Pureform Studio",
+    "trade": "yoga studio",
+    "sent_at": "2026-09-12T11:57:18.568732+10:00",
     "followup_sent_at": null
   }
 }
