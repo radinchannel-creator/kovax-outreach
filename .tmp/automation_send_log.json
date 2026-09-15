@@ -1786,5 +1786,11 @@
     "trade": "bakery",
     "sent_at": "2026-09-14T11:52:05.436032+10:00",
     "followup_sent_at": null
+  },
+  "info@soulorigin.com.au": {
+    "name": "Soul Origin Hornsby",
+    "trade": "catering",
+    "sent_at": "2026-09-15T13:24:33.460996+10:00",
+    "followup_sent_at": null
   }
 }
