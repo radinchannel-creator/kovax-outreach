@@ -1773,7 +1773,7 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-09-13T11:45:42.012159+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-20T11:49:00.685143+10:00"
   },
   "sunshinecoast@goldenroast.com.au": {
     "name": "Golden Roast Catering Sunshine Coast & Gympie",
@@ -1809,6 +1809,12 @@
     "name": "Thornleigh Performance Physiotherapy",
     "trade": "physiotherapist",
     "sent_at": "2026-09-18T12:12:01.960199+10:00",
+    "followup_sent_at": null
+  },
+  "info@pestpowersydney.com.au": {
+    "name": "Pest Power Sydney | General Pest Control and Termite Treatment Specialist",
+    "trade": "pest control",
+    "sent_at": "2026-09-20T11:48:53.514080+10:00",
     "followup_sent_at": null
   }
 }
