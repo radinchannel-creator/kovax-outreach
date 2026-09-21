@@ -1816,5 +1816,11 @@
     "trade": "pest control",
     "sent_at": "2026-09-20T11:48:53.514080+10:00",
     "followup_sent_at": null
+  },
+  "admin@laissez.com.au": {
+    "name": "Laissez-Faire Catering",
+    "trade": "catering",
+    "sent_at": "2026-09-21T11:32:40.674069+10:00",
+    "followup_sent_at": null
   }
 }
