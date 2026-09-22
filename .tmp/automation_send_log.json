@@ -1779,13 +1779,13 @@
     "name": "Golden Roast Catering Sunshine Coast & Gympie",
     "trade": "catering",
     "sent_at": "2026-09-14T11:51:58.903262+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-22T12:36:47.126050+10:00"
   },
   "rousehill@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-09-14T11:52:05.436032+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-22T12:36:53.701289+10:00"
   },
   "info@soulorigin.com.au": {
     "name": "Soul Origin Hornsby",
@@ -1821,6 +1821,12 @@
     "name": "Laissez-Faire Catering",
     "trade": "catering",
     "sent_at": "2026-09-21T11:32:40.674069+10:00",
+    "followup_sent_at": null
+  },
+  "greenhills@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-09-22T12:36:40.282844+10:00",
     "followup_sent_at": null
   }
 }
