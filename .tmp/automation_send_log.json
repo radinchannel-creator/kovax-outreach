@@ -1828,5 +1828,17 @@
     "trade": "bakery",
     "sent_at": "2026-09-22T12:36:40.282844+10:00",
     "followup_sent_at": null
+  },
+  "ecq@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-09-24T12:15:16.790068+10:00",
+    "followup_sent_at": null
+  },
+  "admin@yogahotspot.com.au": {
+    "name": "Yoga Hotspot",
+    "trade": "yoga studio",
+    "sent_at": "2026-09-24T12:15:23.445233+10:00",
+    "followup_sent_at": null
   }
 }
