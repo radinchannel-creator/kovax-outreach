@@ -1846,5 +1846,11 @@
     "trade": "electrician",
     "sent_at": "2026-09-25T12:31:28.649306+10:00",
     "followup_sent_at": null
+  },
+  "info@pestcontrolservicesyd.com.au": {
+    "name": "Pest control service syd",
+    "trade": "pest control",
+    "sent_at": "2026-09-26T12:20:55.768398+10:00",
+    "followup_sent_at": null
   }
 }
