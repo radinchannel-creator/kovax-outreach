@@ -1815,7 +1815,7 @@
     "name": "Pest Power Sydney | General Pest Control and Termite Treatment Specialist",
     "trade": "pest control",
     "sent_at": "2026-09-20T11:48:53.514080+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-27T12:59:56.466480+10:00"
   },
   "admin@laissez.com.au": {
     "name": "Laissez-Faire Catering",
@@ -1851,6 +1851,24 @@
     "name": "Pest control service syd",
     "trade": "pest control",
     "sent_at": "2026-09-26T12:20:55.768398+10:00",
+    "followup_sent_at": null
+  },
+  "ivan@a2zcarpentryandmaintenance.com.au": {
+    "name": "A2Z Carpentry & Maintenance",
+    "trade": "carpenter",
+    "sent_at": "2026-09-27T12:59:35.867213+10:00",
+    "followup_sent_at": null
+  },
+  "sales@topremovals.com.au": {
+    "name": "Top Removals Sydney",
+    "trade": "removalist",
+    "sent_at": "2026-09-27T12:59:42.537555+10:00",
+    "followup_sent_at": null
+  },
+  "sales@fourseasonsnursery.com.au": {
+    "name": "Four Seasons Garden Centre - Mount Colah (The Plant Bug)",
+    "trade": "gardener",
+    "sent_at": "2026-09-27T12:59:49.222349+10:00",
     "followup_sent_at": null
   }
 }
