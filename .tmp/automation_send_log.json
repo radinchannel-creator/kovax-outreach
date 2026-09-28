@@ -1821,7 +1821,7 @@
     "name": "Laissez-Faire Catering",
     "trade": "catering",
     "sent_at": "2026-09-21T11:32:40.674069+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-09-28T12:08:58.297726+10:00"
   },
   "greenhills@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
@@ -1869,6 +1869,12 @@
     "name": "Four Seasons Garden Centre - Mount Colah (The Plant Bug)",
     "trade": "gardener",
     "sent_at": "2026-09-27T12:59:49.222349+10:00",
+    "followup_sent_at": null
+  },
+  "activefencing@bigpond.com": {
+    "name": "Active Fencing",
+    "trade": "fencer",
+    "sent_at": "2026-09-28T12:08:51.138034+10:00",
     "followup_sent_at": null
   }
 }
