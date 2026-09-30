@@ -1882,5 +1882,23 @@
     "trade": "beauty salon",
     "sent_at": "2026-09-29T13:28:38.902274+10:00",
     "followup_sent_at": null
+  },
+  "enquiries@hymix.com.au": {
+    "name": "Hymix - Thornleigh Concrete",
+    "trade": "concreter",
+    "sent_at": "2026-09-30T13:04:38.797271+10:00",
+    "followup_sent_at": null
+  },
+  "info@professionalcleanersnearme.com.au": {
+    "name": "Professional Cleaners Nearme",
+    "trade": "cleaner",
+    "sent_at": "2026-09-30T13:04:45.298130+10:00",
+    "followup_sent_at": null
+  },
+  "logan@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-09-30T13:04:52.070427+10:00",
+    "followup_sent_at": null
   }
 }
