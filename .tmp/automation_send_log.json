@@ -1833,13 +1833,13 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-09-24T12:15:16.790068+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-01T12:51:11.696154+10:00"
   },
   "admin@yogahotspot.com.au": {
     "name": "Yoga Hotspot",
     "trade": "yoga studio",
     "sent_at": "2026-09-24T12:15:23.445233+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-01T12:51:18.216117+10:00"
   },
   "admin@astleyelectrical.com.au": {
     "name": "ASTLEY ELECTRICAL",
@@ -1899,6 +1899,18 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-09-30T13:04:52.070427+10:00",
+    "followup_sent_at": null
+  },
+  "mm.joinery@hotmail.com": {
+    "name": "M&M Joinery",
+    "trade": "carpenter",
+    "sent_at": "2026-10-01T12:50:58.325474+10:00",
+    "followup_sent_at": null
+  },
+  "office@organicfoodmarkets.com.au": {
+    "name": "Hornsby Organic Food Market",
+    "trade": "catering",
+    "sent_at": "2026-10-01T12:51:04.885776+10:00",
     "followup_sent_at": null
   }
 }
