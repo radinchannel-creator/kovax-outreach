@@ -1845,7 +1845,7 @@
     "name": "ASTLEY ELECTRICAL",
     "trade": "electrician",
     "sent_at": "2026-09-25T12:31:28.649306+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-02T12:58:48.144705+10:00"
   },
   "info@pestcontrolservicesyd.com.au": {
     "name": "Pest control service syd",
@@ -1911,6 +1911,24 @@
     "name": "Hornsby Organic Food Market",
     "trade": "catering",
     "sent_at": "2026-10-01T12:51:04.885776+10:00",
+    "followup_sent_at": null
+  },
+  "info@northsiderailings.com.au": {
+    "name": "North Side Railings",
+    "trade": "fencer",
+    "sent_at": "2026-10-02T12:58:28.110366+10:00",
+    "followup_sent_at": null
+  },
+  "info@billysautomotiveservices.com.au": {
+    "name": "Billy's Automotive Services",
+    "trade": "panel beater",
+    "sent_at": "2026-10-02T12:58:34.673734+10:00",
+    "followup_sent_at": null
+  },
+  "toowoomba@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-10-02T12:58:41.242699+10:00",
     "followup_sent_at": null
   }
 }
