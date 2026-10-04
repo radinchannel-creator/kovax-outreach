@@ -1857,19 +1857,19 @@
     "name": "A2Z Carpentry & Maintenance",
     "trade": "carpenter",
     "sent_at": "2026-09-27T12:59:35.867213+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-04T14:15:53.616939+11:00"
   },
   "sales@topremovals.com.au": {
     "name": "Top Removals Sydney",
     "trade": "removalist",
     "sent_at": "2026-09-27T12:59:42.537555+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-04T14:16:00.407128+11:00"
   },
   "sales@fourseasonsnursery.com.au": {
     "name": "Four Seasons Garden Centre - Mount Colah (The Plant Bug)",
     "trade": "gardener",
     "sent_at": "2026-09-27T12:59:49.222349+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-04T14:16:07.081091+11:00"
   },
   "activefencing@bigpond.com": {
     "name": "Active Fencing",
@@ -1935,6 +1935,18 @@
     "name": "Best Buddy's Pet Care",
     "trade": "dog groomer",
     "sent_at": "2026-10-03T12:46:17.197548+10:00",
+    "followup_sent_at": null
+  },
+  "tuggerah@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-10-04T14:15:39.751363+11:00",
+    "followup_sent_at": null
+  },
+  "info@myotonephysio.com.au": {
+    "name": "Myotone Physiotherapy",
+    "trade": "physiotherapist",
+    "sent_at": "2026-10-04T14:15:46.486837+11:00",
     "followup_sent_at": null
   }
 }
