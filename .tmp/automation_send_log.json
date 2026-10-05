@@ -1875,7 +1875,7 @@
     "name": "Active Fencing",
     "trade": "fencer",
     "sent_at": "2026-09-28T12:08:51.138034+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-05T13:17:42.404053+11:00"
   },
   "info@indiantypefoundry.com": {
     "name": "Malgosha's Beauty",
@@ -1947,6 +1947,12 @@
     "name": "Myotone Physiotherapy",
     "trade": "physiotherapist",
     "sent_at": "2026-10-04T14:15:46.486837+11:00",
+    "followup_sent_at": null
+  },
+  "joel@jschiropractic.com.au": {
+    "name": "JS Chiropractic Wahroonga",
+    "trade": "chiropractor",
+    "sent_at": "2026-10-05T13:17:35.218962+11:00",
     "followup_sent_at": null
   }
 }
