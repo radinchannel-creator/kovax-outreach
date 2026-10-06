@@ -1881,7 +1881,7 @@
     "name": "Malgosha's Beauty",
     "trade": "beauty salon",
     "sent_at": "2026-09-29T13:28:38.902274+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-06T14:42:10.730119+11:00"
   },
   "enquiries@hymix.com.au": {
     "name": "Hymix - Thornleigh Concrete",
@@ -1953,6 +1953,24 @@
     "name": "JS Chiropractic Wahroonga",
     "trade": "chiropractor",
     "sent_at": "2026-10-05T13:17:35.218962+11:00",
+    "followup_sent_at": null
+  },
+  "info@2brothersremovals.com.au": {
+    "name": "Two Brothers Removals",
+    "trade": "removalist",
+    "sent_at": "2026-10-06T14:41:50.792397+11:00",
+    "followup_sent_at": null
+  },
+  "morayfield@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-10-06T14:41:57.413222+11:00",
+    "followup_sent_at": null
+  },
+  "customercare@hairhouse.com.au": {
+    "name": "Hairhouse Hornsby",
+    "trade": "hair salon",
+    "sent_at": "2026-10-06T14:42:03.925856+11:00",
     "followup_sent_at": null
   }
 }
