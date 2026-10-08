@@ -1887,31 +1887,31 @@
     "name": "Hymix - Thornleigh Concrete",
     "trade": "concreter",
     "sent_at": "2026-09-30T13:04:38.797271+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-08T14:28:53.904067+11:00"
   },
   "info@professionalcleanersnearme.com.au": {
     "name": "Professional Cleaners Nearme",
     "trade": "cleaner",
     "sent_at": "2026-09-30T13:04:45.298130+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-08T14:29:00.547924+11:00"
   },
   "logan@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-09-30T13:04:52.070427+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-08T14:29:07.164000+11:00"
   },
   "mm.joinery@hotmail.com": {
     "name": "M&M Joinery",
     "trade": "carpenter",
     "sent_at": "2026-10-01T12:50:58.325474+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-08T14:29:13.735836+11:00"
   },
   "office@organicfoodmarkets.com.au": {
     "name": "Hornsby Organic Food Market",
     "trade": "catering",
     "sent_at": "2026-10-01T12:51:04.885776+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-08T14:29:20.345655+11:00"
   },
   "info@northsiderailings.com.au": {
     "name": "North Side Railings",
@@ -1971,6 +1971,12 @@
     "name": "Hairhouse Hornsby",
     "trade": "hair salon",
     "sent_at": "2026-10-06T14:42:03.925856+11:00",
+    "followup_sent_at": null
+  },
+  "sales@leendertselectrical.com.au": {
+    "name": "Leenderts Electrical",
+    "trade": "electrician",
+    "sent_at": "2026-10-08T14:28:45.732807+11:00",
     "followup_sent_at": null
   }
 }
