@@ -1917,19 +1917,19 @@
     "name": "North Side Railings",
     "trade": "fencer",
     "sent_at": "2026-10-02T12:58:28.110366+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-09T14:44:26.046348+11:00"
   },
   "info@billysautomotiveservices.com.au": {
     "name": "Billy's Automotive Services",
     "trade": "panel beater",
     "sent_at": "2026-10-02T12:58:34.673734+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-09T14:44:32.615438+11:00"
   },
   "toowoomba@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-10-02T12:58:41.242699+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-09T14:44:42.412958+11:00"
   },
   "bestbuddys.contactus@gmail.com": {
     "name": "Best Buddy's Pet Care",
@@ -1977,6 +1977,18 @@
     "name": "Leenderts Electrical",
     "trade": "electrician",
     "sent_at": "2026-10-08T14:28:45.732807+11:00",
+    "followup_sent_at": null
+  },
+  "info@greenfoxmetals.com.au": {
+    "name": "Green Fox Metals",
+    "trade": "fencer",
+    "sent_at": "2026-10-09T14:44:12.537727+11:00",
+    "followup_sent_at": null
+  },
+  "canberra@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-10-09T14:44:19.132813+11:00",
     "followup_sent_at": null
   }
 }
