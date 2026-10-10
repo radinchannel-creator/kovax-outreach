@@ -1935,7 +1935,7 @@
     "name": "Best Buddy's Pet Care",
     "trade": "dog groomer",
     "sent_at": "2026-10-03T12:46:17.197548+10:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-10T14:05:24.760162+11:00"
   },
   "tuggerah@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
@@ -1989,6 +1989,30 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-10-09T14:44:19.132813+11:00",
+    "followup_sent_at": null
+  },
+  "danny@nhktiling.com.au": {
+    "name": "NHK Tiling",
+    "trade": "tiler",
+    "sent_at": "2026-10-10T14:04:57.569682+11:00",
+    "followup_sent_at": null
+  },
+  "admin@platinumtiling.com.au": {
+    "name": "Platinum Tiling Sydney",
+    "trade": "tiler",
+    "sent_at": "2026-10-10T14:05:04.325796+11:00",
+    "followup_sent_at": null
+  },
+  "admin@hornsbycarcare.com.au": {
+    "name": "Hornsby Car Care",
+    "trade": "mechanic",
+    "sent_at": "2026-10-10T14:05:10.978897+11:00",
+    "followup_sent_at": null
+  },
+  "misscakesydney@gmail.com": {
+    "name": "Misscake sydney",
+    "trade": "bakery",
+    "sent_at": "2026-10-10T14:05:17.639735+11:00",
     "followup_sent_at": null
   }
 }
