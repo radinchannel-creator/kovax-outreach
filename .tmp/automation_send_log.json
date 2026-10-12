@@ -1953,7 +1953,7 @@
     "name": "JS Chiropractic Wahroonga",
     "trade": "chiropractor",
     "sent_at": "2026-10-05T13:17:35.218962+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-12T13:41:52.567649+11:00"
   },
   "info@2brothersremovals.com.au": {
     "name": "Two Brothers Removals",
@@ -2013,6 +2013,42 @@
     "name": "Misscake sydney",
     "trade": "bakery",
     "sent_at": "2026-10-10T14:05:17.639735+11:00",
+    "followup_sent_at": null
+  },
+  "john@universalconcrete.com.au": {
+    "name": "Universal Concrete Construction Pty Ltd",
+    "trade": "concreter",
+    "sent_at": "2026-10-12T13:41:12.179756+11:00",
+    "followup_sent_at": null
+  },
+  "brothershundal@gmail.com": {
+    "name": "Hundal Brothers Removalist Sydney",
+    "trade": "removalist",
+    "sent_at": "2026-10-12T13:41:18.884403+11:00",
+    "followup_sent_at": null
+  },
+  "info@blondebutler.com.au": {
+    "name": "The Blonde Butler Catering",
+    "trade": "catering",
+    "sent_at": "2026-10-12T13:41:25.608063+11:00",
+    "followup_sent_at": null
+  },
+  "fabio@bespokecatering.net.au": {
+    "name": "Bespoke Catering Sydney",
+    "trade": "catering",
+    "sent_at": "2026-10-12T13:41:32.289126+11:00",
+    "followup_sent_at": null
+  },
+  "info@chapa.com.au": {
+    "name": "Chapa",
+    "trade": "catering",
+    "sent_at": "2026-10-12T13:41:39.056724+11:00",
+    "followup_sent_at": null
+  },
+  "plentish@finnandcocafe.com": {
+    "name": "Plentish Catering",
+    "trade": "catering",
+    "sent_at": "2026-10-12T13:41:45.642455+11:00",
     "followup_sent_at": null
   }
 }
