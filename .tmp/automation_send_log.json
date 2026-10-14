@@ -2092,5 +2092,23 @@
     "trade": "dentist",
     "sent_at": "2026-10-13T15:15:01.400637+11:00",
     "followup_sent_at": null
+  },
+  "info@toplinkauto.com.au": {
+    "name": "Toplink Auto and Smash Repairs Pty Ltd",
+    "trade": "panel beater",
+    "sent_at": "2026-10-14T13:35:01.201761+11:00",
+    "followup_sent_at": null
+  },
+  "krazybird0306@gmail.com": {
+    "name": "Krazy Bird Hornsby",
+    "trade": "restaurant",
+    "sent_at": "2026-10-14T13:35:08.279669+11:00",
+    "followup_sent_at": null
+  },
+  "wilkinsbarbell@gmail.com": {
+    "name": "WilkinsBarbell High Intensity Power Training",
+    "trade": "gym",
+    "sent_at": "2026-10-14T13:35:16.365651+11:00",
+    "followup_sent_at": null
   }
 }
