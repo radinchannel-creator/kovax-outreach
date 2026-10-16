@@ -1977,7 +1977,7 @@
     "name": "Leenderts Electrical",
     "trade": "electrician",
     "sent_at": "2026-10-08T14:28:45.732807+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-16T12:56:41.671174+11:00"
   },
   "info@greenfoxmetals.com.au": {
     "name": "Green Fox Metals",
@@ -2109,6 +2109,12 @@
     "name": "WilkinsBarbell High Intensity Power Training",
     "trade": "gym",
     "sent_at": "2026-10-14T13:35:16.365651+11:00",
+    "followup_sent_at": null
+  },
+  "workshop@mdautotech.com.au": {
+    "name": "MD Autotech",
+    "trade": "mechanic",
+    "sent_at": "2026-10-16T12:56:34.657089+11:00",
     "followup_sent_at": null
   }
 }
