@@ -1995,25 +1995,25 @@
     "name": "NHK Tiling",
     "trade": "tiler",
     "sent_at": "2026-10-10T14:04:57.569682+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-18T12:40:26.250625+11:00"
   },
   "admin@platinumtiling.com.au": {
     "name": "Platinum Tiling Sydney",
     "trade": "tiler",
     "sent_at": "2026-10-10T14:05:04.325796+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-18T12:40:33.147878+11:00"
   },
   "admin@hornsbycarcare.com.au": {
     "name": "Hornsby Car Care",
     "trade": "mechanic",
     "sent_at": "2026-10-10T14:05:10.978897+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-18T12:40:39.688180+11:00"
   },
   "misscakesydney@gmail.com": {
     "name": "Misscake sydney",
     "trade": "bakery",
     "sent_at": "2026-10-10T14:05:17.639735+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-18T12:40:46.648007+11:00"
   },
   "john@universalconcrete.com.au": {
     "name": "Universal Concrete Construction Pty Ltd",
@@ -2115,6 +2115,24 @@
     "name": "MD Autotech",
     "trade": "mechanic",
     "sent_at": "2026-10-16T12:56:34.657089+11:00",
+    "followup_sent_at": null
+  },
+  "admin@sydneybeyondfencing.com.au": {
+    "name": "Sydney Beyond Fencing Club",
+    "trade": "fencer",
+    "sent_at": "2026-10-18T12:40:05.445449+11:00",
+    "followup_sent_at": null
+  },
+  "hello@bettercleaning.solutions": {
+    "name": "Better Home Cleaning Services Northern Sydney",
+    "trade": "cleaning service",
+    "sent_at": "2026-10-18T12:40:12.032721+11:00",
+    "followup_sent_at": null
+  },
+  "jamieskitchen2065@gmail.com": {
+    "name": "Jamie's Kitchen Coffee and Food",
+    "trade": "cafe",
+    "sent_at": "2026-10-18T12:40:19.020133+11:00",
     "followup_sent_at": null
   }
 }
