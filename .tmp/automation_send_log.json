@@ -2019,37 +2019,37 @@
     "name": "Universal Concrete Construction Pty Ltd",
     "trade": "concreter",
     "sent_at": "2026-10-12T13:41:12.179756+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-20T13:28:53.232873+11:00"
   },
   "brothershundal@gmail.com": {
     "name": "Hundal Brothers Removalist Sydney",
     "trade": "removalist",
     "sent_at": "2026-10-12T13:41:18.884403+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-20T13:28:59.876773+11:00"
   },
   "info@blondebutler.com.au": {
     "name": "The Blonde Butler Catering",
     "trade": "catering",
     "sent_at": "2026-10-12T13:41:25.608063+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-20T13:29:06.472048+11:00"
   },
   "fabio@bespokecatering.net.au": {
     "name": "Bespoke Catering Sydney",
     "trade": "catering",
     "sent_at": "2026-10-12T13:41:32.289126+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-20T13:29:13.115331+11:00"
   },
   "info@chapa.com.au": {
     "name": "Chapa",
     "trade": "catering",
     "sent_at": "2026-10-12T13:41:39.056724+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-20T13:29:19.703895+11:00"
   },
   "plentish@finnandcocafe.com": {
     "name": "Plentish Catering",
     "trade": "catering",
     "sent_at": "2026-10-12T13:41:45.642455+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-20T13:29:26.390535+11:00"
   },
   "zach@terraconcivil.com.au": {
     "name": "Terracon Civil - Shotcrete",
@@ -2133,6 +2133,18 @@
     "name": "Jamie's Kitchen Coffee and Food",
     "trade": "cafe",
     "sent_at": "2026-10-18T12:40:19.020133+11:00",
+    "followup_sent_at": null
+  },
+  "2900-aush@holcim.com": {
+    "name": "Holcim Australia - Hornsby Concrete",
+    "trade": "concreter",
+    "sent_at": "2026-10-20T13:28:39.599786+11:00",
+    "followup_sent_at": null
+  },
+  "thornleigh@anytimefitness.com.au": {
+    "name": "Anytime Fitness Thornleigh",
+    "trade": "gym",
+    "sent_at": "2026-10-20T13:28:46.275646+11:00",
     "followup_sent_at": null
   }
 }
