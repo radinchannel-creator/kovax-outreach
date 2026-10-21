@@ -2055,43 +2055,43 @@
     "name": "Terracon Civil - Shotcrete",
     "trade": "concreter",
     "sent_at": "2026-10-13T15:14:21.005589+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-21T13:12:21.421072+11:00"
   },
   "info@hornsbysmash.com.au": {
     "name": "Hornsby Smash & Panel",
     "trade": "panel beater",
     "sent_at": "2026-10-13T15:14:27.900765+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-21T13:12:28.170020+11:00"
   },
   "jamesquealyofg@gmail.com": {
     "name": "Organic Food Gardens",
     "trade": "gardener",
     "sent_at": "2026-10-13T15:14:34.647997+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-21T13:12:34.745969+11:00"
   },
   "events@thevintagesecretgarden.com.au": {
     "name": "The Vintage Secret Garden",
     "trade": "restaurant",
     "sent_at": "2026-10-13T15:14:41.189024+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-21T13:12:41.345545+11:00"
   },
   "info@oyaraa.com.au": {
     "name": "O'Yaraa - Original Grilled Chicken",
     "trade": "restaurant",
     "sent_at": "2026-10-13T15:14:47.996808+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-21T13:12:48.186720+11:00"
   },
   "info@allsmilesdentistry.com.au": {
     "name": "All Smiles Dentistry | Dentist in Hornsby Area",
     "trade": "dentist",
     "sent_at": "2026-10-13T15:14:54.763709+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-21T13:12:54.928113+11:00"
   },
   "info@hornsbyorthodontics.com.au": {
     "name": "Hornsby Orthodontics",
     "trade": "dentist",
     "sent_at": "2026-10-13T15:15:01.400637+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-21T13:13:01.684536+11:00"
   },
   "info@toplinkauto.com.au": {
     "name": "Toplink Auto and Smash Repairs Pty Ltd",
@@ -2145,6 +2145,18 @@
     "name": "Anytime Fitness Thornleigh",
     "trade": "gym",
     "sent_at": "2026-10-20T13:28:46.275646+11:00",
+    "followup_sent_at": null
+  },
+  "info@binethomes.com.au": {
+    "name": "BINET HOMES Builders & Designers",
+    "trade": "builder",
+    "sent_at": "2026-10-21T13:12:06.303052+11:00",
+    "followup_sent_at": null
+  },
+  "info@hornsby-beekeeping.com": {
+    "name": "Hornsby Beekeeping Supplies",
+    "trade": "pest control",
+    "sent_at": "2026-10-21T13:12:13.042526+11:00",
     "followup_sent_at": null
   }
 }
