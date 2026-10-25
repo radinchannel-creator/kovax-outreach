@@ -2121,19 +2121,19 @@
     "name": "Sydney Beyond Fencing Club",
     "trade": "fencer",
     "sent_at": "2026-10-18T12:40:05.445449+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-25T12:49:20.889664+11:00"
   },
   "hello@bettercleaning.solutions": {
     "name": "Better Home Cleaning Services Northern Sydney",
     "trade": "cleaning service",
     "sent_at": "2026-10-18T12:40:12.032721+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-25T12:49:27.519722+11:00"
   },
   "jamieskitchen2065@gmail.com": {
     "name": "Jamie's Kitchen Coffee and Food",
     "trade": "cafe",
     "sent_at": "2026-10-18T12:40:19.020133+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-25T12:49:34.382462+11:00"
   },
   "2900-aush@holcim.com": {
     "name": "Holcim Australia - Hornsby Concrete",
@@ -2157,6 +2157,12 @@
     "name": "Hornsby Beekeeping Supplies",
     "trade": "pest control",
     "sent_at": "2026-10-21T13:12:13.042526+11:00",
+    "followup_sent_at": null
+  },
+  "info@diagridconstructions.com.au": {
+    "name": "Diagrid Constructions and Joinery",
+    "trade": "carpenter",
+    "sent_at": "2026-10-25T12:49:13.921565+11:00",
     "followup_sent_at": null
   }
 }
