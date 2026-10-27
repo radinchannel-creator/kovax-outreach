@@ -2139,13 +2139,13 @@
     "name": "Holcim Australia - Hornsby Concrete",
     "trade": "concreter",
     "sent_at": "2026-10-20T13:28:39.599786+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-27T13:47:32.684120+11:00"
   },
   "thornleigh@anytimefitness.com.au": {
     "name": "Anytime Fitness Thornleigh",
     "trade": "gym",
     "sent_at": "2026-10-20T13:28:46.275646+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-27T13:47:39.579675+11:00"
   },
   "info@binethomes.com.au": {
     "name": "BINET HOMES Builders & Designers",
@@ -2163,6 +2163,114 @@
     "name": "Diagrid Constructions and Joinery",
     "trade": "carpenter",
     "sent_at": "2026-10-25T12:49:13.921565+11:00",
+    "followup_sent_at": null
+  },
+  "craig.becchio@gmail.com": {
+    "name": "Becchio Building Services - Local Builders in Hornsby",
+    "trade": "builder",
+    "sent_at": "2026-10-27T13:45:33.241016+11:00",
+    "followup_sent_at": null
+  },
+  "enquiry@turrell.com.au": {
+    "name": "Turrell Building",
+    "trade": "builder",
+    "sent_at": "2026-10-27T13:45:39.742883+11:00",
+    "followup_sent_at": null
+  },
+  "fagan@ptpcarpentry.com.au": {
+    "name": "Point to Point Carpentry and Building Services Pty Ltd",
+    "trade": "carpenter",
+    "sent_at": "2026-10-27T13:45:46.358741+11:00",
+    "followup_sent_at": null
+  },
+  "info@lclandscaping.com.au": {
+    "name": "Lifestyle Concepts Landscaping",
+    "trade": "landscaper",
+    "sent_at": "2026-10-27T13:45:52.856280+11:00",
+    "followup_sent_at": null
+  },
+  "tyler@trtiling.com": {
+    "name": "TR Tiling Pty Ltd",
+    "trade": "tiler",
+    "sent_at": "2026-10-27T13:45:59.424701+11:00",
+    "followup_sent_at": null
+  },
+  "info@hsauto.com.au": {
+    "name": "Hunter Street Automotive",
+    "trade": "mechanic",
+    "sent_at": "2026-10-27T13:46:05.924035+11:00",
+    "followup_sent_at": null
+  },
+  "info@pestelite.com.au": {
+    "name": "Pest Elite",
+    "trade": "pest control",
+    "sent_at": "2026-10-27T13:46:12.484123+11:00",
+    "followup_sent_at": null
+  },
+  "info@totallybright.com.au": {
+    "name": "Totally Bright - House Cleaning Sydney",
+    "trade": "cleaner",
+    "sent_at": "2026-10-27T13:46:19.377738+11:00",
+    "followup_sent_at": null
+  },
+  "info@lindusdrycleaners.com.au": {
+    "name": "Lindus Dry Cleaners",
+    "trade": "cleaner",
+    "sent_at": "2026-10-27T13:46:25.944712+11:00",
+    "followup_sent_at": null
+  },
+  "queensofcleans6@gmail.com": {
+    "name": "Queens Of Cleans",
+    "trade": "cleaner",
+    "sent_at": "2026-10-27T13:46:32.482384+11:00",
+    "followup_sent_at": null
+  },
+  "info@aussie-cleaning.com.au": {
+    "name": "Aussie Cleaning",
+    "trade": "cleaning service",
+    "sent_at": "2026-10-27T13:46:39.018734+11:00",
+    "followup_sent_at": null
+  },
+  "bondcleaning2019@gmail.com": {
+    "name": "Bond Cleaning",
+    "trade": "cleaning service",
+    "sent_at": "2026-10-27T13:46:45.602951+11:00",
+    "followup_sent_at": null
+  },
+  "hello@greenvibegardening.com.au": {
+    "name": "Green Vibe Gardening",
+    "trade": "gardener",
+    "sent_at": "2026-10-27T13:46:52.361668+11:00",
+    "followup_sent_at": null
+  },
+  "info@vivanacafe.com.au": {
+    "name": "Vivana Cafe",
+    "trade": "cafe",
+    "sent_at": "2026-10-27T13:46:58.960170+11:00",
+    "followup_sent_at": null
+  },
+  "hello@thevintagekitchen.com.au": {
+    "name": "The Vintage Kitchen",
+    "trade": "catering",
+    "sent_at": "2026-10-27T13:47:05.473285+11:00",
+    "followup_sent_at": null
+  },
+  "info@breadtop.com.au": {
+    "name": "Breadtop Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-10-27T13:47:12.121414+11:00",
+    "followup_sent_at": null
+  },
+  "info@littlespines.com.au": {
+    "name": "Little Spines - Hornsby Chiropractor for Children and Families",
+    "trade": "chiropractor",
+    "sent_at": "2026-10-27T13:47:18.629335+11:00",
+    "followup_sent_at": null
+  },
+  "info@soulbay.com.au": {
+    "name": "Soul Bay Strength Training",
+    "trade": "gym",
+    "sent_at": "2026-10-27T13:47:25.385488+11:00",
     "followup_sent_at": null
   }
 }
