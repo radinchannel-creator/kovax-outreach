@@ -2151,13 +2151,13 @@
     "name": "BINET HOMES Builders & Designers",
     "trade": "builder",
     "sent_at": "2026-10-21T13:12:06.303052+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-28T13:50:16.564486+11:00"
   },
   "info@hornsby-beekeeping.com": {
     "name": "Hornsby Beekeeping Supplies",
     "trade": "pest control",
     "sent_at": "2026-10-21T13:12:13.042526+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-10-28T13:50:23.400642+11:00"
   },
   "info@diagridconstructions.com.au": {
     "name": "Diagrid Constructions and Joinery",
@@ -2271,6 +2271,18 @@
     "name": "Soul Bay Strength Training",
     "trade": "gym",
     "sent_at": "2026-10-27T13:47:25.385488+11:00",
+    "followup_sent_at": null
+  },
+  "sydneynorthwest@gjgardner.com.au": {
+    "name": "G.J. Gardner Homes - Sydney North West (Dural)",
+    "trade": "builder",
+    "sent_at": "2026-10-28T13:50:02.716837+11:00",
+    "followup_sent_at": null
+  },
+  "hornsby@conditn.com": {
+    "name": "CONDITN. Training Hornsby",
+    "trade": "gym",
+    "sent_at": "2026-10-28T13:50:09.473756+11:00",
     "followup_sent_at": null
   }
 }
