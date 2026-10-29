@@ -2284,5 +2284,17 @@
     "trade": "gym",
     "sent_at": "2026-10-28T13:50:09.473756+11:00",
     "followup_sent_at": null
+  },
+  "help@koreancleaners.com.au": {
+    "name": "Korean Cleaners",
+    "trade": "cleaner",
+    "sent_at": "2026-10-29T14:14:45.333445+11:00",
+    "followup_sent_at": null
+  },
+  "secretary@handtherapyhornsby.com": {
+    "name": "Hand Therapy at Hornsby",
+    "trade": "physiotherapist",
+    "sent_at": "2026-10-29T14:14:52.096070+11:00",
+    "followup_sent_at": null
   }
 }
