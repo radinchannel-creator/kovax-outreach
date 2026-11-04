@@ -2277,13 +2277,13 @@
     "name": "G.J. Gardner Homes - Sydney North West (Dural)",
     "trade": "builder",
     "sent_at": "2026-10-28T13:50:02.716837+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-04T14:48:21.879104+11:00"
   },
   "hornsby@conditn.com": {
     "name": "CONDITN. Training Hornsby",
     "trade": "gym",
     "sent_at": "2026-10-28T13:50:09.473756+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-04T14:48:28.547846+11:00"
   },
   "help@koreancleaners.com.au": {
     "name": "Korean Cleaners",
@@ -2301,6 +2301,12 @@
     "name": "Oceanside Concreting",
     "trade": "concreter",
     "sent_at": "2026-11-01T13:46:11.563636+11:00",
+    "followup_sent_at": null
+  },
+  "macarthur@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-11-04T14:48:14.897230+11:00",
     "followup_sent_at": null
   }
 }
