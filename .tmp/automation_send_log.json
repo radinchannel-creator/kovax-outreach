@@ -2289,13 +2289,13 @@
     "name": "Korean Cleaners",
     "trade": "cleaner",
     "sent_at": "2026-10-29T14:14:45.333445+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-05T15:11:23.837882+11:00"
   },
   "secretary@handtherapyhornsby.com": {
     "name": "Hand Therapy at Hornsby",
     "trade": "physiotherapist",
     "sent_at": "2026-10-29T14:14:52.096070+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-05T15:11:30.390761+11:00"
   },
   "oceanside@live.com.au": {
     "name": "Oceanside Concreting",
@@ -2307,6 +2307,24 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-11-04T14:48:14.897230+11:00",
+    "followup_sent_at": null
+  },
+  "info@centralcoastlocksmiths.com.au": {
+    "name": "Central Coast Locksmiths",
+    "trade": "locksmith",
+    "sent_at": "2026-11-05T15:11:03.935963+11:00",
+    "followup_sent_at": null
+  },
+  "sales@axcesslocksmiths.com": {
+    "name": "Axcess Locksmiths | Safes Sydney | Emergency Locksmiths",
+    "trade": "locksmith",
+    "sent_at": "2026-11-05T15:11:10.562060+11:00",
+    "followup_sent_at": null
+  },
+  "contact@vanillablue.com.au": {
+    "name": "Vanilla Blue Catering & Events",
+    "trade": "catering",
+    "sent_at": "2026-11-05T15:11:17.113812+11:00",
     "followup_sent_at": null
   }
 }
