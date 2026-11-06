@@ -2326,5 +2326,11 @@
     "trade": "catering",
     "sent_at": "2026-11-05T15:11:17.113812+11:00",
     "followup_sent_at": null
+  },
+  "sales@dhursanconstruction.com.au": {
+    "name": "Dhursan Construction Pty Ltd",
+    "trade": "builder",
+    "sent_at": "2026-11-06T15:02:42.604729+11:00",
+    "followup_sent_at": null
   }
 }
