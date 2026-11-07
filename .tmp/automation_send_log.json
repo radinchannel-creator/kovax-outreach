@@ -2332,5 +2332,29 @@
     "trade": "builder",
     "sent_at": "2026-11-06T15:02:42.604729+11:00",
     "followup_sent_at": null
+  },
+  "sales@aussinlivings.com": {
+    "name": "AUSSIN LIVING SPACES",
+    "trade": "builder",
+    "sent_at": "2026-11-07T14:36:16.745379+11:00",
+    "followup_sent_at": null
+  },
+  "admin@westleighdental.com.au": {
+    "name": "Westleigh Dental - Dr Bruce Chong & Dr Mark Chong",
+    "trade": "dentist",
+    "sent_at": "2026-11-07T14:36:23.625977+11:00",
+    "followup_sent_at": null
+  },
+  "mountcolah@anytimefitness.com.au": {
+    "name": "Anytime Fitness Mount Colah",
+    "trade": "gym",
+    "sent_at": "2026-11-07T14:36:30.765688+11:00",
+    "followup_sent_at": null
+  },
+  "hornsby@peto.com.au": {
+    "name": "PetO Hornsby",
+    "trade": "dog groomer",
+    "sent_at": "2026-11-07T14:36:38.019628+11:00",
+    "followup_sent_at": null
   }
 }
