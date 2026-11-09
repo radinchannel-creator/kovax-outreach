@@ -2374,5 +2374,11 @@
     "trade": "bakery",
     "sent_at": "2026-11-08T14:08:52.704754+11:00",
     "followup_sent_at": null
+  },
+  "johngranataoptometrist@gmail.com": {
+    "name": "John Granata Optometrists",
+    "trade": "optometrist",
+    "sent_at": "2026-11-09T14:06:43.915469+11:00",
+    "followup_sent_at": null
   }
 }
