@@ -2380,5 +2380,17 @@
     "trade": "optometrist",
     "sent_at": "2026-11-09T14:06:43.915469+11:00",
     "followup_sent_at": null
+  },
+  "info@littlesparrow.com": {
+    "name": "Little Sparrow Melbourne",
+    "trade": "cafe",
+    "sent_at": "2026-11-10T16:19:45.655997+11:00",
+    "followup_sent_at": null
+  },
+  "enquiries@studioartes.org.au": {
+    "name": "Studio ARTES",
+    "trade": "yoga studio",
+    "sent_at": "2026-11-10T16:19:52.514249+11:00",
+    "followup_sent_at": null
   }
 }
