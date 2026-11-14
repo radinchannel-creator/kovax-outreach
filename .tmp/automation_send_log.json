@@ -2337,25 +2337,25 @@
     "name": "AUSSIN LIVING SPACES",
     "trade": "builder",
     "sent_at": "2026-11-07T14:36:16.745379+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-14T14:55:43.319564+11:00"
   },
   "admin@westleighdental.com.au": {
     "name": "Westleigh Dental - Dr Bruce Chong & Dr Mark Chong",
     "trade": "dentist",
     "sent_at": "2026-11-07T14:36:23.625977+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-14T14:55:49.869641+11:00"
   },
   "mountcolah@anytimefitness.com.au": {
     "name": "Anytime Fitness Mount Colah",
     "trade": "gym",
     "sent_at": "2026-11-07T14:36:30.765688+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-14T14:55:56.601136+11:00"
   },
   "hornsby@peto.com.au": {
     "name": "PetO Hornsby",
     "trade": "dog groomer",
     "sent_at": "2026-11-07T14:36:38.019628+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-14T14:56:03.250621+11:00"
   },
   "admin@hornsbylandscaping.com": {
     "name": "Hornsby Landscaping",
@@ -2409,6 +2409,18 @@
     "name": "Blastworx Exterior Cleaning",
     "trade": "cleaner",
     "sent_at": "2026-11-12T15:29:18.728561+11:00",
+    "followup_sent_at": null
+  },
+  "wombatpowerservices@gmail.com": {
+    "name": "Wombat Power Services",
+    "trade": "electrician",
+    "sent_at": "2026-11-14T14:55:29.257222+11:00",
+    "followup_sent_at": null
+  },
+  "info@theheritagehouse.com.au": {
+    "name": "The Heritage House",
+    "trade": "restaurant",
+    "sent_at": "2026-11-14T14:55:36.022949+11:00",
     "followup_sent_at": null
   }
 }
