@@ -2379,7 +2379,7 @@
     "name": "John Granata Optometrists",
     "trade": "optometrist",
     "sent_at": "2026-11-09T14:06:43.915469+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-16T14:21:00.883967+11:00"
   },
   "info@littlesparrow.com": {
     "name": "Little Sparrow Melbourne",
@@ -2421,6 +2421,18 @@
     "name": "The Heritage House",
     "trade": "restaurant",
     "sent_at": "2026-11-14T14:55:36.022949+11:00",
+    "followup_sent_at": null
+  },
+  "info@nicsonsconcrete.com.au": {
+    "name": "Nicsons Concrete",
+    "trade": "concreter",
+    "sent_at": "2026-11-16T14:20:47.040572+11:00",
+    "followup_sent_at": null
+  },
+  "info@propluspestcontrol.com.au": {
+    "name": "Pro Plus Termite & Pest Control",
+    "trade": "pest control",
+    "sent_at": "2026-11-16T14:20:53.801476+11:00",
     "followup_sent_at": null
   }
 }
