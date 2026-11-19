@@ -2403,13 +2403,13 @@
     "name": "Metro Laundromats",
     "trade": "cleaner",
     "sent_at": "2026-11-12T15:29:11.980850+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-19T15:56:05.534861+11:00"
   },
   "blastworxx@gmail.com": {
     "name": "Blastworx Exterior Cleaning",
     "trade": "cleaner",
     "sent_at": "2026-11-12T15:29:18.728561+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-19T15:56:11.911624+11:00"
   },
   "wombatpowerservices@gmail.com": {
     "name": "Wombat Power Services",
@@ -2445,6 +2445,12 @@
     "name": "Cafe Patina",
     "trade": "cafe",
     "sent_at": "2026-11-18T16:00:05.125387+11:00",
+    "followup_sent_at": null
+  },
+  "sunshineplaza@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-11-19T15:55:58.635697+11:00",
     "followup_sent_at": null
   }
 }
