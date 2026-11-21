@@ -2415,13 +2415,13 @@
     "name": "Wombat Power Services",
     "trade": "electrician",
     "sent_at": "2026-11-14T14:55:29.257222+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-21T15:36:12.166287+11:00"
   },
   "info@theheritagehouse.com.au": {
     "name": "The Heritage House",
     "trade": "restaurant",
     "sent_at": "2026-11-14T14:55:36.022949+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-21T15:36:18.644884+11:00"
   },
   "info@nicsonsconcrete.com.au": {
     "name": "Nicsons Concrete",
@@ -2451,6 +2451,18 @@
     "name": "Brooklyn Donuts Hornsby",
     "trade": "bakery",
     "sent_at": "2026-11-19T15:55:58.635697+11:00",
+    "followup_sent_at": null
+  },
+  "contact@roofernearme.com.au": {
+    "name": "Roofer Near Me - Roof Repair Sydney",
+    "trade": "roofer",
+    "sent_at": "2026-11-21T15:35:58.880983+11:00",
+    "followup_sent_at": null
+  },
+  "hello@housed.com.au": {
+    "name": "Housed Thornleigh",
+    "trade": "gym",
+    "sent_at": "2026-11-21T15:36:05.386477+11:00",
     "followup_sent_at": null
   }
 }
