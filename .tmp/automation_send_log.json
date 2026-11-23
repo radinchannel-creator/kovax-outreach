@@ -2427,13 +2427,13 @@
     "name": "Nicsons Concrete",
     "trade": "concreter",
     "sent_at": "2026-11-16T14:20:47.040572+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-23T15:17:52.453435+11:00"
   },
   "info@propluspestcontrol.com.au": {
     "name": "Pro Plus Termite & Pest Control",
     "trade": "pest control",
     "sent_at": "2026-11-16T14:20:53.801476+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-23T15:17:58.930952+11:00"
   },
   "contact@hornsbyroofingsolutions.xyz": {
     "name": "Hornsby Roofing Solutions",
@@ -2463,6 +2463,18 @@
     "name": "Housed Thornleigh",
     "trade": "gym",
     "sent_at": "2026-11-21T15:36:05.386477+11:00",
+    "followup_sent_at": null
+  },
+  "hornsby_hts_sc@bigpond.com": {
+    "name": "Hornsby Heights Service Centre",
+    "trade": "mechanic",
+    "sent_at": "2026-11-23T15:17:39.091080+11:00",
+    "followup_sent_at": null
+  },
+  "info@handhcatering.com.au": {
+    "name": "H&H Catering",
+    "trade": "catering",
+    "sent_at": "2026-11-23T15:17:45.501462+11:00",
     "followup_sent_at": null
   }
 }
