@@ -2439,7 +2439,7 @@
     "name": "Hornsby Roofing Solutions",
     "trade": "roofer",
     "sent_at": "2026-11-17T16:51:53.312069+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-24T18:50:01.291263+11:00"
   },
   "website@wahroongabakehouse.com.au": {
     "name": "Cafe Patina",
@@ -2475,6 +2475,18 @@
     "name": "H&H Catering",
     "trade": "catering",
     "sent_at": "2026-11-23T15:17:45.501462+11:00",
+    "followup_sent_at": null
+  },
+  "info@paintingbydon.com.au": {
+    "name": "Painting by Don",
+    "trade": "painter",
+    "sent_at": "2026-11-24T18:49:48.016904+11:00",
+    "followup_sent_at": null
+  },
+  "hello@tidalphysioperformance.com": {
+    "name": "Tidal Physiotherapy and Performance",
+    "trade": "physiotherapist",
+    "sent_at": "2026-11-24T18:49:54.440516+11:00",
     "followup_sent_at": null
   }
 }
