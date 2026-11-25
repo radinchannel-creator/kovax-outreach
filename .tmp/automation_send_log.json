@@ -2445,7 +2445,7 @@
     "name": "Cafe Patina",
     "trade": "cafe",
     "sent_at": "2026-11-18T16:00:05.125387+11:00",
-    "followup_sent_at": null
+    "followup_sent_at": "2026-11-25T17:07:31.080647+11:00"
   },
   "sunshineplaza@bdcc.com.au": {
     "name": "Brooklyn Donuts Hornsby",
@@ -2487,6 +2487,12 @@
     "name": "Tidal Physiotherapy and Performance",
     "trade": "physiotherapist",
     "sent_at": "2026-11-24T18:49:54.440516+11:00",
+    "followup_sent_at": null
+  },
+  "%20hornsbyclinic@opt.net.au": {
+    "name": "Optimum Health Solutions - Hornsby",
+    "trade": "physiotherapist",
+    "sent_at": "2026-11-25T17:07:24.276935+11:00",
     "followup_sent_at": null
   }
 }
