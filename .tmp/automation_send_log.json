@@ -2518,5 +2518,17 @@
     "trade": "gym",
     "sent_at": "2026-11-26T16:43:08.994382+11:00",
     "followup_sent_at": null
+  },
+  "gerarddallow1@gmail.com": {
+    "name": "Micropest Pest Control Sydney",
+    "trade": "pest control",
+    "sent_at": "2026-11-27T17:00:41.472577+11:00",
+    "followup_sent_at": null
+  },
+  "toowong@bdcc.com.au": {
+    "name": "Brooklyn Donuts Hornsby",
+    "trade": "bakery",
+    "sent_at": "2026-11-27T17:00:48.011910+11:00",
+    "followup_sent_at": null
   }
 }
